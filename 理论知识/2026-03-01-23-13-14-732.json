@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-01-23-13-14-732",
+  "cls": "生物化学",
+  "unit": "六、生物氧化",
+  "mode": "单选题-A1型题",
+  "test": "NADH氧化呼吸链不含有",
+  "option": [
+    "A. Cytc1",
+    "B. CoQ",
+    "C. FAD",
+    "D. Cytb",
+    "E. CuA"
+  ],
+  "answer": "C",
+  "nine_point": "",
+  "ten_point": "（10版生物化学与分子生物学P201）<img>“图10-9 电子传递链的组成示意图”（C对）。",
+  "discuss": "FAD是琥珀酸氧化呼吸链中的一个关键成分，而不是NADH氧化呼吸链的组成部分。NADH氧化呼吸链主要包括NADH、FMN、CoQ、Cytb、Cytc1、Cytaa3等组分。Cytc1是NADH氧化呼吸链的一部分，位于复合物Ⅲ中，负责电子从Cytb向Cytc传递。CoQ（辅酶Q）是NADH氧化呼吸链的重要组成部分，作为电子载体在复合物I和复合物III之间传递电子。Cytb是NADH氧化呼吸链的关键成分之一，位于复合物Ⅲ中，参与电子传递过程。CuA是细胞色素c氧化酶（复合物IV）的一个亚基，也是NADH氧化呼吸链的一部分，参与最终将电子传递给氧的过程（C错，为本题正确答案）。",
+  "last_update": "2026-2-4",
+  "numb": "4",
+  "all_numb": "45",
+  "version": "1.0"
+}

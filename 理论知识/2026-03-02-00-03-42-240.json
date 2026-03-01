@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-02-00-03-42-240",
+  "cls": "消化系统",
+  "unit": "（十）腹外疝",
+  "mode": "单选题-A1型题",
+  "test": "无张力疝修补术是",
+  "option": [
+    "A. Halsted术",
+    "B. Bassini术",
+    "C. Lichtenstein术",
+    "D. McVay术",
+    "E. Ferguson术"
+  ],
+  "answer": "C",
+  "nine_point": "",
+  "ten_point": "（10版外科学P348）<img>“常用的无张力疝修补术有三种：①平片无张力疝修补术（Lichtenstein手术）：使用一适当大小的补片材料置于腹股沟管后壁”（C对）。",
+  "discuss": "无张力疝修补术是利用人工合成材料在无张力状态下加强腹股沟管后壁进行疝修补的术式，其中Lichtenstein术是经典的代表术式，采用平片补片覆盖并加强腹股沟管后壁（C对）。Bassini法、Halsted法、McVay法、Shouldice法最常用于加强或修补腹股沟管后壁（ABD错）。Ferguson法最常用于加强或修补腹股沟管前壁（E错）。",
+  "last_update": "2026-2-4",
+  "numb": "14",
+  "all_numb": "31",
+  "version": "1.0"
+}

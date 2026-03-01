@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-01-23-14-53-469",
+  "cls": "生物化学",
+  "unit": "十二、信号转导",
+  "mode": "单选题-A1型题",
+  "test": "可以激活蛋白激酶A的是",
+  "option": [
+    "A. IP₃",
+    "B. DG",
+    "C. cAMP",
+    "D. cGMP",
+    "E. PIP₂"
+  ],
+  "answer": "C",
+  "nine_point": "",
+  "ten_point": "（10版生物化学与分子生物学P387）<img>“cAMP的下游分子是蛋白质激酶A（PKA）”（C对）。",
+  "discuss": "可以激活蛋白激酶A的是cAMP（C对）。因为细胞内信号传导有许多不同的通路，在蛋白激酶A这条通路中，激素→G蛋白→AC→cAMP→PKA→效应蛋白→生物学效应。在IP₃（A错）这条通路中，激素→G蛋白→PLC→IP₃→Ca²⁺→PKC→效应蛋白→生物学效应。在DG（B错）这条通路中，激素→G蛋白→PLC→DG→PKC→效应蛋白→生物学效应。在cGMP（D错）这条通路中，ANP→GC→cGMP→PKG→效应蛋白→生物学效应。",
+  "last_update": "2026-2-4",
+  "numb": "9",
+  "all_numb": "26",
+  "version": "1.0"
+}

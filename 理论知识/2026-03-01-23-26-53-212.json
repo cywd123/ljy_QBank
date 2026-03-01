@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-01-23-26-53-212",
+  "cls": "医学免疫学",
+  "unit": "二、抗原",
+  "mode": "单选题-A1型题",
+  "test": "乳糜泻病人与下列哪种HLA抗原呈关联",
+  "option": [
+    "A. HLA-B8",
+    "B. HLA-DR2",
+    "C. HLA-DR3",
+    "D. HLA-B17",
+    "E. HLA-B35"
+  ],
+  "answer": "C",
+  "nine_point": "（7版医学免疫学P74）<img>“表8 -3 与HLA呈现强关联的一些自身免疫病”（C对）。",
+  "ten_point": "",
+  "discuss": "HLA-DR3为乳糜泻强关联基因（C对）。HLA-DR2为肾小球性肾炎咯血综合征和多发性硬化症强关联基因（B错）。青少年性胰岛素依赖型糖尿病与HLA-B8、HLA-Bw15和HLA-B18相关（A错）。1972年Russel报告银屑病患者携带HLA-B13或HLA-B17（D错）。研究证明HLA-B35同过敏性紫癜肾病有一定关联（E错）。",
+  "last_update": "2025-12-24",
+  "numb": "22",
+  "all_numb": "33",
+  "version": "1.0"
+}

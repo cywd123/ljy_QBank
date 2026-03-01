@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-01-23-28-09-875",
+  "cls": "医学免疫学",
+  "unit": "十、免疫应答",
+  "mode": "单选题-A1型题",
+  "test": "经典途径中，激活补体能力最强的免疫球蛋白是",
+  "option": [
+    "A. IgE",
+    "B. IgA",
+    "C. IgM",
+    "D. IgG",
+    "E. IgD"
+  ],
+  "answer": "C",
+  "nine_point": "（7版医学免疫学P41）<img>“人类不同类型抗体活化C1q的能力各异（IgM>IgG3>IgG1>IgG2） ,IgG4无激活经典途径的能力”（C对）。",
+  "ten_point": "",
+  "discuss": "人类不同类型抗体活化C1q的能力各异（IgM>IgG3>IgG1>IgG2) ,IgG4无激活经典途径的能力（C对）。",
+  "last_update": "2025-11-20",
+  "numb": "26",
+  "all_numb": "57",
+  "version": "1.0"
+}

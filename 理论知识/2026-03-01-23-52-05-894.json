@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-01-23-52-05-894",
+  "cls": "呼吸系统",
+  "unit": "（十一）呼吸衰竭",
+  "mode": "单选题-A1型题",
+  "test": "下列何种血气分析变化属于Ⅰ型呼吸衰竭",
+  "option": [
+    "A. PaO₂65mmHg，PaCO₂40mmHg",
+    "B. PaO₂55mmHg，PaCO₂55mmHg",
+    "C. PaO₂50mmHg，PaCO₂40mmHg",
+    "D. PaO₂85mmHg，PaCO₂55mmHg",
+    "E. PaO₂75mmHg，PaCO₂30mmHg"
+  ],
+  "answer": "C",
+  "nine_point": "",
+  "ten_point": "（10版内科学P148）<img>“1.Ⅰ型呼吸衰竭 即低氧性呼吸衰竭，血气分析特点是PaO₂＜60mmHg、PaCO₂降低或正常”（C对）。",
+  "discuss": "Ⅰ型呼吸衰竭即低氧性呼吸衰竭，血气分析特点是PaO₂＜60mmHg，PaCO₂降低或正常（C对）。",
+  "last_update": "2025-12-24",
+  "numb": "14",
+  "all_numb": "36",
+  "version": "1.0"
+}

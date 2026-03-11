@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-11-17-18-49-471",
+  "cls": "内科学",
+  "unit": "第二篇 第十六章 呼吸衰竭与呼吸支持技术",
+  "mode": "单选题-B型题",
+  "test": "2000U2-149 代偿性呼吸性酸中毒",
+  "option": [
+    "A.pH 7.38，PaO₂ 50mmHg，PaCO₂ 40mmHg",
+    "B.pH 7.30，PaO₂ 50mmHg，PaCO₂ 80mmHg",
+    "C.pH 7.40，PaO₂ 60mmHg，PaCO₂ 65mmHg",
+    "D.pH 7.35，PaO₂ 80mmHg，PaCO₂ 20mmHg",
+    "E.pH 7.25，PaO₂ 70mmHg，PaCO₂ 30mmHg"
+  ],
+  "answer": "C",
+  "nine_point": "",
+  "ten_point": "（10版内科学P151）<img>“当PaCO₂升高、pH正常时，称为代偿性呼吸性酸中毒”（C对）。",
+  "discuss": "机体通过肺、肾来维持酸碱平衡，这是一个动态平衡的过程。当发生呼吸性酸中毒时，机体通过肾脏的排酸保碱功能来维持血液pH的稳定。本题为代偿性呼吸性酸中毒，机体的pH仍然维持在正常范围7.35～7.45，呼吸性酸中毒患者PaCO₂增高＞45mmHg，所以只有pH7.40，PaO₂60mmHg，PaCO₂65mmHg符合代偿性呼吸性酸中毒的指标（C对，ABDE错）。",
+  "last_update": "2026-2-4",
+  "numb": "64",
+  "all_numb": "67",
+  "version": "1.0.0"
+}

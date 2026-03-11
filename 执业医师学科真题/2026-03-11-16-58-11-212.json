@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-11-16-58-11-212",
+  "cls": "生理学",
+  "unit": "第三章 血液",
+  "mode": "单选题-A1型题",
+  "test": "2008U2-2 决定血浆PH（值）最重要的缓冲对是",
+  "option": [
+    "A. KHCO₃╱H₂CO₃",
+    "B. NaHCO₃╱H₂CO₃",
+    "C. K₂HPO₄/kH₂PO₄",
+    "D. Na₂HPO₄╱NaH₂PO₄",
+    "E. 蛋白质钠盐╱蛋白质"
+  ],
+  "answer": "B",
+  "nine_point": "",
+  "ten_point": "（10版生理学P55）<img>“血浆内的缓冲物质主要包括 NaHCO₃/H₂CO₃、蛋白质钠盐/蛋白质和 Na₂HPO₄/NaH₂PO₄三对缓冲对，其中 NaHCO₃/H₂CO₃最重要，其比值为20”（B对）。",
+  "discuss": "血浆内的缓冲物质主要包括NaHCO₃/H₂CO₃、蛋白质钠盐/蛋白质（E错）和Na₂HPO4/NaH₂PO4（D错）三个缓冲对，其中最重要的是NaHCO₃/H₂CO₃（B对）。此外，红细胞内还有血红蛋白钾盐/血红蛋白、氧合血红蛋白钾盐/氧合血红蛋白、K2HPO4/KH₂PO4（C错）、KHCO₃/H₂CO₃（A错）。",
+  "last_update": "2026-3-6",
+  "numb": "17",
+  "all_numb": "37",
+  "version": "1.0.0"
+}

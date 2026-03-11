@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-11-17-39-15-371",
+  "cls": "内科学",
+  "unit": "第五篇 第十章 慢性肾衰竭",
+  "mode": "单选题-A1型题",
+  "test": "2014U2-32 慢性肾脏病（CKD）4期是指",
+  "option": [
+    "A. GFR15～29ml/（min·1.73m²）",
+    "B. GFR≥60ml/（min·1.73m²）",
+    "C. GFR＜15ml/（min·1.73m²）",
+    "D. GFR＜10ml/（min·1.73m²）",
+    "E. GFR50～59ml/（min·1.73m²）"
+  ],
+  "answer": "A",
+  "nine_point": "",
+  "ten_point": "（10版内科学P525）<img>“表5-10-1 K/DOQI对慢性肾脏病的分期及建议”（A对）。",
+  "discuss": "GFR（肾小球滤过率）正常值为90～110ml/（min·1.73m²）。目前国际公认的慢性肾脏病分期依据美国肾脏基金会制定的指南分为1～5期，1期：GFR≥90ml/（min·1.73m²）；2期：GFR60～89ml/（min·1.73m²）（B错）；3a期：GFR45～59ml/（min·1.73m²）（E错）；3b期：GFR30～44ml/（min·1.73m²）；4期：GFR15～29ml/（min·1.73m²）（A对）；5期GFR＜15ml/（min·1.73m²）（CD错）。",
+  "last_update": "2026-2-4",
+  "numb": "19",
+  "all_numb": "65",
+  "version": "1.0.0"
+}

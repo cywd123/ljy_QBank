@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-11-18-21-11-329",
+  "cls": "外科学",
+  "unit": "第九篇 第六十三章 下肢骨、关节损伤",
+  "mode": "单选题-A1型题",
+  "test": "2006U4-5 下列各种复位方法操作不当会发生股骨头骨折的是",
+  "option": [
+    "A. Allis法",
+    "B. Kocher法",
+    "C. Biglew法",
+    "D. Stimson法",
+    "E. Hippocrates法"
+  ],
+  "answer": "C",
+  "nine_point": "",
+  "ten_point": "10版外科学未明确说明。",
+  "discuss": "Biglew法用于髋关节脱位，因为此法是利用杠杆原理将股骨头复位，若复位时用力过猛，可引起股骨头骨折（C对）。Allis法是常用于髋关节后脱位的治疗，此法安全简便，不易发生股骨头骨折（A错）。Kocher法（B错）、Stimson法（D错）、Hippocrats法（E错）主要用于肩关节的脱位，故其不会引起股骨头骨折。",
+  "last_update": "2026-2-4",
+  "numb": "14",
+  "all_numb": "124",
+  "version": "1.0.0"
+}

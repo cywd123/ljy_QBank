@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-11-19-04-53-438",
+  "cls": "神经病学",
+  "unit": "第三章 神经系统疾病的常见症状和体征",
+  "mode": "单选题-A1型题",
+  "test": "2024U4-19 锥体束损害的病理征不包括以下哪项",
+  "option": [
+    "A. Babinski征",
+    "B. Chaddock征",
+    "C. Gordon征",
+    "D. Oppenheim征",
+    "E. Brudzinski征"
+  ],
+  "answer": "E",
+  "nine_point": "",
+  "ten_point": "（10版诊断学P215～216）<img>“（四）脑膜刺激征 脑膜刺激征为脑膜受激惹的体征，见于脑膜炎蛛网膜下腔出血和颅内压增高等……3.Brudzinski征 病人仰卧，下肢伸直，检查者一手托起病人枕部，另一手按于其胸前。当头部前屈时，双髋与膝关节同时屈曲则为阳性”（E错，为本题正确答案）。",
+  "discuss": "锥体束损害的病理征主要包括巴宾斯基征（Babinski sign）、奥本海姆征（Oppenheim sign）、戈登征（Gordon sign）、查多克征（Chaddock sign）等（ABCD对，E错为本题正确答案）。Brudzinski征是脑膜刺激征之一，主要用于判断脑膜是否受刺激，并非锥体束损害的病理征（E错，为本题正确答案）。",
+  "last_update": "2026-3-3",
+  "numb": "12",
+  "all_numb": "36",
+  "version": "1.0.0"
+}

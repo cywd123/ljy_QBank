@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-11-17-02-31-064",
+  "cls": "生物化学",
+  "unit": "第一篇 第三章 核酸的结构与功能",
+  "mode": "单选题-A1型题",
+  "test": "2005U1-52 合成DNA的原料是",
+  "option": [
+    "A. dAMP、dGMP、dCMP、dTMP",
+    "B. dADP、dGDP、dCDP、dTDP",
+    "C. dATP、dGTP、dCTP、dTTP",
+    "D. AMP、GMP、CMP、TMP",
+    "E. ADP、GDP、CDP、TDP"
+  ],
+  "answer": "C",
+  "nine_point": "",
+  "ten_point": "（10版生物化学与分子生物学P258）<img>“DNA复制是酶促核苷酸聚合反应，底物是dATP、dGTP、dCTP和dTTP，总称dNTP”（C对）。",
+  "discuss": "DNA的合成过程是在DNA聚合酶的催化下，以脱氧核苷三磷酸（dNTPs）为底物进行核苷酸链的延伸反应。dNTPs包括dATP、dGTP、dCTP和dTTP，它们分别对应腺嘌呤、鸟嘌呤、胞嘧啶和胸腺嘧啶四种碱基。在DNA复制过程中，这些脱氧核苷三磷酸通过磷酸二酯键连接，形成新的DNA链，释放出焦磷酸（PPi），为反应提供能量驱动（C对）。dAMP、dGMP、dCMP、dTMP是脱氧核苷一磷酸，属于核苷酸的初级形式，不能直接作为DNA合成的原料（A错）。dADP、dGDP、dCDP、dTDP是脱氧核苷二磷酸，虽然比一磷酸形式更接近三磷酸形式，但仍不是DNA聚合酶的直接底物（B错）。AMP、GMP、CMP、TMP为核糖核苷一磷酸，是RNA合成的原料之一，但它们含有核糖，且为一磷酸形式，不能用于DNA合成（D错）。ADP、GDP、CDP、TDP为核糖核苷二磷酸，同样含有核糖，适用于RNA合成或能量代谢过程（E错）。",
+  "last_update": "2026-2-4",
+  "numb": "13",
+  "all_numb": "32",
+  "version": "1.0.0"
+}

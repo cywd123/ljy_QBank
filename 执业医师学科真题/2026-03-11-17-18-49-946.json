@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-11-17-18-49-946",
+  "cls": "内科学",
+  "unit": "第二篇 第十六章 呼吸衰竭与呼吸支持技术",
+  "mode": "单选题-B型题",
+  "test": "2000U2-150 失代偿性呼吸性酸中毒",
+  "option": [
+    "A.pH 7.38，PaO₂ 50mmHg，PaCO₂ 40mmHg",
+    "B.pH 7.30，PaO₂ 50mmHg，PaCO₂ 80mmHg",
+    "C.pH 7.40，PaO₂ 60mmHg，PaCO₂ 65mmHg",
+    "D.pH 7.35，PaO₂ 80mmHg，PaCO₂ 20mmHg",
+    "E.pH 7.25，PaO₂ 70mmHg，PaCO₂ 30mmHg"
+  ],
+  "answer": "B",
+  "nine_point": "",
+  "ten_point": "（10版内科学P151）<img>“若PaCO₂升高、pH＜7.35，则称为失代偿性呼吸性酸中毒”（B对）。",
+  "discuss": "机体通过肺、肾来维持酸碱平衡，这是一个动态平衡的过程。当发生呼吸性酸中毒时，机体通过肾脏的排酸保碱功能来维持血液pH的稳定。本题为失代偿性呼吸性酸中毒，说明机体已经不能通过肾脏代谢来代偿原发的呼吸性酸中毒，因此pH＜7.35，呼吸性酸中毒患者PaCO₂增高＞45mmHg。所以本题只有pH7.30，PaO₂50mmHg，PaCO₂82mmHg符合失代偿性呼吸性酸中毒的指标（B对，ACDE错）。",
+  "last_update": "2026-2-4",
+  "numb": "65",
+  "all_numb": "67",
+  "version": "1.0.0"
+}

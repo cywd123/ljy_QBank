@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-11-17-04-38-452",
+  "cls": "生物化学",
+  "unit": "第三篇 第十四章 DNA的合成",
+  "mode": "单选题-A1型题",
+  "test": "2001U1-113 能以RNA为模板催化合成与RNA互补的DNA（cDNA）的酶称为",
+  "option": [
+    "A. DNA聚合酶Ⅰ",
+    "B. DNA聚合酶Ⅱ",
+    "C. DNA聚合酶Ⅲ",
+    "D. RNA聚合酶",
+    "E. 反转录酶"
+  ],
+  "answer": "E",
+  "nine_point": "",
+  "ten_point": "（10版生物化学与分子生物学P269）<img>“1970年，Temin H.和Baltimore D.分别从RNA病毒中发现能催化以RNA为模板合成双链DNA的酶，称为逆转录酶，全称是依赖RNA的DNA聚合酶”（E对）。",
+  "discuss": "能以RNA为模板催化合成与RNA互补的DNA（cDNA）的酶称为反转录酶，又称逆转录酶（E对）。DNA聚合酶是以DNA为模板催化合成互补的DNA的酶，DNA聚合酶I（A错）、DNA聚合酶Ⅱ（B错）、DNA聚合酶Ⅲ（C错）是原核生物DNA聚合酶的三个分型。RNA聚合酶是以DNA为模板催化合成互补的RNA链（D错）。",
+  "last_update": "2026-2-4",
+  "numb": "2",
+  "all_numb": "11",
+  "version": "1.0.0"
+}

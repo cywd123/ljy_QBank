@@ -1,0 +1,23 @@
+{
+  "name": "2026-03-11-18-48-46-171",
+  "cls": "儿科学",
+  "unit": "第九章 感染性疾病",
+  "mode": "不定项-A3/A4型题",
+  "main_test": "男孩，6岁。因发热2周，头痛伴呕吐3天，惊厥1次入院。疑诊结核性脑膜炎。",
+  "test": "2013U4-109 （争议题）确诊后，强化治疗阶段的最佳方案是",
+  "option": [
+    "A. INH RFP SM EMB",
+    "B. INH RFP PZA",
+    "C. INH RFP PZA SM",
+    "D. INH RFP EMB",
+    "E. INH RFP SM"
+  ],
+  "answer": "正确答案  C，我的答案 ",
+  "nine_point": "",
+  "ten_point": "（10版儿科学P196）<img>“（1）强化治疗阶段：联合使用INH、RFP、PZA及SM。疗程3～4个月，其中INH每天15～25mg/kg， RFP每天10～15mg/k（g＜450mg/d），PZA每天20～30mg/k（g＜750mg/d），SM每天15～20mg/k（g＜750mg/d）。开始治疗的1～2周，将INH全日量的一半加入氯化钠注射液或5%葡萄糖注射液中滴注，余量口服”（C对）。",
+  "discuss": "结核性脑膜炎强化治疗阶段的最佳方案是：必须有INH 和RFP，最常用的配伍是INH RFP PZA SM（C对）。巩固治疗阶段：继续应用INH、RFP或EMB，RFP或EMB9~12个月，抗结核药物总疗程不少于12个月，或待脑脊液恢复正常后继续治疗6个月。但根据2021最新标准，小儿结核已不使用链霉素。",
+  "last_update": "2026-2-4",
+  "numb": "127",
+  "all_numb": "163",
+  "version": "1.0.0"
+}

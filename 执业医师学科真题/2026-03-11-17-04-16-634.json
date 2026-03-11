@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-11-17-04-16-634",
+  "cls": "生物化学",
+  "unit": "第二篇 第十章 生物氧化",
+  "mode": "单选题-A1型题",
+  "test": "2017U2-56 琥珀酸氧化呼吸链不含有的组分是",
+  "option": [
+    "A. FMN",
+    "B. CoQ",
+    "C. Cyt c",
+    "D. Cyt b",
+    "E. Cyt c₁"
+  ],
+  "answer": "A",
+  "nine_point": "",
+  "ten_point": "（10版生物化学与分子生物学P205）<img>“电子传递顺序是： 琥珀酸→复合体Ⅱ→Q→复合体Ⅲ→Cytc→复合体Ⅳ→O₂”（A错，为本题正确答案）。",
+  "discuss": "氧化呼吸链所包含的四种复合体分别为，复合体Ⅰ：NADH-Q还原酶、FMN、Fe-S；复合体Ⅱ：琥珀酸-Q还原酶、FAD、Cytb；复合体Ⅲ：细胞色素还原酶、Cytb、Fe-S、Cytc₁；复合体Ⅳ：细胞色素氧化酶、Cyta、Cyta₃、CuA、CuB。琥珀酸氧化呼吸链为：琥珀酸→复合体Ⅱ→CoQ→复合体Ⅲ→Cytc→复合体Ⅳ→O₂，所以包含CoQ（B对）、Cytc（C对）、Cytb（D对）、Cytc₁（E对）。FMN属于复合体I（A错，为本题正确答案）。",
+  "last_update": "2026-2-12",
+  "numb": "13",
+  "all_numb": "31",
+  "version": "1.0.0"
+}

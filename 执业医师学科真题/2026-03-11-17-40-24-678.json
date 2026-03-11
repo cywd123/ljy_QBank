@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-11-17-40-24-678",
+  "cls": "内科学",
+  "unit": "第六篇 第四章 巨幼细胞贫血",
+  "mode": "单选题-A1型题",
+  "test": "2014U4-140 营养性巨幼细胞贫血的检查结果为",
+  "option": [
+    "A. MCV＞94fl，MCH＞32pg，MCHC＞38%",
+    "B. MCV＜80fl，MCH28～32pg，MCHC32%～38%",
+    "C. MCV80～94fl，MCH28～32pg，MCH32%～38%",
+    "D. MCV＜80fl，MCH＜28pg，MCHC＜32%",
+    "E. MCV＞94fl，MCH＞32pg，MCHC32%～38%"
+  ],
+  "answer": "E",
+  "nine_point": "",
+  "ten_point": "（10版内科学P553）<img>“1.血象 呈大细胞性贫血，MCV、MCH均增高，MCHC正常”（E对）。",
+  "discuss": "营养性巨幼细胞贫血为大细胞性贫血，MCV＞94fl，MCH＞32pg，MCHC在32%～38%之间（E对，A错）。小细胞低色素性贫血可表现为MCV＜80fl，MCH＜28pg或28～32pg，MCHC＜32%或32%～38%（BD错）。正细胞正色素性贫血表现为MCV80～94fl，MCH28～32pg，MCHC32%～38%（C错）。",
+  "last_update": "2026-3-5",
+  "numb": "5",
+  "all_numb": "8",
+  "version": "1.0.0"
+}

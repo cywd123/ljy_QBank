@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-11-18-55-57-259",
+  "cls": "传染病学",
+  "unit": "第三章 病毒性疾病",
+  "mode": "单选题-A1型题",
+  "test": "2006U2-39 血清中常规检测不到的HBV标志物是",
+  "option": [
+    "A. HBsAg",
+    "B. HBeAg",
+    "C. HBcAg",
+    "D. 抗-HBe",
+    "E. 抗-HBc"
+  ],
+  "answer": "C",
+  "nine_point": "",
+  "ten_point": "（10版传染病学P28）<img>“（1）HBsAg与抗­HBs：成人感染HBV后最早1～2周，最迟11～12周血中首先出现HBsAg”。（10版传染病学P29）<img>“HBcAg与抗­HBc：血液中HBcAg主要存在于Dane颗粒的核心，游离的HBcAg极少，故较少用于临床常规检测。肝组织中HBcAg主要存在于受感染的肝细胞核内。HBcAg有很强的免疫原性，HBV感染者几乎均可检出抗­HBc”。（10版传染病学P40）<img>“（2）HBeAg与抗­HBe：急性HBV感染时HBeAg的出现时间略晚于HBsAg。HBeAg的存在表示病毒复制活跃且有较强的传染性。HBeAg消失而抗­HBe产生称为血清转换。抗­HBe阳转后，病毒复制多处于静止状态，传染性降低”（ABDE对；C错，为本题正确答案）。",
+  "discuss": "血清中常规检查检测不到的HBV标志物是HBcAg，因血液中HBcAg主要存在于Dane颗粒的核心，游离的HBcAg极少，故较少用于临床常规检测（C错，为本题正确答案）。HBsAg最早l～2周出现在感染HBV后 ，最迟ll～12周，急性自限性HBV感染时血中HBsAg大多持续1～6周，最长可达20周（A对）。无症状携带者和慢性患者HBsAg可持续存在多年，甚至终身。HBeAg是一种可溶性蛋白，一般仅见于HBsAg阳性血清，急性HBV感染时HBeAg的出现时间略晚于HBsAg（B对）。HBeAg消失而抗HBe产生称为e抗原血清转换，抗HBe阳转后，病毒复制多处于静止状态，传染性降低（D对）。抗-HBc在HBV感染者体内几乎均可检测出，抗HBcIgM是HBV感染后较早出现的抗体，绝大多数出现在发病第一周，多数在6个月内消失，抗HBcIgM阳性提示急性期或慢性肝炎急性发作（E对）。抗HBcIgG出现较迟，但可保持多年甚至终身。",
+  "last_update": "2026-2-4",
+  "numb": "18",
+  "all_numb": "187",
+  "version": "1.0.0"
+}

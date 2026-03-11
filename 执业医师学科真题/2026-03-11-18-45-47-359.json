@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-11-18-45-47-359",
+  "cls": "儿科学",
+  "unit": "第六章 新生儿与新生儿疾病",
+  "mode": "单选题-A1型题",
+  "test": "2005U4-54 足月儿每日钠的需要量约是",
+  "option": [
+    "A. 0.5～0.9mmol/kg",
+    "B. 1～2mmol/kg",
+    "C. 3mmol/kg",
+    "D. 5～6mmol/kg",
+    "E. 7～8mmol/kg"
+  ],
+  "answer": "C",
+  "nine_point": "",
+  "ten_point": "（10版儿科学P86）<img>“出现正常利尿后，新生儿生后第3天液体需求量增加，静脉营养的新生儿钠需要量3mmol/（kg·d）；钾需要量2～3mmol/（kg·d）”（C对）。",
+  "discuss": "足月儿每日钠的需要量约为3mmol/kg（C对）。",
+  "last_update": "2026-2-4",
+  "numb": "17",
+  "all_numb": "174",
+  "version": "1.0.0"
+}

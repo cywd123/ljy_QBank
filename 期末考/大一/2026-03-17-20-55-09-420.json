@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-20-55-09-420",
+  "version": "1.1.0",
+  "numb": "37",
+  "all_numb": "54",
+  "cls": "医学细胞生物学",
+  "unit": "第一篇 第一章 绪论",
+  "mode": "单选题-A1型题",
+  "test": "细胞学说最初是由哪位（些）学者提出的 ",
+  "option": [
+    "A. M.J.Schleiden",
+    "B. T.Schwann",
+    "C. J.D.Robertson",
+    "D. S.Cohen",
+    "E. M.J.Schleiden和T.Schwann"
+  ],
+  "answer": "E",
+  "nine_point": "（6版医学细胞生物学P3）“德国植物学家M.J.Schleiden 和动物学家T.Schwann根据自己的研究并总结前人的工作，提出了细胞学说”（E对）。",
+  "ten_point": "（7版医学细胞生物学P3）“德国植物学家M.J.Schleiden（1838）和动物学家T.Schwann（1839）根据自己的研究并总结前人的工作，提出了细胞学说”（E对）。",
+  "discuss": "细胞学说是生物学发展史上的重要里程碑，由德国植物学家M.J.Schleiden和动物学家T.Schwann于19世纪30年代分别在植物和动物研究中提出。Schleiden于1838年提出植物体由细胞构成，而Schwann在1839年将这一观点扩展至动物界，指出细胞是所有生物的基本结构和功能单位。两人共同奠定了细胞学说的基础，强调了生物界的统一性（E对，AB错）。J.D.Robertson其贡献主要涉及细胞膜的结构模型（如单位膜模型）（C错）。S.Cohen是现代生物化学领域的科学家（D错）。",
+  "last_update": "2025-12-24"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-21-10-21-403",
+  "version": "1.1.0",
+  "numb": "59",
+  "all_numb": "160",
+  "cls": "医学细胞生物学",
+  "unit": "第四篇 第十三章 细胞分裂与细胞周期",
+  "mode": "单选题-A1型题",
+  "test": "可作为MPF成分之一的周期蛋白是",
+  "option": [
+    "A. Cyclin B",
+    "B. CyclinC",
+    "C. Cyclin D",
+    "D. Cyclin A",
+    "E. Cdk 1"
+  ],
+  "answer": "A",
+  "nine_point": "（6版医学细胞生物学P314）“现已证实，从酵母到哺乳动物的细胞中均有MPF的分布，柱层析结果表明，MPF是由32000和45000两种蛋白质亚基组成的异二聚体，前者为细胞周期蛋白依赖激酶Cdk 1，后者即为cyclin B”（A对）。",
+  "ten_point": "（7版医学细胞生物学P292）“柱层析结果表明，MPF是由分子量为32kDa和45kDa两种蛋白质亚基组成的异二聚体，前者为细胞周期蛋白依赖性激酶Cdk 1，后者即为cyclin B”（A对）。",
+  "discuss": "MPF（促成熟因子）是调控细胞周期G2期向M期转换的关键复合物，由Cdk1和周期蛋白B（Cyclin B）组成。在G2晚期，Cyclin B的表达达到高峰，与Cdk1结合后激活MPF，从而启动有丝分裂过程（A对）。Cyclin C主要与Cdk8结合，参与转录调控（B错）。Cyclin D主要在G1期表达，与Cdk4或Cdk6结合，推动细胞通过G1期向S期过渡（C错）。Cyclin A在S期和G2期发挥作用，主要与Cdk2结合，调控DNA复制及促进G2期进程（D错）。Cdk1是一种激酶，必须与Cyclin B结合才能形成具有活性的MPF（E错）。",
+  "last_update": "2025-12-24"
+}

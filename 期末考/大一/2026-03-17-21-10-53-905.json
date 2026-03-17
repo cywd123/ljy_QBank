@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-21-10-53-905",
+  "version": "1.1.0",
+  "numb": "106",
+  "all_numb": "160",
+  "cls": "医学细胞生物学",
+  "unit": "第四篇 第十三章 细胞分裂与细胞周期",
+  "mode": "单选题-B型题",
+  "test": "cyclin D/E的表达主要发生在",
+  "option": [
+    "A.S期",
+    "B.G₂期",
+    "C.M期",
+    "D.G₁期",
+    "E.G₀期"
+  ],
+  "answer": "D",
+  "nine_point": "（6版医学细胞生物学P313）“1.Cyclin D-Cdk 4/6、Cyclin E-Cdk 2复合物顺序启动G₁期/S期转化”（D对）。",
+  "ten_point": "（7版医学细胞生物学P291）“1.cyclin D-Cdk 4/6、cyclin E-Cdk 2复合物顺序启动G₁/S期转化   在外界生长因子等促有丝分裂原刺激下，G₁期细胞cyclin  D表达增强……随着在G₁晚期（G₁/S期）cyclin E表达的上升，cyclin E-Cdk 2复合物逐渐增多”（D对）。",
+  "discuss": "细胞周期调控机制的核心在于cyclin与CDK的动态结合及其活性调控。cyclin D和cyclin E主要在G₁期表达，分别与CDK4/6和CDK2结合，形成具有激酶活性的复合物，通过磷酸化Rb蛋白，释放E2F转录因子，从而启动S期相关基因的表达，推动细胞由G₁期进入S期（D对）。S期是DNA合成期，此时主导的cyclin是cyclin A（A错）。G₂期是细胞为分裂做准备的阶段，其核心调控复合物为cyclin A/B与CDK1结合形成的MPF（成熟促进因子）（B错）。M期即有丝分裂期，主要由cyclin B与CDK1组成的复合物调控（C错）。G₀期是细胞暂时退出细胞周期的状态，通常不进行周期蛋白的合成（E错）。",
+  "last_update": "2025-12-24"
+}

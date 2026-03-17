@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-21-06-21-482",
+  "version": "1.1.0",
+  "numb": "32",
+  "all_numb": "77",
+  "cls": "医学细胞生物学",
+  "unit": "第二篇 第九章 细胞内遗传信息的传递及调控",
+  "mode": "单选题-A1型题",
+  "test": "某RNA为5'-UGACGA-3'，与其对应的DNA双链中的编码链为",
+  "option": [
+    "A. 5'-TCGTCA-3'",
+    "B. 5'-TGACGA-3'",
+    "C. 5'-UCGTCA-3′",
+    "D. 5'-ACTGCT-3'",
+    "E. 5'-ACTGCU-3'"
+  ],
+  "answer": "B",
+  "nine_point": "（6版医学细胞生物学P209）“转录的本质是一个以DNA 双螺旋链中反义链为模板，以四种核苷三磷酸ATP，GTP 、CTP 、UTP 为原料， 在RNA 聚合酶作用下，遵循碱基互补配对原则合成RNA 的过程。RNA 合成的方向是5 ’→3 ’，生成的RNA 链与模板链反向平行（B对）”",
+  "ten_point": "（7版医学细胞生物学P198）“在双链 DNA中，作为转录模板的链称为模板链（template strand 或反义链（antisense strand），即与 mRNA互补的 DNA链;与模板链互补的另一条链称为编码链（coding strand）或有意义链（sense strand），该链与转录产物的序列相同，只是在转录中将 DNA中的 T变为 RNA中的 U……RNA合成的方向是 5′→3′ 生成的 RNA链与模板链反向平行”（B对）。",
+  "discuss": "转录的本质是一个以DNA双螺旋链中反义链为模板，以四种核苷三磷酸ATP、GTP、CTP、UTP为原料，在RNA聚合酶作用下，遵循碱基互补配对原则合成RNA的过程。RNA合成的方向是5’→3’，生成的RNA链与模板链反向平行。即DNA模板链为5-’TCGTCA-3’，编码链是5’-TGACGA-3’（B对）。",
+  "last_update": "2025-12-24"
+}

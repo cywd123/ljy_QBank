@@ -1,0 +1,21 @@
+{
+  "name": "2026-03-17-21-12-52-011",
+  "version": "1.1.0",
+  "numb": "6",
+  "all_numb": "87",
+  "cls": "医学细胞生物学",
+  "unit": "第四篇 第十六章 细胞衰老与细胞死亡",
+  "mode": "单选题-A1型题",
+  "test": "在caspase家族中，起细胞凋亡执行者作用的是",
+  "option": [
+    "A. caspase1，4，11",
+    "B. caspase2，8，9",
+    "C. caspase3，6，7",
+    "D. caspase3，5，10"
+  ],
+  "answer": "C",
+  "nine_point": "",
+  "ten_point": "（7版医学细胞生物学P344）“起始caspase一旦活化即开启细胞内的死亡程序，通过水解切割caspase-3、6、7使它们激活，这些执行caspases则剪切非caspase家族的各类蛋白质，并因此介导凋亡的最终发生，因此caspase-3、6、7又称为效应caspase”（C对）。",
+  "discuss": "在caspase家族中，caspase-3、6、7作为执行者在细胞凋亡过程中发挥关键作用。这些caspase通过剪切底物蛋白，导致细胞结构的解体和凋亡小体的形成，最终实现细胞的程序性死亡（C对）。caspase-1、4、11主要参与炎症反应（A错）。caspase-2、8、9属于起始caspase，它们负责启动细胞凋亡信号级联反应，而不是直接执行细胞凋亡（B错）。caspase-5并不属于执行者caspase，而caspase-10则主要参与凋亡信号的传递，也不是执行者（D错）。",
+  "last_update": "2025-12-24"
+}

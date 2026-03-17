@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-21-13-20-612",
+  "version": "1.1.0",
+  "numb": "54",
+  "all_numb": "87",
+  "cls": "医学细胞生物学",
+  "unit": "第四篇 第十六章 细胞衰老与细胞死亡",
+  "mode": "单选题-A1型题",
+  "test": "目前认为内质网凋亡途径是通过下列哪种酶诱导细胞凋亡的",
+  "option": [
+    "A. Caspase-12",
+    "B. Caspase-6",
+    "C. Caspase-7",
+    "D. Caspase-3",
+    "E. Caspase-8"
+  ],
+  "answer": "A",
+  "nine_point": "（6版医学细胞生物学P375）“②caspase在内质网的激活。胞质内Ca²⁺浓度的升高等因素可激活位于内质网膜上caspase-12，活化的caspase-12被转运到胞质中参与caspase-9介导的凋亡过程”（A对BCDE错）。",
+  "ten_point": "（7版医学细胞生物学P346）“内质网与细胞凋亡的联系主要表现在两个方面：①内质网对Ca²⁺浓度的调控……②caspase在内质网的激活。胞质内Ca²⁺浓度的升高等因素可激活位于内质网膜上的caspase-12，活化的caspase-12被转运到胞质中参与caspase-9介导的凋亡过程”（A对）。",
+  "discuss": "内质网应激诱导的细胞凋亡主要通过Caspase-12介导，在内质网应激状态下，Ca2+稳态失衡等因素可激活位于内质网膜上的Caspase-12，活化的Caspase-12进入胞质后可进一步激活Caspase-9，从而启动线粒体途径相关的凋亡级联反应（A对）。Caspase-6属于效应型Caspase，主要参与细胞结构蛋白的降解，如核纤层蛋白的裂解，是细胞凋亡执行阶段的重要酶（B错）。Caspase-7同样属于效应型Caspase，与Caspase-3协同作用，参与凋亡执行阶段的底物裂解，但其激活依赖于起始型Caspase（如Caspase-8或Caspase-9）的上游信号（C错）。Caspase-3是细胞凋亡执行阶段的关键酶，被Caspase-8或Caspase-9激活后，负责裂解多种细胞结构和功能蛋白，导致典型的凋亡形态学变化（D错）。Caspase-8是死亡受体途径的起始Caspase，在Fas/FADD复合体中被激活后，可直接激活效应Caspase（如Caspase-3、7）或通过Bid连接线粒体途径（E错）。",
+  "last_update": "2025-12-24"
+}

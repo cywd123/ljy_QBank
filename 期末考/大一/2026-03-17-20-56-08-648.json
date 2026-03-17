@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-20-56-08-648",
+  "version": "1.1.0",
+  "numb": "68",
+  "all_numb": "138",
+  "cls": "医学细胞生物学",
+  "unit": "第一篇 第二章 细胞的概念与分子基础",
+  "mode": "单选题-A1型题",
+  "test": "DNA的组成成分是",
+  "option": [
+    "A. dATP、dGTP、dCTP、dTTP",
+    "B. dADP、dGDP、dCDP、dTDP",
+    "C. AMP、GMP、CMP、TMP",
+    "D. dAMP、dGMP、dCMP、dTMP",
+    "E. ATP、GTP、CTP、TTP"
+  ],
+  "answer": "D",
+  "nine_point": "（6版医学细胞生物学P18）“表2-2 DNA 和RNA在化学组成上的异同”（D对）。",
+  "ten_point": "（7版医学细胞生物学P16）“表2-2 DNA和RNA在化学组成上的异同”（D对）。",
+  "discuss": "DNA的基本组成单位是脱氧核糖核苷酸，包括脱氧腺嘌呤核苷酸（dAMP）、脱氧鸟嘌呤核苷酸（dGMP）、脱氧胞嘧啶核苷酸（dCMP）和脱氧胸腺嘧啶核苷酸（dTMP）。这四种脱氧核糖核苷酸通过磷酸二酯键连接形成脱氧核糖核苷酸链，构成DNA分子的基本结构（D对，ABCE错）。",
+  "last_update": "2025-12-24"
+}

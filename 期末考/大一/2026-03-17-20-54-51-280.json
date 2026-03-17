@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-20-54-51-280",
+  "version": "1.1.0",
+  "numb": "11",
+  "all_numb": "54",
+  "cls": "医学细胞生物学",
+  "unit": "第一篇 第一章 绪论",
+  "mode": "单选题-A1型题",
+  "test": "最早发现细胞的遗传物质DNA分子为双螺旋结构的学者是",
+  "option": [
+    "A. Schleiden and Schwann",
+    "B. R.Hooke and A.Leeuwenhoek",
+    "C. Watson and Crick",
+    "D. R.Brown",
+    "E. C.Darwin"
+  ],
+  "answer": "C",
+  "nine_point": "（6版医学细胞生物学P5）“1953年J.Watson和F.Crick（C对）提出DNA双螺旋结构模型”。（6版医学细胞生物学P3）“1665年英国人Hooke应用自制的放大倍数不太高的显微镜，在观察植物软木组织时，发现了许多蜂窝状排列的小室称为‘细胞’（cell，小室之意）…1673年和1677年荷兰科学家A.VanLeeuwenhoek（B错）使用能放大300倍的显微镜，观察到了池塘中的原生动物纤毛虫、细菌、人和哺乳动物的精子，后来又观察到鲤鱼红细胞及其核（1695）…1831年R.Brown（D错）在植物的叶片细胞中也看到了细胞核…德国植物学家M.J.Schleiden（1838）和动物学家T_Schwann（1839）（A错）根据自己的研究并总结前人的工作，提出了细胞学说”。",
+  "ten_point": "（7版医学细胞生物学P5）“1953年J.Watson和F.Crick提出DNA双螺旋结构模型”（C对）。",
+  "discuss": "James Watson和Francis Crick在1953年提出了DNA分子的双螺旋结构模型，这一模型综合了Rosalind Franklin的X射线衍射数据和Chargaff碱基配对规律等前人研究成果，不仅解释了DNA的理化性质，还揭示了遗传信息的存储、复制和传递机制，确立了DNA作为遗传物质的核心地位（C对）。Schleiden和Schwann是细胞学说的提出者，指出所有生物体都由细胞构成，但未涉及DNA结构的研究（A错）。Robert Hooke首次观察到软木细胞壁，而Antonie van Leeuwenhoek是第一个观察并描述活细胞和微生物的人，但他们均未研究DNA的结构（B错）。Robert Brown是植物学家，在1831年首次描述了细胞核，但与DNA双螺旋结构的发现无关（D错）。Charles Darwin是进化论的奠基人，其研究聚焦于物种的演化与自然选择，而非DNA结构（E错）。",
+  "last_update": "2025-12-24"
+}

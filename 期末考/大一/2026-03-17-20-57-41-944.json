@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-20-57-41-944",
+  "version": "1.1.0",
+  "numb": "89",
+  "all_numb": "164",
+  "cls": "医学细胞生物学",
+  "unit": "第一篇 第三章 细胞生物学的研究方法",
+  "mode": "单选题-A1型题",
+  "test": "关于RNAi的基本原理，错误的描述是",
+  "option": [
+    "A. siRNA参与形成RNA诱导沉默复合物",
+    "B. 每个RISC都包含一个siRNA和一个Dicer",
+    "C. 激活RISC需要依赖ATP将小分子RNA解双链",
+    "D. Dicer 酶将外源性双链RNA切割成短siRNA",
+    "E. 激活的RISC通过碱基配对定位到同源mRNA转录本上"
+  ],
+  "answer": "B",
+  "nine_point": "（6版医学细胞生物学P55）“RNAi的基本原理：一定数量的外源性双链RNA（dsRNA）进入细胞后，被类似于核糖核酸酶Ⅲ的Dicer酶切割成短的21 ～ 23bp的双链小干扰RNA （siRNA）（D对），siRNA与解旋酶和其他因子结合，形成RNA诱导沉默复合（RISC）（A对）。激活RISC需要一个依赖ATP的将小分子RNA解双链的过程（C对）。激活的RISC 通过碱基配对定位到同源mRNA转录本上（E对），并在距离siRNA3’端12个碱基的位置切割mRNA 。尽管切割的确切机制尚不明了，但每个RISC都包含一个siRNA和一个不同于Dicer的RNA酶（B错，为本题正确答案）”。",
+  "ten_point": "（7版医学细胞生物学P51）“激活的RISC通过碱基配对定位到同源mRNA转录物上，并在距离siRNA3′端12个碱基的位置切割mRNA。尽管切割的确切机制尚不明了，但每个RISC都包含一个siRNA和一个不同于Dicer酶的RNA酶”（B错，为本题正确答案）。",
+  "discuss": "每个RISC都包含一个siRNA和一个不同于Dicer酶的RNA酶，而不是包含Dicer酶本身（B错，为本题正确答案）。siRNA确实参与形成RNA诱导沉默复合物（RISC），这是RNAi机制中的关键步骤之一（A对）。激活RISC的过程确实需要依赖ATP将小分子RNA解双链，这是RISC激活的重要步骤（C对）。Dicer酶的功能是将外源性双链RNA切割成短的21～23bp的siRNA，从而启动RNA干扰过程（D对）。激活后的RISC通过碱基配对定位到同源mRNA转录本上，进而导致mRNA降解或翻译抑制，这是RNAi实现基因表达调控的核心机制（E对）。",
+  "last_update": "2025-12-24"
+}

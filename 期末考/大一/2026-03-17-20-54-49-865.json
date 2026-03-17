@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-20-54-49-865",
+  "version": "1.1.0",
+  "numb": "8",
+  "all_numb": "54",
+  "cls": "医学细胞生物学",
+  "unit": "第一篇 第一章 绪论",
+  "mode": "单选题-A1型题",
+  "test": "发表了生物“中心法则”的学者是",
+  "option": [
+    "A. J.Watson",
+    "B. M.Schleiden",
+    "C. T.Schwann",
+    "D. F.Crick",
+    "E. 尼伦伯格（Nirenberg）"
+  ],
+  "answer": "D",
+  "nine_point": "",
+  "ten_point": "（7版医学细胞生物学P5）“1958年……Crick发表了中心法则”（D对）。",
+  "discuss": "中心法则是分子生物学的核心理论之一，描述了遗传信息从DNA传递至RNA，再传递至蛋白质的规律。该理论由英国科学家弗朗西斯·克里克（F.Crick）于1958年首次提出，为分子生物学的发展奠定了理论基础（D对）。J.Watson与Crick共同提出了DNA的双螺旋结构模型，为遗传信息传递机制提供了结构基础（A错）。M.Schleiden是细胞学说的奠基人之一，主张所有植物均由细胞构成（B错）。T.Schwann与Schleiden共同提出细胞学说，强调动物和植物均由细胞构成（C错）。Nirenberg是破译遗传密码的科学家之一，通过实验揭示了mRNA上决定氨基酸的三联体密码（E错）。",
+  "last_update": "2025-12-24"
+}

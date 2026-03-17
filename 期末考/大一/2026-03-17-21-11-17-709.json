@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-21-11-17-709",
+  "version": "1.1.0",
+  "numb": "140",
+  "all_numb": "160",
+  "cls": "医学细胞生物学",
+  "unit": "第四篇 第十三章 细胞分裂与细胞周期",
+  "mode": "多选题-X型题",
+  "test": "表达仅限于G₁期的细胞周期蛋白是",
+  "option": [
+    "A. cyclin B",
+    "B. cyclin C",
+    "C. cyclin D",
+    "D. cyclin A",
+    "E. cyclin E"
+  ],
+  "answer": "CE",
+  "nine_point": "（6版医学细胞生物学P310）“①G₁期细胞周期蛋白：cyclin D”（C对）。（6版医学细胞生物学P311）<img>“表13-3 细胞周期中一些主要的Cdk与cyclin的结合关系及作用特点”（E对）。B项6版医学细胞生物学未明确说明。",
+  "ten_point": "（7版医学细胞生物学P289）“表13-3 细胞周期中一些主要的Cdk与cyclin的结合关系及作用特点”（CE对）。",
+  "discuss": "表达仅限于G₁期的细胞周期蛋白是：G₁期细胞周期蛋白：cyclin D （C对）；cyclin E（E对）。",
+  "last_update": "2025-12-24"
+}

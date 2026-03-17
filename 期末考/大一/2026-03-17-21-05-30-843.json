@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-21-05-30-843",
+  "version": "1.1.0",
+  "numb": "97",
+  "all_numb": "143",
+  "cls": "医学细胞生物学",
+  "unit": "第二篇 第八章 细胞核",
+  "mode": "单选题-A1型题",
+  "test": "mRNA前体称为",
+  "option": [
+    "A. hnRNA",
+    "B. mRNA",
+    "C. shRNA",
+    "D. snRNA  ",
+    "E. rRNA"
+  ],
+  "answer": "A",
+  "nine_point": "（6版医学细胞生物学P201）“由RNA聚合酶Ⅱ转录的核内异质RNA（hnRNA），首先在核内进行5′端加帽、3′端加多聚A尾以及剪接等加工过程，然后形成成熟的mRNA，由DNA转录的mRNA前体只有在核内经转录后加工修饰成为成熟的mRNA分子才能被转运出核”（A对）。",
+  "ten_point": "（7版医学细胞生物学P191）“由DNA转录的mRNA前体只有在核内经转录后加工修饰成为成熟的mRNA分子才能被转运出核；5S rRNA和tRNA的转录则均由 RNA聚合酶Ⅲ催化，在核内合成”（A对）。",
+  "discuss": "mRNA前体称为hnRNA（heterogeneous nuclear RNA），是真核细胞中RNA聚合酶Ⅱ转录生成的初级转录产物，经过5'端加帽、3'端加尾以及剪接去除内含子等过程形成成熟的mRNA进入细胞质中参与蛋白质合成（A对）。",
+  "last_update": "2025-12-24"
+}

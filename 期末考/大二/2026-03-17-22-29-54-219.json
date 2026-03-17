@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-22-29-54-219",
+  "version": "1.1.0",
+  "numb": "21",
+  "all_numb": "53",
+  "cls": "生物化学与分子生物学",
+  "unit": "第三篇 第十五章 RNA的生物合成",
+  "mode": "单选题-A1型题",
+  "test": "下列哪种杂交能完全配对",
+  "option": [
+    "A. DNA﹣成熟tRNA",
+    "B. DNA﹣成熟rRNA",
+    "C. DNA﹣cDNA",
+    "D. DNA﹣mRNA",
+    "E. DNA﹣hnRNA"
+  ],
+  "answer": "E",
+  "nine_point": "（9版生物化学与分子生物学P277）“核酸序列分析证明，mRNA来自前体mRNA，而前体mRNA和DNA模板链可以完全配对”（E对）。",
+  "ten_point": "（10版生物化学与分子生物学P285）“前体mRNA和DNA模板链可以完全配对”（E对）。",
+  "discuss": "核酸序列分析证明，mRNA来自前体mRNA，而前体mRNA和DNA模板链可以完全配对（E对,ABCD错）。",
+  "last_update": "2026-3-6"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-22-19-32-164",
+  "version": "1.1.0",
+  "numb": "68",
+  "all_numb": "186",
+  "cls": "生物化学与分子生物学",
+  "unit": "第一篇 第三章 核酸的结构与功能",
+  "mode": "单选题-A1型题",
+  "test": "DNA 合成需要的初始原料是",
+  "option": [
+    "A. ATP 、CTP 、GTP、 UTP",
+    "B. dATP 、dGTP 、dCTP 、dUTP",
+    "C. dATP 、dGTP 、dCTP 、dTTP",
+    "D. ATP 、CTP 、GTP 、TTP",
+    "E. dAMP 、dGMP 、dCMP 、dTMP"
+  ],
+  "answer": "C",
+  "nine_point": "（9版生物化学与分子生物学P235）“DNA 复制是酶促核苷酸聚合反应，底物是dATP 、dGTP 、dCTP 和dTTP ，总称dNTP”（C对）。",
+  "ten_point": "（10版生物化学与分子生物学P258）“DNA复制是酶促核苷酸聚合反应，底物是dATP、dGTP、dCTP和dTTP，总称dNTP”（C对）。",
+  "discuss": "DNA 合成依赖于脱氧核苷三磷酸（dNTPs）作为原料，具体包括 dATP、dGTP、dCTP 和 dTTP。DNA 聚合酶催化这些底物之间的磷酸二酯键形成，从而延长 DNA 链。DNA 合成过程中，模板链提供碱基配对信息，而 dNTPs 提供合成所需的核苷酸单位（C对）。ATP、CTP、GTP、UTP 是 RNA 合成所需的原料，而不是 DNA 合成的原料。RNA 聚合酶使用这些核苷三磷酸来合成 RNA 链（A错）。虽然 B 选项中包含脱氧核苷三磷酸，但其中的 dUTP 不是 DNA 合成中常用的原料。DNA 中通常含有胸腺嘧啶（T），由 dTTP 提供，而不是尿嘧啶（U）（B错）。D 选项中的 ATP、CTP、GTP 是 RNA 合成原料，而 TTP 不常见于 RNA 合成，且 DNA 合成需要的是脱氧形式（dTTP）而非 TTP（D错）。dAMP、dGMP、dCMP、dTMP 是脱氧核苷单磷酸，而不是三磷酸形式，因此不能直接作为 DNA 合成的底物。DNA 聚合酶需要 dNTPs 提供高能磷酸键以驱动聚合反应（E错）。",
+  "last_update": "2025-12-24"
+}

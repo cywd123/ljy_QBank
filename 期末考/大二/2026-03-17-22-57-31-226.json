@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-22-57-31-226",
+  "version": "1.1.0",
+  "numb": "69",
+  "all_numb": "431",
+  "cls": "医学免疫学",
+  "unit": "第一篇 基础免疫篇 第二章 固有免疫系统的组成",
+  "mode": "单选题-A1型题",
+  "test": "IL-10R可以归类于",
+  "option": [
+    "A. IL-1受体家族",
+    "B. 干扰素受体家族",
+    "C. 肿瘤坏死因子受体超家族",
+    "D. 血细胞生成素受体家族",
+    "E. 趋化因子受体家族"
+  ],
+  "answer": "B",
+  "nine_point": "（7版医学免疫学P52）“Ⅱ型细胞因子受体家族（type Ⅱcytokine receptor family） 也称干扰素受体家族（hematopoietin receptor family），此类受体的胞膜外区有保守的半脱氨酸，但无WSXWS基序，胞外区含有2～4个FNⅢ（Ⅲ型纤连蛋白）结构域。包括IFN-α、IFN-β、IFN-γ以及IL-10家族细胞因子的受体，通过JAK-STAT通路转导信号”（B对）。（7版医学免疫学P53）<img>“免疫球蛋白超家族受体（IgSFR） 也称IL-1R家族，此类受体在结构上与免疫球蛋白的V区或C区相似，即具有数个IgSF结构。IL-1，IL-18、IL-33、M-CSF、SCF等细胞因子受体属于此类受体，主要通过IRAK-NF-ₖB通路转导信号，其中M-CSF、SCF等集落刺激因子受体胞内区具有酪氨酸激酶（PTK）活性的结构域，可直接激活Ras、P13K等多条信号通路”（A错）。（7版医学免疫学P52～53）<img>“肿瘤坏死因子受体家族（tumor necrosis factor receptor family） 此类受体胞膜外区含有数个富含半胱氨酸的结构域，多以同源三聚体发挥作用。包括TNF-α、LT、FasL，CD40L、神经生长因子（NGF）等细胞因子的受体，主要通过IRAK-NF-ₖB、TRAF-AP-1通路转导信号”（C错）。（7版医学免疫学P52）<img>“Ⅰ型细胞因子受体家族（type Ⅰcytokine receptor family） 也称血细胞生成素受体家族（hematopoietin receptor family），此类受体的胞膜外区有保守的半脱氨酸和Trp-Ser-X-Trp-Ser（WSXWS）基序，包括IL-2、IL-3、IL-4、IL-5、IL-6、IL-7、IL-9、IL-11、IL-12、IL-13、IL-15、IL-21、GM-CSF、G-CSF等细胞因子的受体，通过JAK-STAT通路转导信号”（D对）。（7版医学免疫学P53）<img>“趋化因子受体家族（chemokine receptor family） 也称7次跨膜受体家族，属于G蛋白偶联受体超家族”（E错）。",
+  "ten_point": "8版医学免疫学未明确说明。",
+  "discuss": "IL-10R属于干扰素受体家族，该家族包括Ⅰ型和Ⅱ型干扰素受体，其中Ⅰ型包括IFN-α/β受体，Ⅱ型包括IFN-γ受体。IL-10R的结构和信号传导机制与干扰素受体相似，属于Ⅱ型细胞因子受体家族，参与免疫调节作用（B对）。IL-1受体家族包括IL-1R、IL-18R等，主要参与炎症反应的调控（A错）。肿瘤坏死因子受体超家族包括TNF受体、Fas受体等，主要参与细胞凋亡和免疫调节（C错）。血细胞生成素受体家族主要涉及造血功能，如EPO受体、G-CSF受体等（D错）。趋化因子受体家族主要包括CXCR、CCR等，参与细胞迁移和炎症反应（E错）。",
+  "last_update": "2025-12-24"
+}

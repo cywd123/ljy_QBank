@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-23-37-32-586",
+  "version": "1.1.0",
+  "numb": "8",
+  "all_numb": "10",
+  "cls": "医学遗传学",
+  "unit": "基于疾病的遗传学数据分析（8版已删除）",
+  "mode": "单选题-A1型题",
+  "test": "请查询OMIM网站，明确到底是哪一位学者首次报道了Huntington病例",
+  "option": [
+    "A. George Huntington",
+    "B. William Osler",
+    "C. Vessie PR",
+    "D. Archibald Garrod",
+    "E. George Sumner Huntington"
+  ],
+  "answer": "A",
+  "nine_point": "7版医学遗传学未明确说明。",
+  "ten_point": "8版医学遗传学未明确说明。",
+  "discuss": "Huntington病的首次系统描述者是美国医师乔治·亨廷顿（George Huntington），他在1872年对该病进行了详细报道，该病因此得名亨廷顿病（Huntington disease，HD）。这是一种常染色体显性遗传性神经退行性疾病，以舞蹈样动作、精神异常和认知障碍为主要临床表现。虽然1842年由Waters首次提及类似病例，但George Huntington首次系统描述并确立了该病的遗传特征和临床表现，因此被认为是该病的正式发现者（A对）。William Osler是19世纪末至20世纪初著名的加拿大医学家，被誉为“现代医学之父”（B错）。Vessie PR可能在后续研究中有相关文献报道，但并非Huntington病的首次系统描述者（C错）。Archibald Garrod是英国医生，研究了遗传性代谢疾病，提出了“先天性代谢缺陷”的概念（D错）。George Sumner Huntington可能是George Huntington家族成员（E错）。",
+  "last_update": "2025-12-24"
+}

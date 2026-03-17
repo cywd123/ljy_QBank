@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-22-18-55-541",
+  "version": "1.1.0",
+  "numb": "3",
+  "all_numb": "186",
+  "cls": "生物化学与分子生物学",
+  "unit": "第一篇 第三章 核酸的结构与功能",
+  "mode": "单选题-A1型题",
+  "test": "细胞内含量最丰富的RNA是",
+  "option": [
+    "A. miRNA",
+    "B. mRNA",
+    "C. tRNA",
+    "D. rRNA",
+    "E. hnRNA"
+  ],
+  "answer": "D",
+  "nine_point": "",
+  "ten_point": "（10版生物化学与分子生物学P69）“核糖体RNA是细胞中含量最多的RNA，约占RNA总重量的80%以上”（D对）。",
+  "discuss": "mRNA、rRNA和tRNA是细胞中3种主要的RNA类型。rRNA是细胞内含量最多的RNA，约占RNA总量的80%以上（D对）。miRNA是一种短链的非编码RNA，细胞内含量很少（A错）。hnRNA是mRNA未成熟的前体物质，其经过一系列的剪接成为成熟的mRNA，mRNA占细胞RNA总量的2%～5%（BE错），tRNA占细胞总RNA的15%（C错）。",
+  "last_update": "2026-2-4"
+}

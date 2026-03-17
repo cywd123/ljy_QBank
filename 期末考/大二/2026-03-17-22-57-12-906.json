@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-22-57-12-906",
+  "version": "1.1.0",
+  "numb": "36",
+  "all_numb": "431",
+  "cls": "医学免疫学",
+  "unit": "第一篇 基础免疫篇 第二章 固有免疫系统的组成",
+  "mode": "单选题-A1型题",
+  "test": "C1q能与哪些Ig的补体结合位点结合",
+  "option": [
+    "A. IgG1、IgG2、IgG4、IgM",
+    "B. IgG1、IgG3、IgG4、IgM",
+    "C. IgG2、IgG3、IgG4、IgM",
+    "D. IgG1、IgG2、IgG3、IgM",
+    "E. IgM、IgG、IgA"
+  ],
+  "answer": "D",
+  "nine_point": "（7版医学免疫学P41）“人类不同类型抗体活化C1q的能力各异（IgM>IgG3>IgG1>IgG2） ,IgG4无激活经典途径的能力”（D对）。",
+  "ten_point": "（8版医学免疫学P27）“经典途径指结合抗原的IgG、IgM分子与C1q结合，顺序活化C1r、C1s、C4、C2、C3，形成C3转化酶（C4b2a）与C5转化酶（C4b2a3b）的级联酶促反应过程……人类不同类型抗体活化C1q的能力各异（IgM＞IgG3＞IgG1＞IgG2），IgG4、IgA、IgE 和IgD无激活经典途径的能力”（D对）。",
+  "discuss": "C1q能与IgG1、IgG2、IgG3以及IgM的补体结合位点结合。在经典补体激活途径中，这些免疫球蛋白通过特定结构域与C1q结合，启动补体系统的级联反应。IgG1、IgG2和IgG3的补体结合位点位于CH2区，而IgM的补体结合位点位于CH3区。这种结合对于清除病原体和抗原-抗体复合物至关重要（D对）。",
+  "last_update": "2025-12-24"
+}

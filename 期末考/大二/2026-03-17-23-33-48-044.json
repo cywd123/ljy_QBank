@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-23-33-48-044",
+  "version": "1.1.0",
+  "numb": "25",
+  "all_numb": "33",
+  "cls": "医学遗传学",
+  "unit": "第十一章 线粒体病",
+  "mode": "单选题-B型题",
+  "test": "LHON较为常见的突变是",
+  "option": [
+    "A.mtDNA第3243位点ATAI",
+    "B.mtDNA的rRNA基因内",
+    "C.mtDNA缺失所导致",
+    "D.mtDNA第3460位点",
+    "E.nDNA突变所导致"
+  ],
+  "answer": "D",
+  "nine_point": "（7版医学遗传学P150）“LHON分为两种类型：①单个线粒体突变导致的LHON，临床严重程度随突变位点不同有较大差异。在此类型中，约95%的病例由三种错义突变引起：MTND4*LHON 11 778A、MTND6*LHON 14 484C及MTND1*LHON 3460A”（D对）。",
+  "ten_point": "（8版医学遗传学P147）“约95%的病例由三种错义突变引起：MTND4*LHON11778A、MTND6*LHON14484C及MTND1*LHON3460A”（D对）。",
+  "discuss": "LHON是一种母系遗传的线粒体疾病，主要由mtDNA的点突变引起。约95%的LHON病例由三种常见错义突变导致，包括MTND4*LHON11778A、MTND6*LHON14484C和MTND1*LHON3460A。其中，mtDNA第3460位点突变（即MTND1*LHON3460A）是较为常见的突变之一，约占病例的一定比例，其导致线粒体复合体Ⅰ功能受损，进而影响视神经的能量供应和功能（D对，BE错）。mtDNA第3243位点突变（m.3243A>G）与线粒体糖尿病（如MIDD）相关（A错）。mtDNA缺失通常与KSS（Kearns-Sayre综合征）或CPEO（慢性进行性眼外肌麻痹）等线粒体疾病相关（C错）。",
+  "last_update": "2025-12-24"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-23-08-06-686",
+  "version": "1.1.0",
+  "numb": "197",
+  "all_numb": "201",
+  "cls": "医学免疫学",
+  "unit": "第一篇 基础免疫篇 第八章 B淋巴细胞",
+  "mode": "多选题-X型题",
+  "test": "成熟B细胞表达的mIg主要为",
+  "option": [
+    "A. mIgM",
+    "B. mIgD",
+    "C. mIgG",
+    "D. mIgA",
+    "E. mIgE"
+  ],
+  "answer": "AB",
+  "nine_point": "（7版医学免疫学P77）“成熟B细胞表面可同时表达mIgM和mIgD”（AB对）。",
+  "ten_point": "（8版医学免疫学P95）“4.成熟B细胞 经历阴性选择后，未成熟B细胞进入外周免疫器官继续发育，其重链基因通过转录、RNA拼接，表达δ链，与轻链组装后表达mIgD，成为成熟B细胞，又称初始B细胞。成熟B细胞同时表达mIgM和mIgD，其可变区完全相同”（AB对）。",
+  "discuss": "膜结合型IgD是B细胞分化发育成熟的标志，未成熟B细胞仅表达mIgM，成熟B细胞可同时表达mIgM和mIgD（AB对）。根据膜上的BCR类型，B细胞可分为表达IgM、IgD、IgC、IgA和IgE的B细胞亚群。未成熟B细胞与初始B细胞都是mIgM⁺B细胞，已活化并已分别发生过类别转换的B细胞包括mIgG⁺B细胞、mIgA⁺B细胞、mIgE⁺B细胞（CDE错）。",
+  "last_update": "2025-12-24"
+}

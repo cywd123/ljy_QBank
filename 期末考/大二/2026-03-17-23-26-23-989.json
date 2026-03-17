@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-23-26-23-989",
+  "version": "1.1.0",
+  "numb": "10",
+  "all_numb": "28",
+  "cls": "医学遗传学",
+  "unit": "绪论",
+  "mode": "单选题-A1型题",
+  "test": "“精准医学之父”是",
+  "option": [
+    "A. Archibald Garrod（1857-1936）",
+    "B. Alfred Knudson（1922-2016）",
+    "C. James Watson（1928—）",
+    "D. Linus Pauling（1901-1994）",
+    "E. Francis Collins（1950—）"
+  ],
+  "answer": "A",
+  "nine_point": "7版医学遗传学未明确说明。",
+  "ten_point": "8版医学遗传学未明确说明。",
+  "discuss": "精准医学之父为英国著名医生Archibald Garrod（A对）；Alfred Knudson美国遗传学家，专门从事癌症遗传学研究。他在该领域的贡献包括1971年提出的克努森假说，解释了致癌突变（癌症的发展）（B错）；James Watson发现DNA双螺旋结构（C错）；Linus Pauling美国著名化学家，量子化学和结构生物学的先驱者之一（D错）；Francis Collins美国遗传学家，人类基因组计划领导者（E错）。",
+  "last_update": "2025-12-24"
+}

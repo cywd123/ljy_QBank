@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-22-20-04-559",
+  "version": "1.1.0",
+  "numb": "122",
+  "all_numb": "186",
+  "cls": "生物化学与分子生物学",
+  "unit": "第一篇 第三章 核酸的结构与功能",
+  "mode": "单选题-B型题",
+  "test": "RNA 的基本结构单位是",
+  "option": [
+    "A.ADP",
+    "B.cAMP",
+    "C.DATP",
+    "D.ATP",
+    "E.NMP"
+  ],
+  "answer": "E",
+  "nine_point": "（9版生物化学与分子生物学P33）“，核苷酸可分为核苷一磷酸（ nucleoside 5 '-monophosphate, NMP ）、核苷二磷酸（ nucleoside 5 ’-di phosphate, NDP ）和核苷三磷酸（ nucleoside5 ’－t呻hosphate, NTP ）”（E对）",
+  "ten_point": "（10版生物化学与分子生物学P55）“而RNA的基本组成单位是核糖核苷酸”（10版生物化学与分子生物学P57）<img>“表3-1 构成RNA的碱基、核苷以及核苷一磷酸的名称和符号”（E对）。",
+  "discuss": "RNA的基本结构单位是核苷酸，由戊糖（核糖）、磷酸和碱基组成。核苷酸通过磷酸二酯键连接形成RNA链。NMP（核苷一磷酸，nucleoside monophosphate）是核苷酸的一种基本形式，代表核苷与一个磷酸基团连接的结构，符合RNA结构单位的组成（E对）。ADP（腺苷二磷酸）含有两个磷酸基团，常见于ATP能量循环中（A错）。cAMP（环腺苷酸）是一种重要的细胞内信号分子，其结构为环状核苷酸（B错）。dATP（脱氧腺苷三磷酸）是DNA合成的原料之一，存在于DNA中，而RNA中对应的为ATP而非dATP（C错）。ATP（腺苷三磷酸）是细胞内的主要能量载体，虽然其结构中包含腺苷和磷酸基团，但其功能不同于RNA的结构组成，且ATP并非RNA链中的直接组成单位（D错）。",
+  "last_update": "2025-12-24"
+}

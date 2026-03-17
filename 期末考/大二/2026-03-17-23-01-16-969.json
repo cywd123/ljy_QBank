@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-23-01-16-969",
+  "version": "1.1.0",
+  "numb": "418",
+  "all_numb": "431",
+  "cls": "医学免疫学",
+  "unit": "第一篇 基础免疫篇 第二章 固有免疫系统的组成",
+  "mode": "多选题-X型题",
+  "test": "具有FcγRⅡ-B抑制性受体的是",
+  "option": [
+    "A. B细胞",
+    "B. NK细胞",
+    "C. 肥大细胞",
+    "D. T细胞",
+    "E. aT细胞"
+  ],
+  "answer": "AC",
+  "nine_point": "（7版医学免疫学P143）“肥大细胞的抑制性受体为FcγRⅡb，与B细胞抑制性受体相同”（AC对）。",
+  "ten_point": "",
+  "discuss": "肥大细胞的抑制性受体为FcγRⅡb，与B细胞抑制性受体相同（AC对）；胞质区氨基酸序列较长／内含ITIM的KIR（CD158）称为KIR2DL和KIR3DL，它们可转导活化抑制信号，是NK细胞表面的杀伤抑制受体（B错）；T细胞表达CD2、CD3、CD4、CD5、CD8、CD28、CD152(CTLA-4），TCR见于T细胞（D错）；T细胞表达CD2、CD3、CD4、CD5、CD8、CD28、CD152(CTLA-4），TCR见于T细胞（E错）。",
+  "last_update": "2025-12-24"
+}

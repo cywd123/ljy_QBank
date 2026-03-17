@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-22-20-00-007",
+  "version": "1.1.0",
+  "numb": "116",
+  "all_numb": "186",
+  "cls": "生物化学与分子生物学",
+  "unit": "第一篇 第三章 核酸的结构与功能",
+  "mode": "单选题-A1型题",
+  "test": "不涉及核酸分子杂交的技术是",
+  "option": [
+    "A. 基因芯片",
+    "B. DNA印迹",
+    "C. PCR",
+    "D. 蛋白质印迹",
+    "E. RNA印迹"
+  ],
+  "answer": "D",
+  "nine_point": "（9版生物化学与分子生物学P53）“核酸分子杂交是一项被广泛地应用在分子生物学和医学中的技术， Southern 印迹、North n 印迹、斑点印迹、原位杂交、PCR 扩增、基因芯片等核酸检测方法都利用了核酸分子杂交的原理”（AC错）。（9版生物化学与分子生物学P441）<img>“DNA 印迹（ DNA blotting ）为E Southern 首次应用，因而命名为Southern blotting……利用与DNA 印迹相类似的技术来分析RNA 就称为RNA 印迹（ RNA blotting ） 。相对于Southern blotting，有人将RNA 印迹称为Northern blotting ，其技术原理与Southern blotting 相同”（BE错）。",
+  "ten_point": "（10版生物化学与分子生物学P74）“核酸分子杂交是一项被广泛地应用在分子生物学和医学中的技术，Southern印迹、Northern印迹、斑点印迹、原位杂交、PCR扩增、基因芯片等核酸检测方法都利用了核酸分子杂交的原理”（ABCE对；D错，为本题正确答案）。",
+  "discuss": "核酸分子杂交是一项被广泛地应用在分子生物学和医学中的技术， Southern 印迹（DNA印记）、North n 印迹（RNA印记）、斑点印迹、原位杂交、PCR 扩增、基因芯片等核酸检测方法都利用了核酸分子杂交的原理（D对ACDE错）。",
+  "last_update": "2025-12-24"
+}

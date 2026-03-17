@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-22-19-51-570",
+  "version": "1.1.0",
+  "numb": "102",
+  "all_numb": "186",
+  "cls": "生物化学与分子生物学",
+  "unit": "第一篇 第三章 核酸的结构与功能",
+  "mode": "单选题-A1型题",
+  "test": "合成DNA 的原料是",
+  "option": [
+    "A. dNDP",
+    "B. NDP",
+    "C. NTP",
+    "D. dNMP",
+    "E. dNTP"
+  ],
+  "answer": "E",
+  "nine_point": "（9版生物化学与分子生物学P235）“DNA 复制是酶促核苷酸聚合反应，底物是dATP 、dGTP 、dCTP 和dTTP ，总称dNTP”（E对）。",
+  "ten_point": "（10版生物化学与分子生物学P258）“DNA复制是酶促核苷酸聚合反应，底物是dATP、dGTP、dCTP 和 dTTP，总称dNTP”（E对）。",
+  "discuss": "DNA合成的原料是脱氧核苷三磷酸（dNTP），包括dATP、dGTP、dCTP和dTTP。DNA聚合酶以单链DNA为模板，催化dNTP逐个添加到引物3'-OH末端，形成磷酸二酯键，从而合成新的互补DNA链。这一过程是DNA复制和测序的基础。在桑格测序法中，ddNTP的加入可终止链延伸，用于确定DNA序列（E对）。",
+  "last_update": "2025-12-24"
+}

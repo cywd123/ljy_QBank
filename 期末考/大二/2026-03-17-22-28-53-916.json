@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-22-28-53-916",
+  "version": "1.1.0",
+  "numb": "41",
+  "all_numb": "46",
+  "cls": "生物化学与分子生物学",
+  "unit": "第二篇 第十一章 核苷酸代谢",
+  "mode": "多选题-X型题",
+  "test": "从IMP合成GMP需要",
+  "option": [
+    "A. 天冬氨酸",
+    "B. 天冬酰胺",
+    "C. ATP",
+    "D. NAD⁺",
+    "E. 谷氨酰胺"
+  ],
+  "answer": "CDE",
+  "nine_point": "",
+  "ten_point": "（10版生物化学与分子生物学P220）“IMP转变为AMP需要天冬氨酸提供氨基，反应由GTP提供能量；IMP向GMP的转变是IMP先被NAD⁺氧化，然后再由谷氨酰胺提供氨基生成GMP，该过程由ATP提供能量，ATP最后被分解为AMP和PPi”（10版生物化学与分子生物学P221）<img>“在形成AMP和GMP过程中，IMP转化为AMP时需要GTP，转化为GMP时需要ATP。GTP可以促进AMP的生成，ATP也可以促进GMP的生成”（CDE对）。",
+  "discuss": "从IMP合成GMP的过程中，需要NAD⁺作为辅酶参与氧化反应，ATP提供能量，以及谷氨酰胺作为氨基供体。这些物质共同作用于IMP脱氢酶和鸟苷酸合成酶，最终将IMP转化为GMP（CDE对）。天冬氨酸在嘌呤核苷酸代谢中主要用于AMP的合成，而不是GMP的合成（A错）。天冬酰胺并不直接参与IMP到GMP的转化过程（B错）。",
+  "last_update": "2025-12-24"
+}

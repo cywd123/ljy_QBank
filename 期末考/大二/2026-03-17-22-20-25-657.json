@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-22-20-25-657",
+  "version": "1.1.0",
+  "numb": "149",
+  "all_numb": "186",
+  "cls": "生物化学与分子生物学",
+  "unit": "第一篇 第三章 核酸的结构与功能",
+  "mode": "单选题-B型题",
+  "test": "与蛋白质结合后参与mRNA 加工",
+  "option": [
+    "A.snRNA",
+    "B.mRNA",
+    "C.rRNA",
+    "D.hnRNA",
+    "E.tRNA"
+  ],
+  "answer": "A",
+  "nine_point": "（9版生物化学与分子生物学P49）“snRNA 参与了真核细胞mRNA 的成熟过程”（A对。）",
+  "ten_point": "（10版生物化学与分子生物学P70）“核小RNA（small nuclear RNA，snRNA）细胞核内的短片段RNA，长度100～215个核苷酸，研究较多的为7类，由于含U丰富，故编号为U1～U7。其中U3存在于核仁中，其他6种存在于非核仁区的核液里。U3snRNA与核仁内28S rRNA的成熟有关。U7与组蛋白前体mRNA的茎环结构的加工有关。其他5种小核RNA是真核生物转录后加工过程中RNA剪接体（spliceosome）的主要成分，参与前体mRNA的加工过程”（A对）。",
+  "discuss": "snRNA 参与了真核细胞mRNA 的成熟过程（A对）。真核mRNA 除了组蛋白的mRNA ，在3 ’－端都有多聚腺昔酸［ poly( A ） ］ 尾结构（B错）。核糖体的两个亚基由精确折叠的蛋白质和rRNA 组成（C错）。前体mRNA 也称为初级mRNA 转录物 或核不均－RNA（ hnRNA ）（D错）。所有tRNA 的3 ’－端都是以CCA 三个核苷酸结束的（E错）。",
+  "last_update": "2025-12-24"
+}

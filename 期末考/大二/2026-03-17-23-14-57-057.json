@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-23-14-57-057",
+  "version": "1.1.0",
+  "numb": "60",
+  "all_numb": "110",
+  "cls": "医学免疫学",
+  "unit": "第二篇 临床免疫篇 第十七章 免疫缺陷病",
+  "mode": "单选题-A1型题",
+  "test": "Bruton病患者Btk基因缺陷导致B细胞发育停滞于",
+  "option": [
+    "A. Pre﹣B阶段",
+    "B. Immature B阶段",
+    "C. Mature B阶段",
+    "D. Pro﹣B阶段",
+    "E. Plasma阶段"
+  ],
+  "answer": "A",
+  "nine_point": "（7版医学免疫学P167）“Btk分子参与未成熟B细胞分化和成熟B细胞活化。Btk基因突变或缺失致酪氨酸激酶合成障碍，B细胞发育停滞于前B细胞状态，导致成熟B细胞数目减少甚至缺失”（A对）。",
+  "ten_point": "（8版医学免疫学P185）“缺乏Btk导致了B细胞发育停滞在pre B阶段，引起选择性体液免疫缺陷病”（A对）。",
+  "discuss": "Bruton病由Btk基因突变引起，该基因编码的Bruton酪氨酸激酶（BTK）在B细胞受体（BCR）信号传导中起关键作用。在正常B细胞发育过程中，pre-B细胞阶段发生Igμ链重排，并与替代轻链（λ5和VpreB）组成pre-BCR，该受体通过BTK介导信号传导，促使B细胞进一步分化为immature B细胞。BTK缺陷导致信号传导受阻，B细胞发育停滞于pre-B阶段（A对）。Immature B阶段是指B细胞完成轻链重排并表达完整BCR（IgM）的阶段，该阶段的B细胞已通过pre-B阶段发育而来，而Bruton病患者由于BTK缺陷，B细胞无法进入该阶段（B错）。Mature B阶段是B细胞在骨髓中完成发育后进入外周淋巴器官的阶段，表达IgM和IgD，具备抗原识别能力，Bruton病患者B细胞根本无法通过pre-B阶段（C错）。Pro-B阶段是B细胞发育的早期阶段，位于pre-B之前，主要进行重链基因重排，Bruton病患者B细胞发育停滞在pre-B阶段（D错）。Plasma阶段即浆细胞阶段，是成熟B细胞在外周受抗原刺激后分化为分泌抗体的终末阶段，Bruton病患者缺乏成熟B细胞（E错）。",
+  "last_update": "2026-3-6"
+}

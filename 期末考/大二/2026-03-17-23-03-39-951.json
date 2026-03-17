@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-23-03-39-951",
+  "version": "1.1.0",
+  "numb": "147",
+  "all_numb": "170",
+  "cls": "医学免疫学",
+  "unit": "第一篇 基础免疫篇 第五章 抗原的加工处理和提呈",
+  "mode": "多选题-X型题",
+  "test": "Proteasome又可称为",
+  "option": [
+    "A. large multifunctional protease，LMP",
+    "B. MⅡC",
+    "C. transporterof antigenic peptide，TAP",
+    "D. low molecular weight poly peptide，LMP",
+    "E. endosome"
+  ],
+  "answer": "AD",
+  "nine_point": "（7版医学免疫学P97）“干扰素等可诱导细胞产生低分子量多肽（low molecular weight peptide, LMP）, LMP取代蛋白酶体催化亚单位使其酶解蛋白质的模式发生变化而成为免疫蛋白酶体（immunology proteasome ）”（AD对）。",
+  "ten_point": "8版医学免疫学未明确说明。",
+  "discuss": "干扰素等可诱导细胞产生低分子量多肽（LMP）， LMP取代蛋白酶体催化亚单位使其酶解蛋白质的模式发生变化而成为免疫蛋白酶体（immunology proteasome ）（AD对）；内体和吞噬溶酶体又与胞质中的 MHCⅡ类小室（MHC class Ⅱ compartment,MⅡC）融合，MⅡC是富含MHCⅡ类分子的溶酶体样细胞器（B错）；抗原加工相关转运物（TAP）是由两个6次跨膜蛋白（TAP1和TAP2）组成的异二聚体，在ER膜上形成孔道，其功能是将抗原肽从胞质转运至ER腔内与新组装的MHCⅡ类分子结合（C错）；摄取蛋白质抗原形成的囊泡与内体（endosome）融合（E错）。",
+  "last_update": "2026-3-6"
+}

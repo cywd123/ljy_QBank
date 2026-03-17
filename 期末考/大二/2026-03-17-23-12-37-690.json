@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-23-12-37-690",
+  "version": "1.1.0",
+  "numb": "17",
+  "all_numb": "95",
+  "cls": "医学免疫学",
+  "unit": "第二篇 临床免疫篇 第十五章 肿瘤免疫",
+  "mode": "单选题-A1型题",
+  "test": "免疫监视学说是由谁提出的",
+  "option": [
+    "A. Robert Koch",
+    "B. Emil Von Behring",
+    "C. Paul Ehrlich",
+    "D. Frank Macfarlane Burnet和Lewis Thomas",
+    "E. Karl Landsteiner"
+  ],
+  "answer": "D",
+  "nine_point": "7版医学免疫学未明确说明。",
+  "ten_point": "8版医学免疫学未明确说明。",
+  "discuss": "免疫监视学说主要由Frank Macfarlane Burnet和Lewis Thomas提出，该学说强调机体的免疫系统能够识别并清除体内出现的肿瘤细胞或其他异常细胞，从而防止肿瘤的发生和发展。Burnet在20世纪中叶结合免疫耐受和“自己/非己”识别理论，进一步完善了免疫监视的概念，认为免疫系统不仅防御外来病原体，还参与维持机体内部稳定（D对）。Robert Koch是细菌学的奠基人之一，因发现结核分枝杆菌而获得1905年诺贝尔生理学或医学奖（A错）。Emil Von Behring因发现抗毒素并开创血清治疗而获得1901年诺贝尔生理学或医学奖，其贡献主要集中在被动免疫治疗领域（B错）。Paul Ehrlich提出了抗体生成的侧链学说，被认为是体液免疫理论的奠基人之一（C错）。Karl Landsteiner因发现人类红细胞ABO血型系统而获得1930年诺贝尔生理学或医学奖，其研究对输血医学和免疫遗传学有重大影响（E错）。",
+  "last_update": "2025-12-24"
+}

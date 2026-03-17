@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-22-28-41-536",
+  "version": "1.1.0",
+  "numb": "20",
+  "all_numb": "46",
+  "cls": "生物化学与分子生物学",
+  "unit": "第二篇 第十一章 核苷酸代谢",
+  "mode": "单选题-A1型题",
+  "test": "次黄嘌呤核苷酸的缩写符号",
+  "option": [
+    "A. PRPP",
+    "B. IMP",
+    "C. XMP",
+    "D. cGMP",
+    "E. AMP"
+  ],
+  "answer": "B",
+  "nine_point": "（9版生物化学与分子生物学P197）“首先合成次黄嘌呤核苷酸（IMP）（B对），然后IMP再转变成腺嘌呤核苷酸（AMP）与鸟嘌呤核苷酸（GMP）”。（9版生物化学与分子生物学P533）<img>“磷酸核糖-1'-焦磷酸，PRPP（A错）”（9版生物化学与分子生物学P199）<img>“图9-4由IMP合成AMP及GMP”（C错）。（9版生物化学与分子生物学P330）<img>“如钙离子、环腺苷酸（cAMP）、环鸟苷酸（cGMP）（D错）……一氧化氮和一氧化碳等”。",
+  "ten_point": "（10版生物化学与分子生物学P218）“生物体内细胞利用核糖-5-磷酸、氨基酸、一碳单位和CO₂等简单物质为原料……首先合成次黄嘌呤核苷酸（IMP）”（B对）。",
+  "discuss": "次黄嘌呤核苷酸的全称为Inosine monophosphate，缩写为IMP。在嘌呤核苷酸的代谢过程中，IMP是嘌呤核苷酸从头合成途径的中间产物，是AMP和GMP的共同前体。IMP的合成经过多步反应完成，最终通过IMP合酶催化形成。IMP在不同酶的作用下可进一步转变为AMP或GMP，参与细胞内多种生化过程（B对）。PRPP是磷酸核糖焦磷酸（phosphoribosyl pyrophosphate）的缩写，是嘌呤和嘧啶核苷酸从头合成及补救合成的重要中间体（A错）。XMP是黄嘌呤核苷酸（xanthosine monophosphate）的缩写，是嘌呤核苷酸代谢中GMP生成过程中的中间产物（C错）。cGMP是环磷酸鸟苷（cyclic guanosine monophosphate）的缩写，属于细胞内重要的第二信使，参与信号转导（D错）。AMP是腺嘌呤核苷酸（adenosine monophosphate）的缩写，是嘌呤核苷酸的一种（E错）。",
+  "last_update": "2025-12-24"
+}

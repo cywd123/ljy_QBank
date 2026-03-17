@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-22-20-06-114",
+  "version": "1.1.0",
+  "numb": "124",
+  "all_numb": "186",
+  "cls": "生物化学与分子生物学",
+  "unit": "第一篇 第三章 核酸的结构与功能",
+  "mode": "单选题-B型题",
+  "test": "可作为DNA 合成的原料是",
+  "option": [
+    "A.ADP",
+    "B.cAMP",
+    "C.DATP",
+    "D.ATP",
+    "E.NMP"
+  ],
+  "answer": "C",
+  "nine_point": "（9版生物化学与分子生物学P235）“DNA 复制是酶促核昔酸聚合反应，底物是dATP 、dGTP 、dCTP 和dTTP ，总称dNTP”（C对）。",
+  "ten_point": "（10版生物化学与分子生物学P258）“DNA复制是酶促核苷酸聚合反应，底物是dATP、dGTP、dCTP 和 dTTP，总称dNTP”（C对）。",
+  "discuss": "DNA合成是以脱氧核苷三磷酸（dNTP）作为原料，包括dATP、dGTP、dCTP和dTTP。这些分子在DNA聚合酶催化下，按照模板链的序列互补配对，并通过磷酸二酯键连接形成新的DNA链。DATP即脱氧腺苷三磷酸，是DNA合成所需的四种标准原料之一（C对）。",
+  "last_update": "2026-1-29"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-23-30-38-573",
+  "version": "1.1.0",
+  "numb": "44",
+  "all_numb": "74",
+  "cls": "医学遗传学",
+  "unit": "第六章 线粒体遗传",
+  "mode": "单选题-B型题",
+  "test": "内环为轻链（L） 富含C，编码决定",
+  "option": [
+    "A.13种多肽链、12S rRNA、16S rRNA和22种tRNA",
+    "B.12种多肽链和8种tRNA",
+    "C.1种多肽链和8种tRNA",
+    "D.12种多肽链、12S rRNA、16S rRNA和14种tRNA",
+    "E.22种tRNA、12S rRNA和16S rRNA"
+  ],
+  "answer": "C",
+  "nine_point": "（7版医学遗传学P89）“其中，H链编码12种多肽链、12SrRNA、16SrRNA和14种tRNA，而L链仅编码1种多肽链和8种tRNA ”（C对）。",
+  "ten_point": "（8版医学遗传学P83）“而内环L链仅编码1种多肽链和8种tRNA”（C对）。",
+  "discuss": "线粒体DNA（mtDNA）为环状双链分子，分为重链（H链）和轻链（L链）。其中内环为轻链（L链），富含胞嘧啶（C），编码1种多肽链（ND6）和8种tRNA（C对，ABDE错）。",
+  "last_update": "2025-12-24"
+}

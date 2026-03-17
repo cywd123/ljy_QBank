@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-22-19-54-976",
+  "version": "1.1.0",
+  "numb": "108",
+  "all_numb": "186",
+  "cls": "生物化学与分子生物学",
+  "unit": "第一篇 第三章 核酸的结构与功能",
+  "mode": "单选题-A1型题",
+  "test": "合成RNA的原料是",
+  "option": [
+    "A. dNDP",
+    "B. dNTP",
+    "C. NTP",
+    "D. dNMP",
+    "E. NDP"
+  ],
+  "answer": "C",
+  "nine_point": "（9版生物化学与分子生物学P262）“RNA的生物合成属于酶促反应，反应体系中需要DNA模板、NTP（包括ATP、UTP、CTP和GTP）、DNA依赖的RNA聚合酶（DNA-dependentRNApolymerase，简称RNApol）、其他蛋白质因子及Mg²⁺等”（C对）。",
+  "ten_point": "（10版生物化学与分子生物学P272）“RNA聚合酶（RNA pol）催化RNA的转录合成。该反应以DNA为模板，以ATP、 GTP、UTP 和 CTP为原料，还需要Mg²⁺作为辅基”（C对）。",
+  "discuss": "RNA的合成是以核苷三磷酸（NTP）为原料进行的酶促反应，包括ATP、GTP、CTP和UTP四种。在RNA聚合酶的作用下，这些NTP分子按照DNA模板链的碱基序列进行互补配对，并通过脱水缩合反应形成3',5'-磷酸二酯键，逐步合成RNA链。这一过程不仅提供RNA的结构基础，也通过高能磷酸键的断裂为合成反应提供能量（C对）。dNDP（脱氧核苷二磷酸）是DNA合成过程中的中间产物，但不是RNA的合成原料（A错）。dNTP（脱氧核苷三磷酸）是DNA复制的直接原料，用于DNA聚合酶催化的链延伸反应，不参与RNA的合成（B错）。dNMP（脱氧核苷单磷酸）是DNA的基本组成单位之一，但其形式不具有高能磷酸键，不能直接用于RNA或DNA的合成（D错）。NDP（核苷二磷酸）不是RNA合成的直接原料，RNA合成需要的是三磷酸形式的核苷酸（E错）。",
+  "last_update": "2025-12-24"
+}

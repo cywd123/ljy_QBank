@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-23-03-52-025",
+  "version": "1.1.0",
+  "numb": "169",
+  "all_numb": "170",
+  "cls": "医学免疫学",
+  "unit": "第一篇 基础免疫篇 第五章 抗原的加工处理和提呈",
+  "mode": "多选题-X型题",
+  "test": "属于人MHC非经典Ⅰ类基因的是",
+  "option": [
+    "A. HLA﹣E",
+    "B. HLA﹣F",
+    "C. HLA﹣G",
+    "D. HLA﹣A",
+    "E. HLA﹣B"
+  ],
+  "answer": "ABC",
+  "nine_point": "",
+  "ten_point": "（8版医学免疫学P55）“HLAⅠ类基因区由经典Ⅰ类基因座（HLAⅠa）即A、B、C和非经典Ⅰ类基因座（HLAⅠb）即E、F、G等组成”（ABC对）。",
+  "discuss": "HLA Ⅰ类基因区由经典Ⅰ类基因座即A、B、C和非经典Ⅰ类基因座即E、F、G等组成（ABC对，DE错）。",
+  "last_update": "2026-3-6"
+}

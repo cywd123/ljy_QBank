@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-22-19-45-959",
+  "version": "1.1.0",
+  "numb": "92",
+  "all_numb": "186",
+  "cls": "生物化学与分子生物学",
+  "unit": "第一篇 第三章 核酸的结构与功能",
+  "mode": "单选题-A1型题",
+  "test": "调控性非编码RNA不包括",
+  "option": [
+    "A. snoRNA",
+    "B. siRNA",
+    "C. miRNA",
+    "D. lncRNA",
+    "E. piRNA"
+  ],
+  "answer": "A",
+  "nine_point": "（9版生物化学与分子生物学P49）“调控性非编码RNA 按其大小分为非编码小RNA（ small non-coding RNA, sncRNA ）、长非编码RNA（long non-coding RNA ,lncRNA ）和环状RNA（ circular RNA ,circRNA ） ……sncRNA 包括微RNA （ microRNA, miRNA ）、干扰小RNA（ small interfering RNA , siRNA ）和piRNA”（A对）。",
+  "ten_point": "（10版生物化学与分子生物学P70～71）“调控性非编码RNA主要有以下几种。1.非编码小RNA（sncRNA）通常认为，sncRNA的长度小于200nt。sncRNA包括微RNA（miRNA）、干扰小RNA（siRNA）和piRNA……2.长非编码RNA（lncRNA）”（BCDE对A错，为本题正确答案）。",
+  "discuss": "snoRNA属于组成性非编码RNA，主要参与rRNA的加工过程，并不直接调控基因表达（A错，为本题正确答案）。siRNA是调控性非编码RNA的一种，通过RNA干扰机制在转录后水平上调控基因表达（B对）。miRNA是调控性非编码RNA的重要成员，通过与靶mRNA结合抑制其翻译或促进其降解来调控基因表达（C对）。lncRNA是长链非编码RNA，具有多种生物学功能，包括调控基因表达、染色质结构和细胞分化等（D对）。piRNA是一类小的非编码RNA，主要参与基因组稳定性和生殖细胞发育过程中的转录沉默（E对）。",
+  "last_update": "2025-12-24"
+}

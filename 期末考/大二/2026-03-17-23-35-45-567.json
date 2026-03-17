@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-23-35-45-567",
+  "version": "1.1.0",
+  "numb": "21",
+  "all_numb": "42",
+  "cls": "医学遗传学",
+  "unit": "第十六章 表观遗传异常引起的疾病",
+  "mode": "单选题-A1型题",
+  "test": "非编码RNA包括",
+  "option": [
+    "A. mRNA",
+    "B. rRNA",
+    "C. tRNA",
+    "D. IncRNA",
+    "E. 以上都是"
+  ],
+  "answer": "D",
+  "nine_point": "（7版医学遗传学P203）“ncRNA 包括小ncRNA和长链ncRNA （long ncRNA， lncRNA ）”（D对）。",
+  "ten_point": "（8版医学遗传学P207）“在真核细胞中存在大量转录的一类RNA分子，一般不被翻译成蛋白质，也缺乏tRNA和rRNA的功能。但能在各个水平调节基因表达，行使各自生物学功能，这类RNA被称之为非编码RNA（non-coding RNAs，ncRNAs）”（D对）。",
+  "discuss": "ncRNA包括小ncRNA和长链ncRNA （long ncRNA， lncRNA ）（D对ABCE错）。",
+  "last_update": "2025-12-24"
+}

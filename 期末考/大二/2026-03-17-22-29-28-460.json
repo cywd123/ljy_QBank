@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-22-29-28-460",
+  "version": "1.1.0",
+  "numb": "17",
+  "all_numb": "40",
+  "cls": "生物化学与分子生物学",
+  "unit": "第三篇 第十四章 DNA的合成",
+  "mode": "单选题-A1型题",
+  "test": "用实验证实DNA的半保留复制的学者是",
+  "option": [
+    "A. Watson和Crick",
+    "B. Kornberg",
+    "C. Sanger",
+    "D. MeselsonM和StahlFW",
+    "E. 上述四种都可以"
+  ],
+  "answer": "D",
+  "nine_point": "（9版生物化学与分子生物学P233）“1958年MeselsonM和StahlFW（D对）用实验证实自然界的DNA复制方式是半保留式的”。",
+  "ten_point": "（10版生物化学与分子生物学P256）“1958年，Meselson M.和Stahl F.W.用实验证实自然界的DNA复制方式是半保留式的。他们利用细菌能够以NH₄Cl为氮源合成DNA的特性，将细菌在含¹⁵NH₄Cl的培养液中培养若干代（每一代约20分钟），此时细菌DNA全部是含¹⁵N的‘重’DNA；再将细菌放回普通的14NH₄Cl培养液中培养，新合成的DNA则有14N的掺入；提取不同培养代数的细菌DNA做密度梯度离心分析，因¹⁵N-DNA和14N-DNA的密度不同，DNA因此形成不同的致密带。结果表明，细菌在¹⁵NH₄Cl培养基中生长繁殖时合成的¹⁵N-DNA是1条高密度带；转入普通培养基培养1代后得到1条中密度带，提示其为¹⁵N-DNA链与14N-DNA链的杂交分子；在第二代时可见中密度和低密度2条带，表明它们分别为¹⁵N-DNA链/14N-DNA链、14N-DNA链/14N-DNA链组成的分子”（D对）。",
+  "discuss": "实验利用同位素标记法，将细菌在含¹⁵NH₄Cl的培养液中培养多代，使其DNA全部为重DNA（¹⁵N-DNA），随后将细菌转移至普通14NH4Cl培养液中继续培养，并在不同代数提取DNA进行密度梯度离心分析。结果显示，第一代DNA为中密度带，第二代出现中密度和低密度两条带，证明DNA复制后亲代链保留在子代DNA分子中，即半保留复制方式。该实验由Meselson M.和Stahl F.W.于1958年完成，是分子生物学史上的经典研究（D对）。Waston和Crick提出了DNA双螺旋结构模型，为理解DNA复制机制奠定了基础（A错）。Kornberg（Arthur Kornberg）因发现DNA聚合酶并成功在体外合成DNA而闻名（B错）。Sanger（Frederick Sanger）是蛋白质和DNA测序技术的先驱（C错）。",
+  "last_update": "2026-3-6"
+}

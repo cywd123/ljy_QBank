@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-22-19-52-160",
+  "version": "1.1.0",
+  "numb": "103",
+  "all_numb": "186",
+  "cls": "生物化学与分子生物学",
+  "unit": "第一篇 第三章 核酸的结构与功能",
+  "mode": "单选题-A1型题",
+  "test": "含量最多的RNA是",
+  "option": [
+    "A. mRNA",
+    "B. tRNA",
+    "C. rRNA",
+    "D. SnRNA",
+    "E. hnRNA"
+  ],
+  "answer": "C",
+  "nine_point": "（9版生物化学与分子生物学P47）“核糖体RNA（rRNA）（C对）是细胞中含量最多的RNA”。（9版生物化学与分子生物学P44）<img>“在生物体内，mRNA（A错）的丰度最小，仅占细胞RNA总重量的2%～5%”。（9版生物化学与分子生物学P45）<img>“tRNA（B错）约占细胞RNA总重量的15%左右”。",
+  "ten_point": "（10版生物化学与分子生物学P69）“rRNA有确定的种类和保守的核苷酸序列。rRNA与核糖体蛋白质（ribosomal protein）共同构成核糖体（ribosome），它将蛋白质生物合成所需要的mRNA、tRNA以及多种蛋白质因子募集在一起，为蛋白质生物合成提供了必需的场所。rRNA是细胞中含量最多的RNA，约占RNA总重量的80%以上……”（C对）。",
+  "discuss": "rRNA（C对）是细胞中含量最多的RNA，约占RNA总重量的80%。mRNA（A错）约占细胞RNA总量的2%~5%，tRNA（B错）约占细胞RNA总量的15%左右。",
+  "last_update": "2025-12-24"
+}

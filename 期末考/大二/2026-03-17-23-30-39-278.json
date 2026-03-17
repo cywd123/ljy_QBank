@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-23-30-39-278",
+  "version": "1.1.0",
+  "numb": "45",
+  "all_numb": "74",
+  "cls": "医学遗传学",
+  "unit": "第六章 线粒体遗传",
+  "mode": "单选题-B型题",
+  "test": "外环为重链（H）富含G，编码决定",
+  "option": [
+    "A.13种多肽链、12S rRNA、16S rRNA和22种tRNA",
+    "B.12种多肽链和8种tRNA",
+    "C.1种多肽链和8种tRNA",
+    "D.12种多肽链、12S rRNA、16S rRNA和14种tRNA",
+    "E.22种tRNA、12S rRNA和16S rRNA"
+  ],
+  "answer": "D",
+  "nine_point": "（7版医学遗传学P89）“其中，H链编码12种多肽链、12SrRNA、16SrRNA和14种tRNA，而L链仅编码1种多肽链和8种tRNA ”（D对）。",
+  "ten_point": "（8版医学遗传学P83）“外环H链编码12种多肽链、12S rRNA、16S rRNA和14种tRNA”（D对）。",
+  "discuss": "线粒体DNA（mtDNA）为环状双链分子，外环为重链（H链），富含鸟嘌呤。mtDNA共编码37个基因，包括13种多肽链、22种tRNA和2种rRNA。其中H链编码12种多肽链（如ND1、ND2、COX I、ATPase6等）、12S rRNA、16S rRNA以及14种tRNA，而L链仅编码1种多肽链（ND6）和8种tRNA（D对，ABCE错）。",
+  "last_update": "2025-12-24"
+}

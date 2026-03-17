@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-22-49-06-378",
+  "version": "1.1.0",
+  "numb": "35",
+  "all_numb": "131",
+  "cls": "医学微生物学",
+  "unit": "第二篇 第二十九章 肝炎病毒",
+  "mode": "单选题-A1型题",
+  "test": "HBV包膜上的S蛋白的成分是",
+  "option": [
+    "A. HBsAg﹢PreS2Ag",
+    "B. PreS1Ag",
+    "C. PreS2Ag",
+    "D. HBsAg",
+    "E. HBsAg﹢PreS1Ag﹢PreS2Ag"
+  ],
+  "answer": "D",
+  "nine_point": "（9版医学微生物学P257）“图28-4 HBV的形态与结构示意图”（D对ABCE错）。",
+  "ten_point": "（10版医学微生物学P272）“S蛋白为HBV表面抗原（HBsAg）”（D对）。",
+  "discuss": "包膜蛋白有3种，分别为小蛋白（S蛋白）、中蛋白（M蛋白）和大蛋白（L蛋白），三者的比例约为4:1:1。S蛋白为HBV表面抗原（HBsAg）（D对）。HBsAg+ PreS2Ag（A错）、PreS1Ag（B错）、PreS2Ag（C错）、HBsAg+PreS1Ag+PreS2Ag（E错）均不是HBV包膜上的S蛋白的成分。",
+  "last_update": "2026-3-6"
+}

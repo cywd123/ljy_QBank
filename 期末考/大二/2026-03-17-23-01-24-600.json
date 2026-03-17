@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-23-01-24-600",
+  "version": "1.1.0",
+  "numb": "431",
+  "all_numb": "431",
+  "cls": "医学免疫学",
+  "unit": "第一篇 基础免疫篇 第二章 固有免疫系统的组成",
+  "mode": "多选题-X型题",
+  "test": "Caspase",
+  "option": [
+    "A. 其中的C指半胱氨酸",
+    "B. 其中的asp指天冬氨酸",
+    "C. 专一性地在天冬氨酸及其邻近的氨基酸残基之间使底物分解",
+    "D. 简称半胱天冬氨酸蛋白酶",
+    "E. 在Fas相关的凋亡信号转导中发挥重要作用"
+  ],
+  "answer": "ABCDE",
+  "nine_point": "7版医学免疫学未明确说明。",
+  "ten_point": "（8版医学免疫学P116）“自身反应性T细胞识别自身抗原时若缺少共刺激信号和细胞因子的作用，则线粒体内的细胞色素C等会泄漏至胞质，激活胱天蛋白酶途径，引起细胞凋亡”（ABCDE对）。",
+  "discuss": "Caspase全称为含半胱氨酸的天冬氨酸蛋白水解酶(cysteinyl aspartate specific proteinase)（D对）。caspase是一组存在于细胞质中具有类似结构的蛋白酶。Cysteine为半胱氨酸（A对），aspartate为天冬氨酸（B对）；Caspase选择性裂解天冬氨酸后残基（C对）；Caspase-8、Caspase-3参与了Fas相关的凋亡信号转导（E对）。",
+  "last_update": "2025-12-24"
+}

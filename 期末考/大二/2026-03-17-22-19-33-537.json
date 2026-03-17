@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-22-19-33-537",
+  "version": "1.1.0",
+  "numb": "70",
+  "all_numb": "186",
+  "cls": "生物化学与分子生物学",
+  "unit": "第一篇 第三章 核酸的结构与功能",
+  "mode": "单选题-A1型题",
+  "test": "只存在于细胞核的RNA是",
+  "option": [
+    "A. rRNA",
+    "B. mRNA",
+    "C. miRNA",
+    "D. tRNA",
+    "E. hnRNA"
+  ],
+  "answer": "E",
+  "nine_point": "（9版生物化学与分子生物学P44）“细胞核内新生成的mRNA 初级产物被称为核不均－ RNA （ heterogeneous nuclear RNA hnRNA ）”（E对）",
+  "ten_point": "（10版生物化学与分子生物学P65）“在真核细胞中，细胞核内新生成的mRNA初级产物被称为核不均一RNA（hnRNA）。hnRNA在细胞核内合成后，经过一系列的转录后修饰，剪接成为成熟mRNA，最后被转运到细胞质中”（E对）。",
+  "discuss": "hnRNA是mRNA的前体，主要在细胞核内合成，并在此进行剪切和加工，生成成熟的mRNA。由于hnRNA尚未完成加工过程，因此仅存在于细胞核中（E对）。",
+  "last_update": "2025-12-24"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-23-30-27-523",
+  "version": "1.1.0",
+  "numb": "27",
+  "all_numb": "74",
+  "cls": "医学遗传学",
+  "unit": "第六章 线粒体遗传",
+  "mode": "单选题-A1型题",
+  "test": "mtDNA中含有的基因为",
+  "option": [
+    "A. 2个rRNA基因，22个tRNA基因，13个mRNA基因",
+    "B. 2个rRNA基因，13个tRNA基因，22个mRNA基因",
+    "C. 13个rRNA基因，22个tRNA基因，2个mRNA基因",
+    "D. 22个rRNA基因，2个tRNA基因，13个mRNA基因",
+    "E. 2个rRNA基因，14个tRNA基因，12个mRNA基因"
+  ],
+  "answer": "A",
+  "nine_point": "（7版医学遗传学P89）“mtDNA分为编码区与非编码区。编码区包括37个基因，分别编码了13种多肽链、22种tRNA和2种rRNA”（A对）。",
+  "ten_point": "（8版医学遗传学P83）“mtDNA分为编码区与非编码区。编码区包括37个基因，分别编码了13种多肽链、22种tRNA和2种rRNA”（A对）。",
+  "discuss": "mtDNA含2个rRNA基因，22个tRNA基因，13个mRNA基因，这些基因对线粒体功能至关重要。rRNA基因合成线粒体核糖体组分，tRNA基因转运氨基酸，mRNA基因编码特定蛋白质，主要参与呼吸链和氧化磷酸化过程（A对，BCDE错）。",
+  "last_update": "2025-12-24"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-22-19-45-006",
+  "version": "1.1.0",
+  "numb": "90",
+  "all_numb": "186",
+  "cls": "生物化学与分子生物学",
+  "unit": "第一篇 第三章 核酸的结构与功能",
+  "mode": "单选题-A1型题",
+  "test": "含修饰核苷酸最多的RNA是",
+  "option": [
+    "A. tRNA",
+    "B. mRNA",
+    "C. 5S rRNA",
+    "D. rRNA",
+    "E. hnRNA"
+  ],
+  "answer": "A",
+  "nine_point": "（9版生物化学与分子生物学P46）“tRNA含有多种稀有碱基稀有碱基（rarebase）是指除A、G、C和U外的一些碱基，包括双氢尿嘧啶（dihydrouracil，DHU）、假尿嘧啶核苷（Pseudouridine，Ψ）和甲基化的嘌呤（m⁷G、m⁷A）等”（A对）。",
+  "ten_point": "（10版生物化学与分子生物学P68）“稀有碱基（rare base）是指除A、G、C和U外的一些碱基，包括双氢尿嘧啶（dihydrouracil，DHU）、假尿嘧啶核苷（pseudouridine，ψ）和甲基化的嘌呤（m7G、m7A）等……tRNA中的稀有碱基均是转录后修饰而成的。（二）tRNA具有特定的‘茎-环’结构和倒‘L’形空间结构”（A对）。",
+  "discuss": "tRNA含有多种稀有碱基，稀有碱基包括双氢尿嘧啶、假尿嘧啶核苷和甲基化的嘌呤（A对BCDE错）。",
+  "last_update": "2026-1-20"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-23-14-01-125",
+  "version": "1.1.0",
+  "numb": "61",
+  "all_numb": "94",
+  "cls": "医学免疫学",
+  "unit": "第二篇 临床免疫篇 第十六章 移植免疫",
+  "mode": "单选题-A1型题",
+  "test": "因研究肾脏和骨髓移植获得诺贝尔奖的科学家是",
+  "option": [
+    "A. Tislius和Kabat",
+    "B. Murray和Thomas",
+    "C. Milstein和Kohler",
+    "D. Benacerraf、Dausset和Snell",
+    "E. Doherty和Zinkernagel"
+  ],
+  "answer": "B",
+  "nine_point": "（7版医学免疫学P196）“1955年Murray等成功完成首例孪生同胞间肾移植；1956年Thomas施行首例同卵双生间骨髓移植，成功治疗白血病。Thomas和Murray因对器官移植研究做出的贡献共获1990年诺贝尔生理学或医学奖”（B对）。",
+  "ten_point": "（8版医学免疫学P172）“1954年Murray等成功完成首例孪生同胞间肾移植。1956年Thomas施行首例同卵双生间骨髓移植，成功治疗白血病。Thomas和Murray因对器官移植研究做出的贡献共获1990年诺贝尔生理学或医学奖”（B对）。",
+  "discuss": "Joseph Murray和E. D. Thomas因在器官移植领域的杰出贡献共获1990年诺贝尔生理学或医学奖。Murray于1954年成功完成首例孪生同胞间肾移植，标志着器官移植进入了临床应用阶段；Thomas则于1956年施行首例同卵双生间骨髓移植，成功治疗白血病，为造血干细胞移植奠定了基础（B对）。Tislius和Kabat的贡献主要与免疫学中的抗原-抗体反应及免疫化学技术相关（A错）。Milstein和Kohler因发明单克隆抗体技术而获得1984年诺贝尔生理学或医学奖（C错）。Benacerraf、Dausset和Snell因对主要组织相容性复合体（MHC）的研究而获得1980年诺贝尔奖，他们的工作为理解移植免疫提供了理论基础（D错）。Doherty和Zinkernagel因发现T细胞识别抗原的机制，特别是在病毒感染和免疫防御方面的贡献获得1996年诺贝尔奖（E错）。",
+  "last_update": "2025-12-24"
+}

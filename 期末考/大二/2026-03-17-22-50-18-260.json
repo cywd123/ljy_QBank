@@ -1,0 +1,21 @@
+{
+  "name": "2026-03-17-22-50-18-260",
+  "version": "1.1.0",
+  "numb": "131",
+  "all_numb": "131",
+  "cls": "医学微生物学",
+  "unit": "第二篇 第二十九章 肝炎病毒",
+  "mode": "多选题-X型题",
+  "test": "存在于HBV病毒体表面的抗原成分是",
+  "option": [
+    "A. pre﹣S1抗原",
+    "B. pre﹣S2抗原",
+    "C. HBsAg",
+    "D. HBeAg"
+  ],
+  "answer": "ABC",
+  "nine_point": "（9版医学微生物学P257）“大球形颗粒 又称为 Dane颗粒，是具有感染性的完整的HBV颗粒 ，电镜下呈球形， 具有双层结构， 直径约 42nm ，外层相当于病毒的包膜， 由脂质双层和编码的包膜蛋白组成……S蛋白为HBV 表面抗原（hepatitis B  surfance antigen , HBsAg），M蛋白含HBsAg 及前S2蛋白 ,L蛋白含 HBsAg、 PreS2 和前S1蛋白（BC对）”。",
+  "ten_point": "（10版医学微生物学P272）“HBV感染者的血清中存在三种不同形态的病毒颗粒，即大球形颗粒、小球形颗粒和管形颗粒……包膜蛋白有3种，分别为小蛋白（S蛋白）、中蛋白（M蛋白）和大蛋白（L蛋白）。S蛋白为HBV表面抗原（HBsAg）。M蛋白含前S2蛋白（PreS2）和HBsAg，L蛋白含前S1蛋白（PreS1）、PreS2和HBsAg”（ABC对）。",
+  "discuss": "大球形颗粒 又称为 Dane颗粒，是具有感染性的完整的HBV颗粒 ， 具有双层结构,外层相当于病毒的包膜， 由脂质双层和编码的包膜蛋白组成,包膜蛋白有3种， S蛋白、 M蛋白和L蛋白，S蛋白为HBV 表面抗原（B对），S蛋白为HBV 表面抗原（hepatitis B surfance antigen , HBsAg)，M蛋白含HBsAg 及前S2蛋白 ,L蛋白含 HBsAg、 PreS2 和前S1蛋白(BC对）。HBeAg不符合题意（D错）。",
+  "last_update": "2026-3-6"
+}

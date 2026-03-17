@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-22-55-27-172",
+  "version": "1.1.0",
+  "numb": "72",
+  "all_numb": "181",
+  "cls": "医学免疫学",
+  "unit": "第一章 医学免疫学概论",
+  "mode": "单选题-A1型题",
+  "test": "MHC限制性的提出者是",
+  "option": [
+    "A. Doherty和Zinkernagel",
+    "B. Murray和Thomas",
+    "C. Benacerraf和Dausset和Snell",
+    "D. Porter和Edelman",
+    "E. Burnet和Medawar"
+  ],
+  "answer": "A",
+  "nine_point": "（7版医学免疫学P7）“1974年，Peter Doherty和Rolf Zinkernagel揭示了细胞毒性T细胞在识别病毒感染细胞的病毒抗原时存在MHC限制性”（A对）。",
+  "ten_point": "（8版医学免疫学P18）“1974年，免疫学家Doherty P.和Zinkernagel R.首次发现了MHC限制性，于1996年获诺贝尔生理学或医学奖。MHC基因的发现、MHC分子的研究以及MHC限制性的提出等系列研究为免疫治疗提出了新的理论基础和技术体系，为移植排斥、感染、肿瘤等疾病的防治开辟了新的方向”（A对）。",
+  "discuss": "MHC限制性是指T细胞在识别抗原时，不仅识别抗原肽本身，还需同时识别自身MHC分子。这一理论由Doherty和Zinkernagel于1974年通过研究T细胞对病毒感染细胞的识别机制时提出，并因此获得1996年诺贝尔生理学或医学奖。MHC限制性的发现揭示了适应性免疫应答的基本机制，为抗原呈递、T细胞活化及免疫治疗提供了理论基础（A对）。Murray和Thomas因在器官和细胞移植领域的贡献而获得1990年诺贝尔奖（B错）。Benacerraf、Dausset和Snell因对MHC基因和分子的研究作出贡献而获奖，Snell首先在小鼠中发现MHC相关抗原（C错）。Porter和Edelman因对抗体结构的研究而共同获得1972年诺贝尔奖（D错）。Burnet和Medawar因提出获得性免疫耐受理论并验证其机制而获得1960年诺贝尔奖（E错）。",
+  "last_update": "2025-12-24"
+}

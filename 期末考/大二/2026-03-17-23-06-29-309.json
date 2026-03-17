@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-23-06-29-309",
+  "version": "1.1.0",
+  "numb": "39",
+  "all_numb": "201",
+  "cls": "医学免疫学",
+  "unit": "第一篇 基础免疫篇 第八章 B淋巴细胞",
+  "mode": "单选题-A1型题",
+  "test": "初始B细胞成熟的标志是表达",
+  "option": [
+    "A. mIgD和mIgM",
+    "B. mIgM",
+    "C. FcR",
+    "D. mlgG和mIgA",
+    "E. 分泌IgG"
+  ],
+  "answer": "A",
+  "nine_point": "（7版医学免疫学P37）“膜结合型IgD（mIgD）是B细胞分化发育成熟的标志，未成熟B细胞仅表达mIgM，成熟B细胞可同时表达mIgM 和mIgD ，称为初始B细胞”（A对）。",
+  "ten_point": "（8版医学免疫学P109）“膜结合型IgD（mIgD）是B细胞分化发育成熟的标志，未成熟B细胞仅表达mIgM”（A对）。",
+  "discuss": "初始B细胞成熟的标志是同时表达mIgM和mIgD，二者均为B细胞受体（BCR）的一部分，具有相同的抗原特异性。mIgM在未成熟B细胞阶段即开始表达，而mIgD则在B细胞完全成熟后才出现（A对，BCDE错）。",
+  "last_update": "2025-12-24"
+}

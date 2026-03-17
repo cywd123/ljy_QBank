@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-22-29-22-871",
+  "version": "1.1.0",
+  "numb": "6",
+  "all_numb": "40",
+  "cls": "生物化学与分子生物学",
+  "unit": "第三篇 第十四章 DNA的合成",
+  "mode": "单选题-A1型题",
+  "test": "合成DNA的原料是",
+  "option": [
+    "A. dAMP、dGMP、dCMP、dTMP",
+    "B. dADP、dGDP、dCDP、dTDP",
+    "C. dATP、dGTP、dCTP、dTTP",
+    "D. AMP、GMP、CMP、TMP",
+    "E. ADP、GDP、CDP、TDP"
+  ],
+  "answer": "C",
+  "nine_point": "",
+  "ten_point": "（10版生物化学与分子生物学P258）“DNA复制是酶促核苷酸聚合反应，底物是dATP、dGTP、dCTP和dTTP，总称dNTP”（C对）。",
+  "discuss": "DNA合成所需的原料是脱氧核苷三磷酸（dNTP），包括dATP、dGTP、dCTP和dTTP。这些分子在DNA聚合酶的催化下，通过磷酸二酯键连接，形成DNA链。dNTP不仅提供合成DNA的结构单元，还为反应提供能量，确保DNA复制的高效性和准确性（C对，ABDE错）。",
+  "last_update": "2026-2-4"
+}

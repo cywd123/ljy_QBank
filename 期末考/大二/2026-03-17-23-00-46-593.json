@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-23-00-46-593",
+  "version": "1.1.0",
+  "numb": "367",
+  "all_numb": "431",
+  "cls": "医学免疫学",
+  "unit": "第一篇 基础免疫篇 第二章 固有免疫系统的组成",
+  "mode": "多选题-X型题",
+  "test": "能够激活补体经典途径的免疫球蛋白是",
+  "option": [
+    "A. IgG2",
+    "B. IgG3",
+    "C. IgM",
+    "D. IgG1",
+    "E. IgG4"
+  ],
+  "answer": "ABCD",
+  "nine_point": "（7版医学免疫学P41）“经典途径的激活物主要是与抗原结合的IgG、IgM分子”（ABCD对，E错）。",
+  "ten_point": "（8版医学免疫学P27）“经典途径指结合抗原的IgG、IgM分子与C1q结合，顺序活化C1r、C1s、C4、C2、C3，形成C3转化酶（C4b2a）与C5转化酶（C4b2a3b）的级联酶促反应过程……人类不同类型抗体活化C1q的能力各异（IgM＞IgG3＞IgG1＞IgG2），IgG4、IgA、IgE 和IgD无激活经典途径的能力”（ABCD对）。",
+  "discuss": "经典途径的激活物主要是与抗原结合的IgG、IgM分子。人类不同类型抗体活化C1q的能力各异（IgM>IgG3>IgG1>IgG2)，IgG4无激活经典途径的能力（ABCD对，E错）。",
+  "last_update": "2025-12-24"
+}

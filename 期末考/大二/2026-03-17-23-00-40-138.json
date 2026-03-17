@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-23-00-40-138",
+  "version": "1.1.0",
+  "numb": "356",
+  "all_numb": "431",
+  "cls": "医学免疫学",
+  "unit": "第一篇 基础免疫篇 第二章 固有免疫系统的组成",
+  "mode": "多选题-X型题",
+  "test": "能与C4b结合的补体调节因子是",
+  "option": [
+    "A. C4bP",
+    "B. CR1",
+    "C. DAF",
+    "D. H因子",
+    "E. P因子"
+  ],
+  "answer": "ABC",
+  "nine_point": "（7版医学免疫学P45）“表5-1 补体调节蛋白及其功能”（ABC对）。",
+  "ten_point": "8版医学免疫学未明确说明。",
+  "discuss": "CR1的功能是抑制C4b2a、C3bBb、C4b2a3b、C3bBb3b形成与活性（B对）。DAF的功能是抑制C4b2a、C3bBb、C4b2a3b、C3bBb3b形成与活性（C对）。C4bp的功能是抑制C4b2a、C4b2a3b形成与活性（A对）。H因子的功能是抑制C3bBb、C3bBb3b形成与活性（D错）。P因子的功能是稳定C3bBb（E错）。",
+  "last_update": "2025-12-24"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-22-27-53-307",
+  "version": "1.1.0",
+  "numb": "100",
+  "all_numb": "151",
+  "cls": "生物化学与分子生物学",
+  "unit": "第二篇 第十章 生物氧化",
+  "mode": "单选题-A1型题",
+  "test": "氰化物中毒时，被抑制的是",
+  "option": [
+    "A. Cyt b",
+    "B. Cyt C₁",
+    "C. Cyt C",
+    "D. Cyt a",
+    "E. Cyt a₃"
+  ],
+  "answer": "E",
+  "nine_point": "（9版生物化学与分子生物学P133）“CN⁻，N₃⁻能够紧密结合复合体Ⅳ中氧化型Cyt a₃，阻断电子由Cyt a到CuB-Cyt a₃（E对）的传递”。",
+  "ten_point": "",
+  "discuss": "因为CN⁻，N₃⁻能够紧密结合复合体Ⅳ中氧化型Cyt a₃（E对），阻断电子由Cyt a到CuB-Cyt a₃的传递，能量代谢受阻，细胞的呼吸作用停止，引起细胞窒息死亡。",
+  "last_update": "2025-12-24"
+}

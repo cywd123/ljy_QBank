@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-23-03-19-115",
+  "version": "1.1.0",
+  "numb": "111",
+  "all_numb": "170",
+  "cls": "医学免疫学",
+  "unit": "第一篇 基础免疫篇 第五章 抗原的加工处理和提呈",
+  "mode": "单选题-B型题",
+  "test": "编码HLAⅠb类分子的基因",
+  "option": [
+    "A.HLA-DP、HLA-DQ、HLA-DR基因",
+    "B.C2、C4、Bf基因",
+    "C.HLA-E、HLA-F、HLA-G基因",
+    "D.HLA-A、HLA-B、HLA-C基因",
+    "E.HLA-DM、HLA-DO、TAP、LMP基因"
+  ],
+  "answer": "C",
+  "nine_point": "（7版医学免疫学P68）“HLA Ⅰ类基因区由经典I类基因座（HLA Ⅰa）即A、B、C和非经典Ⅰ类基因座（HLA Ib）即E、F、G等组成”（C对）。",
+  "ten_point": "（8版医学免疫学P55）“HLAⅠ类基因区由经典Ⅰ类基因座（HLAⅠa）即A、B、C和非经典Ⅰ类基因座（HLAⅠb）即E、F、G等组成”（C对）。",
+  "discuss": "HLAⅠ类分子分为经典的HLAⅠa类和非经典的HLAⅠb类。HLAⅠb类分子包括HLA-E、HLA-F和HLA-G基因产物，它们属于非经典HLAⅠ类分子，具有有限的多态性，参与固有免疫调节，例如HLA-E通过与NK细胞受体CD94/NKG2结合抑制NK细胞活性，HLA-G在母胎免疫耐受中发挥作用（C对）。",
+  "last_update": "2026-3-6"
+}

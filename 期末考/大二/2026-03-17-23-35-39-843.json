@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-23-35-39-843",
+  "version": "1.1.0",
+  "numb": "11",
+  "all_numb": "42",
+  "cls": "医学遗传学",
+  "unit": "第十六章 表观遗传异常引起的疾病",
+  "mode": "单选题-A1型题",
+  "test": "DNMT3L氨基酸序列与DNMT3A和DNMT3B非常相似，但缺乏DNA甲基转移酶的",
+  "option": [
+    "A. N-端可变区",
+    "B. PWWP结构域",
+    "C. Cys- rich3 - Zn结合结构域",
+    "D. C-端催化结构域",
+    "E. PHD结构域"
+  ],
+  "answer": "D",
+  "nine_point": "7版医学遗传学未明确说明。",
+  "ten_point": "10版生物化学与分子生物学未明确说明。",
+  "discuss": "DNMT3L氨基酸序列与DNMT3A和DNMT3B非常相似，但缺乏C-端催化结构域，因此不具备DNA甲基转移酶的催化活性（D对）。N-端可变区在DNMT3家族成员中存在，但不是DNMT3L特有的缺失部分（A错）；PWWP结构域、Cys-rich Zn结合结构域和PHD结构域在DNMT3家族成员中普遍存在，DNMT3L也含有这些结构域（BCE错）。",
+  "last_update": "2025-12-24"
+}

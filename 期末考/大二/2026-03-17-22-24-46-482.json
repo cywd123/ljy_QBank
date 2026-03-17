@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-22-24-46-482",
+  "version": "1.1.0",
+  "numb": "76",
+  "all_numb": "123",
+  "cls": "生物化学与分子生物学",
+  "unit": "第二篇 第八章 脂质代谢",
+  "mode": "单选题-B型题",
+  "test": "参与酮体合成的酶是",
+  "option": [
+    "A.HMGCoA合成酶",
+    "B.乙酰CoA羧化酶",
+    "C.激素敏感性甘油三酯脂酶",
+    "D.脂酰CoA合成酶",
+    "E.磷脂酶"
+  ],
+  "answer": "A",
+  "nine_point": "（9版生物化学与分子生物学P151）“乙酰乙酰CoA 与乙酰CoA 缩合成羟基甲基戊二酸单酰CoA（HMG-CoA）：由HMG-CoA合酶催化，生成HMG-CoA”（A对）。",
+  "ten_point": "（10版生物化学与分子生物学P148）“肪酸在肝内β-氧化产生的大量乙酰CoA，部分被转变成酮体（ketone bodies），向肝外输出。酮体包括乙酰乙酸（acetoacetate）……由HMG-CoA合酶（HMG-CoA synthase）催化，生成HMG-CoA，释放出1分子CoASH”（A对）。",
+  "discuss": "乙酰乙酰CoA 与乙酰CoA 缩合成羟基甲基戊二酸单酰CoA（HMG-CoA）：由HMG-CoA合酶催化，生成HMG-CoA（A对）。",
+  "last_update": "2026-3-6"
+}

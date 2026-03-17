@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-23-06-19-499",
+  "version": "1.1.0",
+  "numb": "20",
+  "all_numb": "201",
+  "cls": "医学免疫学",
+  "unit": "第一篇 基础免疫篇 第八章 B淋巴细胞",
+  "mode": "单选题-A1型题",
+  "test": "主要以单体形式存在的免疫球蛋白是",
+  "option": [
+    "A. IgM、IgE、IgD",
+    "B. IgA、IgM、IgG",
+    "C. IgG、IgE、IgD",
+    "D. IgA、IgD、IgM",
+    "E. IgA、IgE、IgM"
+  ],
+  "answer": "C",
+  "nine_point": "（7版医学免疫学P36）“表4-1 人免疲球蛋白的主要理化性质和生物学功能”（D对）。",
+  "ten_point": "（8版医学免疫学P108）“表9-2 各类抗体的主要理化性质和生物学功能”（C对）。",
+  "discuss": "IgG、IgE和IgD仅以单体形式存在，而IgA可以是单体或二聚体形式，IgM则以五聚体形式存在。J链的存在与否是区分单体与多聚体免疫球蛋白的重要标志，IgG、IgD、IgE和血清IgA不含J链，因此以单体形式存在（C对）。IgM为五聚体形式存在，IgE为单体，IgD也为单体（A错）。IgA为二聚体形式，IgM为五聚体，IgG为单体（B错）。IgA为二聚体，IgD为单体，IgM为五聚体（D错）。IgA为二聚体，IgE为单体，IgM为五聚体（E错）。",
+  "last_update": "2025-12-24"
+}

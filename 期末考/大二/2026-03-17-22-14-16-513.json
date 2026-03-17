@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-17-22-14-16-513",
+  "version": "1.1.0",
+  "numb": "101",
+  "all_numb": "204",
+  "cls": "生理学",
+  "unit": "第十一章 内分泌",
+  "mode": "单选题-A1型题",
+  "test": "在射乳反射中，除催产素外，下列哪种激素的分泌也增加",
+  "option": [
+    "A. GnRH",
+    "B. PRL",
+    "C. LH",
+    "D. FSH",
+    "E. GH"
+  ],
+  "answer": "B",
+  "nine_point": "",
+  "ten_point": "（10版生理学P352）“婴儿吸吮乳头可促进哺乳期妇女PRL的分泌，这是一个典型的神经-内分泌反射”（B对）。",
+  "discuss": "因催产素有类催乳素（prolactin，PRL）似催乳素释放因子的作用，能刺激腺垂体分泌催乳素。故在射乳反射中，除催产素外（B对）的分泌也增加。促性腺激素释放激素（gonadotropin-releasing hormone，GnRH）（A错）、黄体生成素（luteinizing hormone，LH）（C错）、卵泡刺激素（folliclEstimulating hormone, FSH）（D错）、生长激素（growth hormone，GH）（E错）的分泌不受射乳反射影响。",
+  "last_update": "2025-12-24"
+}

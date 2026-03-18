@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-18-22-34-40-523",
+  "version": "1.1.0",
+  "numb": "3",
+  "all_numb": "5",
+  "cls": "危重症医学",
+  "unit": "第二十一章 急性呼吸衰竭",
+  "mode": "单选题-B型题",
+  "test": "Ⅱ型呼吸衰竭是指",
+  "option": [
+    "A.PaO₂＜60mmHg，伴或不伴PaCO₂增高",
+    "B.PaO₂＜60mmHg，PaCO₂正常或低于正常",
+    "C.PaO₂＜60mmHg，PaCO₂≥50mmHg",
+    "D.PaO₂＜50mmHg，PaCO₂增高",
+    "E.PaO₂＜50mmHg，PaCO₂正常或低于正常"
+  ],
+  "answer": "C",
+  "nine_point": "（4版危重病医学P221）“Ⅰ型呼吸衰竭，又称急性低氧血症型呼吸衰竭PaO₂<60mmHg，但PaCO₂正常甚至降低…Ⅱ型呼吸衰竭，又称急性高碳酸血症型呼吸衰竭PaO₂<60mmHg，但PaCO₂≥50mmHg（C对）”。",
+  "ten_point": "",
+  "discuss": "Ⅱ型呼吸衰竭定义为低氧血症伴高碳酸血症，具体表现为PaO₂＜60mmHg，同时伴有PaCO₂≥50mmHg。这种类型的呼吸衰竭通常与肺通气功能障碍有关，导致二氧化碳排出不足，从而引起高碳酸血症（C对）。",
+  "last_update": "2025-12-24"
+}

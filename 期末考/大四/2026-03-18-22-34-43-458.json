@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-18-22-34-43-458",
+  "version": "1.1.0",
+  "numb": "2",
+  "all_numb": "4",
+  "cls": "危重症医学",
+  "unit": "第二十二章 急性呼吸窘迫综合征",
+  "mode": "单选题-A1型题",
+  "test": "ARDS的氧合指数",
+  "option": [
+    "A. ≤200mmHg",
+    "B. ≤300mmHg",
+    "C. ≤100mmHg",
+    "D. ≤400mmHg",
+    "E. ≤150mmHg"
+  ],
+  "answer": "B",
+  "nine_point": "（4版危重病医学P234）“表22-1ARDS的Berlin诊断标准”（九版内科学P132）“PaO₂/FiO₂正常值为400～500mmHg，≤300mmHg是诊断ARDS的必要条件”（B对）。",
+  "ten_point": "",
+  "discuss": "ARDS的氧合指数（PaO₂/FiO₂）在诊断中是一个关键指标。根据2012年的柏林诊断标准，轻度ARDS的定义为200mmHg<PaO₂/FiO₂ ≤300mmHg，并且PEEP或CPAP≥5cmH₂O。因此，≤300mmHg是轻度ARDS的诊断阈值之一（B对）。≤200mmHg属于中度ARDS的诊断范围（A错）。≤100mmHg是重度ARDS的诊断标准（C错）。≤400mmHg高于轻度ARDS的诊断阈值（D错）。≤150mmHg介于中度和重度ARDS之间，但不是轻度ARDS的诊断阈值（E错）。",
+  "last_update": "2025-12-24"
+}

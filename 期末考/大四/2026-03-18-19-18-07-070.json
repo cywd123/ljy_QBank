@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-18-19-18-07-070",
+  "version": "1.1.0",
+  "numb": "14",
+  "all_numb": "130",
+  "cls": "内科学",
+  "unit": "第五篇 第十章 慢性肾衰竭",
+  "mode": "单选题-A1型题",
+  "test": "估算肾小球滤过率（eGFR）36ml/（min·1.73m²）属于CKD哪一期",
+  "option": [
+    "A. 3a期",
+    "B. 3b期",
+    "C. 4期",
+    "D. 2期",
+    "E. 5期"
+  ],
+  "answer": "B",
+  "nine_point": "（9版内科学P518）“表5-10-1 K/DOQI对慢性肾脏病的分期及建议”（B对，ACDE错）。",
+  "ten_point": "（10版内科学P525）“表5-10-1 K/DOQI 对慢性肾脏病的分期及建议”（B对）。",
+  "discuss": "1期：GFR正常或升高 （GFR）≥90ml/（min·1.73m²）；2期 ：GFR轻度降低 （GFR）60～89ml/（min·1.73m²）；3a期：GFR轻到中度降低 （GFR）45～59ml/（min·1.73m²）；3b期：GFR中到重度降低 （GFR）30～44ml/（min·1.73m²）（B对，ACDE错）；4期：GFR重度降低 （GFR）15～29ml/（min·1.73m²）；终末期肾脏病（ESRD）  （GFR）＜15ml/（min·1.73m²）或透析。",
+  "last_update": "2025-12-24"
+}

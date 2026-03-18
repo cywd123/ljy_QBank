@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-18-22-20-35-488",
+  "version": "1.1.0",
+  "numb": "23",
+  "all_numb": "39",
+  "cls": "临床麻醉学",
+  "unit": "第六章 吸入全身麻醉",
+  "mode": "单选题-A1型题",
+  "test": "吸入麻醉药效能与其脂溶性直接相关的理论是",
+  "option": [
+    "A. Michaelis和Menten规则",
+    "B. Ferguson规则",
+    "C. Singer和Nicholson规则",
+    "D. Meyer和Overton规则",
+    "E. Henderson和Hasselbalch规则"
+  ],
+  "answer": "D",
+  "nine_point": "（4版麻醉药理学P74）“此种麻醉效能与脂溶性关系特性称为Meye-Overton法则（D对），即全身麻醉机制的脂质学说”。",
+  "ten_point": "",
+  "discuss": "Meyer和Overton规则指出，吸入麻醉药的效能与其脂溶性密切相关，脂溶性越高，麻醉效能越强。该规则基于麻醉药在脂质中的溶解能力与其作用强度之间的关系，反映了麻醉药通过脂质膜进入中枢神经系统的能力（D对）。Michaelis和Menten规则描述的是酶促反应动力学（A错）。Ferguson规则主要涉及溶液中气体的溶解行为（B错）。Singer和Nicholson提出的流动镶嵌模型用于描述细胞膜结构（C错）。Henderson和Hasselbalch方程用于计算弱酸或弱碱的解离状态（E错）。",
+  "last_update": "2025-12-24"
+}

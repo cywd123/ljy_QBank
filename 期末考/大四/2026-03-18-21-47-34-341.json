@@ -1,0 +1,21 @@
+{
+  "name": "2026-03-18-21-47-34-341",
+  "version": "1.1.0",
+  "numb": "5",
+  "all_numb": "14",
+  "cls": "急诊与灾难医学",
+  "unit": "第十四章 多器官功能障碍综合征",
+  "mode": "单选题-A1型题",
+  "test": "对Ⅰ型呼吸衰竭描述不正确的是",
+  "option": [
+    "A. PaO₂小于60mmHg",
+    "B. PaCO₂正常",
+    "C. PaCO₂大于50mmHg",
+    "D. PaCO₂减低"
+  ],
+  "answer": "C",
+  "nine_point": "",
+  "ten_point": "（4版急诊与灾难医学P219）“当PaO₂＜60mmHg，PaCO₂≤50mmHg时为Ⅰ型呼吸衰竭”（ABD对；C错，为本题正确答案）。",
+  "discuss": "PaO₂（动脉血氧分压）小于60mmHg，同时伴有PaCO₂（动脉血二氧化碳分压）大于50mmHg为Ⅱ型呼吸衰竭（C错，为本题正确答案）。PaO₂小于60mmHg（A对），PaCO₂降低（D对）。或正常（B对）。为Ⅰ型呼吸衰竭。",
+  "last_update": "2025-12-24"
+}

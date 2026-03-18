@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-18-12-07-25-410",
+  "version": "1.1.0",
+  "numb": "74",
+  "all_numb": "156",
+  "cls": "人体寄生虫学",
+  "unit": "第二篇 第十一章 孢子虫",
+  "mode": "单选题-A1型题",
+  "test": "人感染的在原虫中有月牙形配子体的是",
+  "option": [
+    "A. Plasmodium malariae",
+    "B. Plasmodium falciparum",
+    "C. Plasmodium ovale",
+    "D. Plasmodium vivax",
+    "E. Plasmodium vivax and Plasmodium falciparum"
+  ],
+  "answer": "B",
+  "nine_point": "9版人体寄生虫学未明确说明。",
+  "ten_point": "（10版人体寄生虫学P57～58）“恶性疟原虫、三日疟原虫和间日疟原虫在形态上的区别。1884年，Gerhardt将疟疾病人的血液注射给健康人后造成感染，并在受血者体内查到同样的寄生虫，从而证实了疟疾确实是由疟原虫的感染所引起的”。（10版人体寄生虫学P60）<img>“卵圆形或新月形（恶性疟原虫）的个体，称为配子体。配子体有雌、雄（或大小）。配子体有雌、雄（或大小）”（B对）。",
+  "discuss": "恶性疟原虫（Plasmodium falciparum）的配子体形态具有特征性，其中雌配子体呈典型的“月牙形”或新月形，这是其重要的形态学特征之一，在显微镜下易于识别，具有诊断价值（B对）。Plasmodium malariae、Plasmodium ovale和Plasmodium vivax的配子体形态均为圆形或卵圆形，不呈现月牙形（ACD错）。Plasmodium vivax的配子体不具月牙形，而Plasmodium falciparum是唯一具有月牙形配子体的疟原虫种类（E错）。",
+  "last_update": "2025-12-24"
+}

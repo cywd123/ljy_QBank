@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-18-22-16-52-142",
+  "version": "1.1.0",
+  "numb": "27",
+  "all_numb": "41",
+  "cls": "精神病学",
+  "unit": "第二十二章 精神科急诊及危机干预",
+  "mode": "多选题-X型题",
+  "test": "Which of the following items do belong to the causes of suicide?",
+  "option": [
+    "A. Psychology factors",
+    "B. Society factors",
+    "C. Biological factors",
+    "D. Social Support System",
+    "E. Disease factors"
+  ],
+  "answer": "ABCDE",
+  "nine_point": "（8版精神病学P243-P244）“自杀的危险因素…1.心理学因素（A对）…2.社会学因素（B对）…应对与社会支持（D对）…3.生物学因素（C对）…4疾病因素（E对）”。",
+  "ten_point": "（9版精神病学P268）“（1）应激：重大的负性生活事件常成为自杀的直接原因或诱因。研究发现，自杀者在自杀行动前的3个月内，生活事件的发生频率明显多于对照组，且自杀与1周内生活事件的关系更为密切……比如，乐观评估、寻求帮助、积极行动等应对技巧，良好的家庭和社会支持系统（包括物质、经济、精神等方面的支持）对于自杀而言是强有力的保护因素；而消极应对方式、不良的社会支持系统则是自杀的危险因素……（1）性别：女性企图自杀的问题发生率是男性的3倍；而男性自杀死亡率却是女性的4倍，且男性占自杀总死亡人数的2/3”（9版精神病学P269）<img>“（1）精神障碍：在所有自杀的危险因素中，患有精神障碍是最重要的危险因素之一。综合国内外多项流行病学研究显示，自杀死亡者中患有精神疾病的比例高达90%以上”（ABCDE对）。",
+  "discuss": "Which of the following items do belong to thEcauses of suicide? （以下哪项属于自杀原因）A.Psychology factors（心理因素）B.Society factors（社会因素）C.Biological factors（生物因素）D.Social Support System（社会支持系统）E.Disease factors（疾病因素）.自杀的原因有心理学因素（A对）社会因素（B对）社会支持系统（D对）生物学因素（C对）疾病因素（E对）。",
+  "last_update": "2025-12-24"
+}

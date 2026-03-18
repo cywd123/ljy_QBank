@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-18-12-05-24-986",
+  "version": "1.1.0",
+  "numb": "3",
+  "all_numb": "12",
+  "cls": "人体寄生虫学",
+  "unit": "第二篇 第八章 医学原虫概论",
+  "mode": "单选题-A1型题",
+  "test": "下列寄生虫中属于鞭毛虫的是",
+  "option": [
+    "A. Trichomonas vaginalis",
+    "B. Cryptosporidium",
+    "C. Naegleria fowleri",
+    "D. Taenia saginata",
+    "E. Trichuris trichiura"
+  ],
+  "answer": "A",
+  "nine_point": "（9版人体寄生虫学P51）“阴道毛滴虫是寄生在人体阴道和泌尿生殖道的鞭毛虫”（A对）。",
+  "ten_point": "（10版人体寄生虫学P50）“阴道毛滴虫是寄生在人体阴道和泌尿生殖道的鞭毛虫”（A对）。",
+  "discuss": "鞭毛虫是以鞭毛作为运动细胞器的原虫，常见的种类包括阴道毛滴虫（Trichomonas vaginalis）（A对）。Cryptosporidium（隐孢子虫）是一种孢子虫（B错）。Naegleria fowleri属于自由生活阿米巴其分类上属于是一种在特定条件下可侵入中枢神经系统的致病性阿米巴（C错）。Taenia saginata（牛带绦虫）属于扁形动物门，绦虫纲（D错）。Trichuris trichiura（毛首鞭形线虫）属于线虫门（E错）。",
+  "last_update": "2025-12-24"
+}

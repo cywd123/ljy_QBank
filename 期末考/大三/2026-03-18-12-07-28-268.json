@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-18-12-07-28-268",
+  "version": "1.1.0",
+  "numb": "80",
+  "all_numb": "156",
+  "cls": "人体寄生虫学",
+  "unit": "第二篇 第十一章 孢子虫",
+  "mode": "单选题-A1型题",
+  "test": "下列在原虫种，在中国流行最广泛的是",
+  "option": [
+    "A. Plasmodium ovale ",
+    "B. Plasmodium falciparum ",
+    "C. Plasmodium malariae ",
+    "D. Plasmodium vivax ",
+    "E. Plasmodium malariae and Plasmodium falciparum "
+  ],
+  "answer": "D",
+  "nine_point": "9版人体寄生虫学未明确说明。",
+  "ten_point": "（10版人体寄生虫学P57）“中国主要有间日疟原虫和恶性疟原虫，三日疟原虫少见，卵形疟原虫罕见”（D对）。",
+  "discuss": "Plasmodium vivax（间日疟原虫）是中国主要流行的疟原虫种类之一，尤其在南方和中部地区曾长期存在地方性流行。间日疟原虫具有嗜肝性，潜伏期较长，且可形成休眠子，导致远期复发，这也是其易于传播和流行的重要原因（D对）。Plasmodium ovale（卵形疟原虫）在全球分布较少，仅在非洲和东南亚部分地区偶见，在中国极为罕见，不是中国主要流行的疟原虫种类（A错）。Plasmodium falciparum（恶性疟原虫）虽然致病性强、病情凶险，但其主要流行于非洲撒哈拉以南地区，在中国流行强度和范围均不及间日疟原虫（B错）。Plasmodium malariae（三日疟原虫）在中国仅偶有报告，流行程度远低于间日疟原虫，属于少见类型（C错）。尽管Plasmodium malariae和Plasmodium falciparum均为人类疟原虫，但两者在中国的流行程度均不如Plasmodium vivax广泛，因此该组合不符合题干“流行最广泛”的描述（E错）。",
+  "last_update": "2025-12-24"
+}

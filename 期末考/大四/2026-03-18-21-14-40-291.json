@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-18-21-14-40-291",
+  "version": "1.1.0",
+  "numb": "45",
+  "all_numb": "50",
+  "cls": "皮肤性病学",
+  "unit": "第二篇 第二十章 结缔组织病",
+  "mode": "多选题-X型题",
+  "test": "下列是ENA成分的有（多选）",
+  "option": [
+    "A. U₁RNP ",
+    "B. dsDNA ",
+    "C. La/SSB ",
+    "D. Sm",
+    "E. Ro/SSA"
+  ],
+  "answer": "ACE",
+  "nine_point": "（9版皮肤性病学P145）“抗dsDNA（B错）与抗Sm（D错）抗体是SLE的标记抗体。SLE患者还可检测到抗ENA抗体（包括U₁RNP、Ro/SSA、La/SSB等）（ACE对）、抗心磷脂抗体等多种抗体”。",
+  "ten_point": "（10版皮肤性病学P144）“合并干燥综合征的患者也不少见。 新生儿红斑狼疮（NLE）属于SCLE特殊类型，几乎100%的患儿体内有抗Ro/SSA抗体”。（10版皮肤性病学P147）<img>“抗ENA（包括U1RNP、Ro/SSA、La/SSB，RIB-P等）”（ACE对）。",
+  "discuss": "ENA成分包括U₁RNP（A对）、Ro/SSA（E对）、La/SSB（C对）等，多可在SLE患者检测到，另外，SLE的标记抗体是抗dsDNA（B错）与抗Sm（D错）抗体。除了以上抗体之外，SLE患者还可检测到抗心磷脂抗体。",
+  "last_update": "2025-12-24"
+}

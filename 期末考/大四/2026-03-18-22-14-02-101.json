@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-18-22-14-02-101",
+  "version": "1.1.0",
+  "numb": "15",
+  "all_numb": "25",
+  "cls": "精神病学",
+  "unit": "第八章 抑郁障碍",
+  "mode": "单选题-A1型题",
+  "test": "The minimum duration required to diagnose depressive episode is",
+  "option": [
+    "A. 1weeks",
+    "B. 2weeks",
+    "C. 6weeks",
+    "D. 6months",
+    "E. 2years"
+  ],
+  "answer": "B",
+  "nine_point": "（8版精神病学P112）“诊断抑郁发作时，一般要求病程持续至少2周（B对），并且存在具有临床意义的痛苦或社会功能的受损”。",
+  "ten_point": "（9版精神病学P103）“单次抑郁障碍表现为1次持续时间至少2周的抑郁发作，且既往无抑郁发作史”（B对）。",
+  "discuss": "根据DSM-5和CCMD-3的诊断标准，抑郁发作需持续至少2周并伴有显著的情绪低落和兴趣丧失等症状。2周的时间标准确保症状不是短暂的情绪波动而是具有临床意义的抑郁状态（B对）。",
+  "last_update": "2025-12-24"
+}

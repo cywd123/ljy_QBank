@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-18-22-12-18-939",
+  "version": "1.1.0",
+  "numb": "14",
+  "all_numb": "14",
+  "cls": "精神病学",
+  "unit": "第四章 精神障碍分类与诊断标准",
+  "mode": "多选题-X型题",
+  "test": "Which of the following statements belong to the comnotational criteria?",
+  "option": [
+    "A. Symptom criteria",
+    "B. Severity criteria",
+    "C. Functional damage criteria",
+    "D. Course criteria",
+    "E. Exclusion criteria"
+  ],
+  "answer": "ABCD",
+  "nine_point": "（8版精神病学P46）“诊断标准包括内涵标准和排除标准（E错）两个主要部分。内涵标准又包括症状学（A对）、病程标准（D对）、病情严重程度（B 对）、社会功能损害（C对）等指标，其中症状学指标是最基本的，又分必备症状和伴随症状”。",
+  "ten_point": "（9版精神病学P44）“诊断标准包括内涵标准和排除标准两个主要部分。内涵标准又包括症状学、病程标准、病情严重程度、社会功能损害等指标，其中症状学指标是最基本的，又分必备症状和伴随症状”（ABCD对）。",
+  "discuss": "下列哪些陈述属于组合标准? A症状标准，B严重程度标准，C功能损害标准，D病程标准，E排除标准。诊断标准包括内涵标准和排除标准（E 错）两个主要部分。内涵标准又包括症状学（A对）、病情严重程度（B 对）、社会功能损害（C对）、病程标准（D对）等指标。",
+  "last_update": "2025-12-24"
+}

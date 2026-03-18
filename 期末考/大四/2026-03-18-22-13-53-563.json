@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-18-22-13-53-563",
+  "version": "1.1.0",
+  "numb": "65",
+  "all_numb": "66",
+  "cls": "精神病学",
+  "unit": "第七章 双相及相关障碍",
+  "mode": "多选题-X型题",
+  "test": "The methods of genetic epidemiological investigations of bipolar disorders include",
+  "option": [
+    "A. Family studies",
+    "B. Twin studies",
+    "C. Adoption studies",
+    "D. Genome scan",
+    "E. Candidate gene approach"
+  ],
+  "answer": "ABC",
+  "nine_point": "（8版精神病学P120～121）“遗传与环境因素1.家系研究（A对）…..2.2.双生子（B对）与寄养子（C对）研究…..分子遗传学研究…4.遗传与环境的相互作用”。",
+  "ten_point": "（9版精神病学P87～88）<img>“1.家系研究 双相障碍患者的生物学亲属的患病风险明显增加，患病率为一般人群的10～30倍，血缘关系越近，患病风险也越高，并且有早发遗传现象（即发病年龄逐代提早、疾病严重性逐代增加）……2.双生子与寄养子研究 研究发现双相障碍的单卵双生子的同病率明显高于双卵双生子，其中单卵双生子同病率为60%～70%，而双卵双生子为20%。寄养子研究也显示，双相障碍父母所生寄养子的患病率高于正常父母所生寄养子的患病率”（ABC对）。",
+  "discuss": "The methods of genetic epidemiological investigations of bipolar disorders include（双相情感障碍的遗传流行病学调查方法包括）A.Family studies（A.家庭研究）B.Twin studies（B.双胞胎研究）C.Adoption studies（C.收养研究）D.Genome scan （D.基因组扫描）E.Candidate gene approach（E.候选基因方法）双相情感障碍的遗传流行病学调查方法包括家庭研究（A对）、双胞胎研究（B对）、收养研究（C对）、分子遗传学研究、遗传与环境的相互作用。",
+  "last_update": "2025-12-24"
+}

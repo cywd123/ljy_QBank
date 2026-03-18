@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-18-20-59-12-768",
+  "version": "1.1.0",
+  "numb": "169",
+  "all_numb": "255",
+  "cls": "儿科学",
+  "unit": "第十四章 血液系统疾病",
+  "mode": "单选题-A2型题",
+  "test": "2岁幼儿，诊断为营养性巨幼红细胞性贫血，下列哪项符合其外周血象的特点",
+  "option": [
+    "A. MCV（fl）100；MCH（pg）36",
+    "B. MCV（fl）100；MCH（pg）31",
+    "C. MCV（fl）100；MCH（pg）32",
+    "D. MCV（fl）90；MCH（pg）31",
+    "E. MCV（fl）90；MCH（pg）36"
+  ],
+  "answer": "A",
+  "nine_point": "",
+  "ten_point": "（10版儿科学P336）“外周血象 呈大细胞性贫血，MCV＞94fl，MCH＞32pg”（A对）。",
+  "discuss": "2岁幼儿诊断为营养性巨幼红细胞性贫血，其外周血象特点表现为大细胞性贫血，MCV和MCH值均升高。根据题干信息，MCV应大于94fl，MCH应大于32pg。选项A中的MCV为100fl，MCH为36pg，符合大细胞性贫血的特征（A对）。",
+  "last_update": "2025-12-24"
+}

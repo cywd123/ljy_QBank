@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-18-19-09-58-020",
+  "version": "1.1.0",
+  "numb": "14",
+  "all_numb": "14",
+  "cls": "内科学",
+  "unit": "第四篇 第十一章 病毒性肝炎",
+  "mode": "单选题-B型题",
+  "test": "乙型肝炎病人血清学表现为",
+  "option": [
+    "A.抗核抗体（ANA）阳性",
+    "B.抗HCV阳性",
+    "C.HBsAg阳性",
+    "D.抗HEV阳性",
+    "E.抗HAV﹣IgM阳性"
+  ],
+  "answer": "C",
+  "nine_point": "（9版内科学P389）“HBV感染相关的血清学标志物包括HBsAg、抗-HBs、HBeAg、抗-HBe、抗-HBc和抗-HBc-IgM”（C对）。",
+  "ten_point": "（10版内科学P403）“HBsAg阳性表示HBV感染”（C对）。",
+  "discuss": "抗核抗体（ANA）阳性见于结缔组织病（A错）；血清中抗-HCV阳性者，提示已有HCV的感染（B错）；HBV感染相关的血清学标志物包括HBsAg、抗-HBs、HBeAg、抗-HBe、抗-HBc和抗-HBc-IgM（C对）；抗HEV阳性见于戊型肝炎病毒感染者（D错）；抗HAV-IgM阳性提示甲型肝炎病毒现症感染（E错）。",
+  "last_update": "2025-12-24"
+}

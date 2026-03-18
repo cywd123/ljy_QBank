@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-18-22-17-23-339",
+  "version": "1.1.0",
+  "numb": "25",
+  "all_numb": "65",
+  "cls": "精神病学",
+  "unit": "第二十四章 治疗学",
+  "mode": "单选题-A1型题",
+  "test": "About the neuroleptic malignant syndrome, which of the following treatment is correct?",
+  "option": [
+    "A. intramuscular antiparkinsonian drugs",
+    "B. treat with benzodiazepines",
+    "C. stop neuroleptic immediately",
+    "D. treat with propranolol",
+    "E. treat with clozapine"
+  ],
+  "answer": "C",
+  "nine_point": "（8版精神病学P272）“恶性综合征.处理是停用抗精神病药物（C对），给予支持性治疗。可以使用肌肉松弛剂硝苯呋海因（dantrolene） 和促进中枢多巴胺功能的溴隐亭治疗”。",
+  "ten_point": "（9版精神病学P295）“一旦发生，应及时停用抗精神病药物，给予支持性治疗。可以使用肌肉松弛剂丹曲林和促进中枢多巴胺功能的溴隐亭治疗”（C对）。",
+  "discuss": "神经阻滞剂恶性综合征（NMS）是一种由抗精神病药物引发的严重、可能致命的不良反应，其典型临床表现为高热、肌强直、意识障碍及自主神经功能紊乱。在处理NMS时，首要且关键的措施是立即停用诱发该综合征的神经阻滞剂，以阻断病情进一步恶化。此外，还需进行对症支持治疗，如降温、维持水电解质平衡，并可考虑使用DA受体激动剂（如溴隐亭）或肌松药（如丹曲林）辅助治疗（C对）。",
+  "last_update": "2025-12-24"
+}

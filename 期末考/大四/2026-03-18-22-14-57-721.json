@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-18-22-14-57-721",
+  "version": "1.1.0",
+  "numb": "17",
+  "all_numb": "30",
+  "cls": "精神病学",
+  "unit": "第十二章 分离性障碍",
+  "mode": "单选题-A1型题",
+  "test": "Dissociativeneurologicalsymptomdisorderis",
+  "option": [
+    "A. an idea of reference",
+    "B. The main symptoms are depression and anxiety",
+    "C. fussed too much about one's health",
+    "D.  Its most important clinical feature is the clinical symptoms similar to nervous system damage, but no investigation of real evidence.",
+    "E. the early symptom of schizophrenia"
+  ],
+  "answer": "D",
+  "nine_point": "（8版精神病学P154）“分离性神经症状障碍…是'转换'障碍的主要症状群，其最重要的临床特征是临床症状类似神经系统损伤，但查无实据（D对）”。",
+  "ten_point": "（9版精神病学P150）“分离性神经症状障碍也称为分离性运动和感觉障碍，是‘转换’障碍的主要症状群，重要的临床特征为形式各异的运动和感觉障碍，类似神经系统损伤，但客观的神经系统检查和实验室检查不能发现导致这些运动和感觉障碍的器质性基础”（D对）。",
+  "discuss": "分离性神经症状障碍的核心临床特征是患者表现出类似神经系统损害的症状，如运动障碍、感觉异常等，但经过详细的神经系统检查和实验室检查后，无法找到相应的器质性证据支持这些症状的存在（D对）。牵涉妄想是指患者将外界无关的事件、人物或言语误解为与自己有关，属于妄想的一种形式，常见于精神分裂症等精神病性障碍，不属于分离性神经症状障碍的表现（A错）。虽然分离性神经症状障碍患者可能伴有焦虑或抑郁情绪，但这并非该障碍的主要临床表现，核心特征仍是无器质性基础的神经系统症状（B错）。过度关注自身健康属于健康焦虑或疑病症的表现，与分离性神经症状障碍的临床特征不同，后者更多表现为功能性神经系统症状（C错）。分离性神经症状障碍并非精神分裂症的早期症状，两者在病因、临床表现和治疗上均有显著区别。分离性神经症状障碍属于功能性神经障碍，而精神分裂症属于精神病性障碍（E错）。",
+  "last_update": "2025-12-24"
+}

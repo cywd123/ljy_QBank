@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-18-20-44-08-574",
+  "version": "1.1.0",
+  "numb": "69",
+  "all_numb": "229",
+  "cls": "儿科学",
+  "unit": "第六章 新生儿与新生儿疾病",
+  "mode": "单选题-A1型题",
+  "test": "关于TORCH综合征的感染源，下列描述错误的是",
+  "option": [
+    "A. T-弓形虫",
+    "B. O-其他感染",
+    "C. R-风疹病毒",
+    "D. C-巨细胞病毒",
+    "E. H-人类免疫缺陷病毒"
+  ],
+  "answer": "E",
+  "nine_point": "",
+  "ten_point": "（10版儿科学P120～121）<img>“TORCH感染是弓形虫（A对）、其他（B对）、风疹病毒（RV）（C对）、巨细胞病毒（CMV）（D对）和单纯疱疹病毒（HSV）英文字头的简称，是引起宫内感染的常见病原体”（E错，为本题正确答案）。",
+  "discuss": "TORCH综合征中的H代表的是单纯疱疹病毒（HSV），而不是人类免疫缺陷病毒（HIV）。T在TORCH综合征中代表弓形虫（toxoplasma, TOX）。O在TORCH综合征中代表其他病原体（others），例如梅毒螺旋体、人类细小病毒B19等。R在TORCH综合征中代表风疹病毒（rubella virus, RV）。C在TORCH综合征中代表巨细胞病毒（cytomegalovirus, CMV）（ABCD对；E错，为本题正确答案）。",
+  "last_update": "2025-12-24"
+}

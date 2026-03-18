@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-18-22-14-43-498",
+  "version": "1.1.0",
+  "numb": "6",
+  "all_numb": "15",
+  "cls": "精神病学",
+  "unit": "第十一章 应激相关障碍",
+  "mode": "单选题-A1型题",
+  "test": "Which of the following characteristics is NOT associated with adjustment disorder?",
+  "option": [
+    "A. The symptoms often develop in response to severe stressors",
+    "B. The symptoms are characterized by emotional disturbance",
+    "C. Some patients may have conduct problems",
+    "D. Once the stressor has terminated, the symptoms often disappear in 6 months",
+    "E. Psychotherapy is essential in treatment of adjustment disorder"
+  ],
+  "answer": "A",
+  "nine_point": "（8版精神病学P171）“应激相关障碍是一类与应激源（A错，为本题正确答案）（主要是精神创伤或精神应激）有明显因果关系的精神障碍，其发生时序症状内容病程与预后等均与应激因素密切相关”。（8版精神病学P180）<img>“适应障碍是指在明显的生活改变或环境变化时产生的、短期的和轻度的烦恼状态和情绪失调（B对），常有一定程度的行为变化（C对）等，但并不出现精神病性症状”。（8版精神病学P181）<img>“应激因素消除后，症状持续一般不超6 个月（D对）…治疗重点以心理治疗为主（E对）”。",
+  "ten_point": "（9版精神病学P143）“典型的生活事件包括居丧、离婚、失业或变换岗位、迁居、转学、患重病、经济危机、退休等，发病往往与生活事件的严重程度、个体心理素质、心理应对方式等有关……有明显的生活事件为诱因，尤其是生活环境或社会地位的改变（如移民、出国、入伍、退休等）”（A错，为本题正确答案）。",
+  "discuss": "Which of the following characteristics is NOT associated with adjustment disorder?（下列哪项特征与适应障碍无关?）A.The symptoms often develop in response to severe stressors（这些症状通常是对严重的压力源的反应）B.The symptoms are characterized by emotional disturbance（症状的特点是情绪紊乱）C.Some patients may have conduct problems（有些病人可能有行为问题）D.Once the stressor has terminated, the symptoms often disappear in 6 months（一旦应激源终止，症状通常在6个月内消失）E.Psychotherapy is essential in treatment of adjustment disorder（心理治疗是治疗适应障碍的重要手段） 应激相关障碍是指对严重的压力源的反应（A错，为本题正确答案），其发生时序症状内容病程与预后等均与应激因素密切相关。适应障碍是在明显的生活改变或环境变化中产生的、短期的和轻度的情绪失调。其中症状的特点是情绪紊乱（B对）。有些病人可能有行为问题（C对），但并不出现精神病性症状。一旦应激源终止，症状通常在6个月内消失（D对）。治疗重点以心理治疗为主。心理治疗是治疗适应障碍的重要手段（E对）。",
+  "last_update": "2025-12-24"
+}

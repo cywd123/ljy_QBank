@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-18-22-15-18-334",
+  "version": "1.1.0",
+  "numb": "7",
+  "all_numb": "17",
+  "cls": "精神病学",
+  "unit": "第十四章 进食与排泄障碍",
+  "mode": "单选题-A1型题",
+  "test": "ThE diagnostiC criteria for anorexia nervosa, which of the following is correct?",
+  "option": [
+    "A. BMI≤17.5, sustained more than two months",
+    "B. BMI≤17.5, sustained more than three months",
+    "C. BMI≤18.5,sustained more than three months",
+    "D. Weight loss more than 10% of the normal weight,sustained more than two months",
+    "E. Weight loss more than 10% of the normal weight, sustained more than three months"
+  ],
+  "answer": "B",
+  "nine_point": "（8版精神病学P187～188）“诊断要点1.体重指数小于或等于17.5，或体重保持在至少低于正常体重的15%以上的水平（DE错）…6.病程3个月以上”。",
+  "ten_point": "（9版精神病学P169）“成人BMI低于18.5kg/m²，儿童青少年的体重低于相应年龄BMI的第5百分位数，只要符合其他诊断要求，快速减重（如6个月内超过总体重的20%）可以取代低体重的标准”。",
+  "discuss": "神经性厌食症的诊断标准之一是BMI≤17.5且持续时间超过三个月，这反映了患者长期维持低体重的状态，结合对体重增加的恐惧和体象障碍等症状有助于确诊（B对）。",
+  "last_update": "2026-1-6"
+}

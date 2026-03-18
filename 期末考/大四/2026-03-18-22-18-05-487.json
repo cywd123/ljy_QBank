@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-18-22-18-05-487",
+  "version": "1.1.0",
+  "numb": "21",
+  "all_numb": "24",
+  "cls": "精神病学",
+  "unit": "第二十六章 精神病学相关伦理与法律问题",
+  "mode": "单选题-A1型题",
+  "test": "Which of following is the main purpose of formulating mental health law?",
+  "option": [
+    "A. To maintain the safety of society",
+    "B. To maintain the lawful right of patients with mental disease",
+    "C. To punish the patients with mental disease who violate the law",
+    "D. To maintain the right of mental disease patients'family",
+    "E.  To maintain the safety of society and the lawful right of patients with mental disease"
+  ],
+  "answer": "E",
+  "nine_point": "（8版精神病学P329）“这些处理的目的既是为了维护社会安全（A错）和大众利益不受患者暴力行为侵害，同时也兼顾到精神障碍患者的合法权益（E对BCD错），给予其恰当的医疗和保护，减少其因疾病因素而再次产生危害行为”。",
+  "ten_point": "（9版精神病学P329）“这些处理既是为了维护社会安全（A错）和大众利益不受患者暴力行为侵害，同时也兼顾到精神障碍患者的合法权益（E对，BCD错），给予其恰当的医疗和保护，减少其因疾病因素而再次产生危害行为”。",
+  "discuss": "精神卫生法的立法目的是为了在保障社会安全的同时，维护精神障碍患者的合法权益。根据《精神卫生法》的宗旨，其核心在于规范精神卫生服务，发展精神卫生事业，保障患者权益，并促进社会的和谐与可持续发展。因此，选项E涵盖了精神卫生法的主要立法考量，既包括社会整体安全，也包括患者个体权益的保护（E对）。虽然维护社会安全是精神卫生法的重要目标之一，但并非“唯一”或“主要”目的；单纯强调社会安全而忽视患者权益的保护，不符合现代精神卫生立法的核心理念（A错）。维护精神障碍患者的合法权益是精神卫生法的重要立法目的之一，但该法的目标不仅限于此，还包括保障社会安全、规范精神卫生服务等多个方面（B错）。精神卫生法并非以惩罚患者为目的，而是以治疗、康复和权益保障为核心；对于患者违法行为的处理，应依据刑法、治安管理处罚法等相关法律，而非精神卫生法本身（C错）。维护患者家属的权利并非精神卫生法的直接立法目的；虽然家庭在精神障碍患者的康复中起到重要作用，但法律的重点在于患者权益和社会安全（D错）。",
+  "last_update": "2025-12-24"
+}

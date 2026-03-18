@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-18-11-58-55-464",
+  "version": "1.1.0",
+  "numb": "42",
+  "all_numb": "46",
+  "cls": "诊断学",
+  "unit": "第三篇 第九章 神经系统检查",
+  "mode": "多选题-X型题",
+  "test": "下列哪些检查属于锥体束征",
+  "option": [
+    "A. Babinski征",
+    "B. Oppenheim征",
+    "C. Gordon征",
+    "D. Hoffmann征",
+    "E. Chaddock征"
+  ],
+  "answer": "ABCDE",
+  "nine_point": "（九版神经病学P118～119）“1.Babinski征（A对）是经典的病理反射，提示锥体束受损…2.Babinski等位征包括：①Chaddock征（E对）…②Oppenheim征（B对）...④Gordon征（C对）..至于这些等位征阳性反应的病理意义，临床上一般认为同Babinski征”。（9版诊断学P218）<img>“4.Hoffmann征（D对）通常认为是病理反射”。",
+  "ten_point": "（10版诊断学P535）“病理反射：Babinski 征、Oppenheim 征、Gordon 征、Chaddock 征、Hoffmann 征”（ABCDE对）。",
+  "discuss": "锥体束征是锥体束病损时出现的异常反射，提示上运动神经元受损。Babinski征是典型的锥体束征，表现为足底刺激后拇趾背伸，其余四趾呈扇形展开（A对）。Oppenheim征通过沿胫骨前缘滑压诱发与Babinski征相同的反应，其机制是由于锥体束抑制功能减弱，导致原始反射被释放（B对）。Gordon征通过捏压腓肠肌诱发Babinski征样反应，阳性结果提示锥体束损害，与Babinski征具有相同的临床意义（C对）。Hoffmann征通过弹刮中指指甲诱发其余四指掌屈反应，其作为上肢锥体束征在临床中广泛使用（D对）。Chaddock征通过刺激足背外侧缘诱发拇趾背伸，阳性反应提示锥体束损伤（E对）。",
+  "last_update": "2025-12-24"
+}

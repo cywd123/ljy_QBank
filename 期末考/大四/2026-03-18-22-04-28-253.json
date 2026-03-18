@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-18-22-04-28-253",
+  "version": "1.1.0",
+  "numb": "9",
+  "all_numb": "129",
+  "cls": "眼科学",
+  "unit": "第七章 角膜疾病",
+  "mode": "单选题-A1型题",
+  "test": "圆锥角膜典型的三联征为",
+  "option": [
+    "A. Fleischer环、Vogt条纹、Arlt线",
+    "B. Vogt条纹、Arlt线、Munson征",
+    "C. Arlt线、Munson征、Herbert 小凹",
+    "D. Fleischer环、Vogt条纹、Munson征",
+    "E. Fleischer环、Bitot 斑、Munson征"
+  ],
+  "answer": "D",
+  "nine_point": "",
+  "ten_point": "（10版眼科学P99）“典型体征为角膜中央或旁中央锥形扩张，为圆形或卵圆形，角膜基质变薄区在圆锥的顶端最明显……用钴蓝光照明时，部分患者在圆锥底部可见泪液浸渍后铁质沉着形成的褐色Fleischer环。角膜深层见基质板层皱褶增多而引起的垂直性Vogt线纹，平行于圆锥较陡的散光轴，角膜表面轻轻加压可使Vogt线纹消失。患眼下转时，可见锥体压迫下睑缘形成的角状皱褶即Munson征”（D对）。",
+  "discuss": "圆锥角膜的典型三联征包括Fleischer环、Vogt条纹和Munson征。Fleischer环是由于铁质沉着在圆锥底部形成的褐色环；Vogt条纹是在角膜深层基质板层皱褶增多而引起的垂直性线纹，平行于圆锥较陡的散光轴；Munson征是指患眼下转时，锥体向前推挤下睑缘使其成三角形的体征（D对）。Arlt线并不是圆锥角膜的典型三联征之一，而是与圆锥角膜相关的其他体征（A错）。Arlt线不属于三联征（B错）。Arlt线和Herbert小凹都不是圆锥角膜的典型三联征之一（C错）。Bitot斑是维生素A缺乏的表现，与圆锥角膜无关（E错）。",
+  "last_update": "2025-12-24"
+}

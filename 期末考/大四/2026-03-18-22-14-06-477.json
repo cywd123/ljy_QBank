@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-18-22-14-06-477",
+  "version": "1.1.0",
+  "numb": "24",
+  "all_numb": "25",
+  "cls": "精神病学",
+  "unit": "第八章 抑郁障碍",
+  "mode": "多选题-X型题",
+  "test": "The typical clinical features of dysthymia should exclude",
+  "option": [
+    "A. Mild depressive mood",
+    "B. Excessive guilt",
+    "C. Suicidal behavior",
+    "D. Psychomotor retardation",
+    "E. Insomnia"
+  ],
+  "answer": "AE",
+  "nine_point": "（8版精神病学P108～109）“二、心理症状群…思维迟缓认知功能损害…负性认知模式…自责自罪（B对）…自杀观念和行为（C对）…精神运动性迟滞或激越（D对）…焦虑…精神病性症状…自知力缺乏”。（8版精神病学P108）<img>“一、核心症状（A错,为本题的正确答案）..心境低落…兴趣减退…快感缺失”。（8版精神病学P109～110）<img>“三、躯体症状群…睡眠障碍（E错，为本题的正确答案）…与自主神经功能紊乱相关的症状.…进食紊乱.精力下降…性功能障碍”。",
+  "ten_point": "（9版精神病学P105）“恶劣心境障碍的特征是持续性抑郁情绪（即持续2年或更长），持续一天中大部分时间，而且持续的天数较多。儿童和青少年抑郁情绪表现为普遍易怒。抑郁情绪伴随着其他症状，如活动兴趣或快乐明显减弱、注意力不集中或犹豫不决、感到自我价值低、过度或不适当的内疚、对未来无望、睡眠不安或睡眠增加、食欲减弱或增加等，精力不足或疲劳”（AE错，为本题正确答案）。",
+  "discuss": "The typical clinical features of dysthymia should exclude（心境恶劣的典型临床特征应排除在外）A.Mild depressive mood（轻微的抑郁情绪）；B.Excessive guilt（过度内疚）；C.Suicidal behavior（自杀行为）；D.Psychomotor retardation（精神运动发育迟缓）；E.Insomnia（失眠）心境恶劣的典型临床特征包括以下几个方面∶思维迟缓；认知功能损害；负性认知模式；自责自罪（B对）；自杀观念和行为（C对）；精神运动性迟滞或激越（D对）；焦虑；精神病性症状；自知力缺乏。轻微的抑郁情绪（A错，为本题的正确答案）属于核心症状。躯体症状群包括以下几个方面∶睡眠障碍（E错，为本题的正确答案）；与自主神经功能紊乱相关的症状；进食紊乱；精力下降；性功能障碍。",
+  "last_update": "2025-12-24"
+}

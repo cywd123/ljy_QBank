@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-18-22-13-02-367",
+  "version": "1.1.0",
+  "numb": "22",
+  "all_numb": "56",
+  "cls": "精神病学",
+  "unit": "第六章 精神分裂症及其他原发性精神病性障碍",
+  "mode": "单选题-A1型题",
+  "test": "You are assigned to Aclient with schizophrenia.You finDthat this client has lessened reactivity to the environment, rigid posture, resistance to being moved, and even bizarre posturing.Which of the following words is used to describe these behaviours?",
+  "option": [
+    "A. Catatonia",
+    "B. Posture fixation",
+    "C. Neuroleptic malignant syndrome",
+    "D. Post synaptic paralytic condition",
+    "E. Disorganized"
+  ],
+  "answer": "A",
+  "nine_point": "（8版精神病学P90）“有的患者可表现为紧张症（A对）行为∶表现为紧张性木僵和紧张性兴奋交替出现或单独发生。紧张性木僵表现为运动抑制，轻者动作缓慢、少语少动（亚木僵），重者终日卧床，不语不动，肌张力高，有时出现蜡样屈曲…紧张性兴奋者表现为突然发生不可理解的冲动行为，言语内容单调刻板，行为无目的性”。",
+  "ten_point": "（9版精神病学P72）“有的可出现紧张症行为，表现为紧张性木僵和紧张性兴奋交替出现或单独发生。紧张性木僵表现为运动抑制，轻者动作缓慢、少语少动（亚木僵）；重者终日卧床，不语不动，肌张力高，有时出现蜡样屈曲。可出现被动服从、主动违拗、模仿动作和模仿言语。患者意识清楚，能感知周围事物，病后能回忆。紧张性兴奋者表现为突然发生不可理解的冲动行为，言语内容单调刻板，行为无目的性”（A对）。",
+  "discuss": "Catatonia即紧张症，是指以运动控制障碍为核心特征的一组临床综合征，包括运动减少（如木僵、肌肉僵硬）、运动增多（如无目的兴奋）、蜡样屈曲、违拗、奇特姿势、刻板动作、模仿言语和模仿动作等。精神分裂症可合并紧张症，表现为环境反应性下降、僵硬姿势、抵抗被动活动以及奇特姿势，与题干描述一致（A对）。Posture fixation（姿势固定）通常用于描述某些神经系统疾病中姿势保持异常，但不特指精神分裂症中的紧张症行为（B错）。Neuroleptic malignant syndrome（恶性综合征）是一种与抗精神病药物使用相关的严重副作用，表现为高热、肌强直、意识障碍和自主神经功能紊乱，与题干描述的症状不符（C错）。Post synaptic paralytic condition（突触后麻痹状态）属于神经肌肉传导障碍的病理状态，常见于重症肌无力或某些中毒情况，不用于描述精神分裂症患者的姿势和行为异常（D错）。Disorganized（瓦解型）是精神分裂症的一种临床亚型，主要表现为思维混乱、行为无目的、情感不协调，虽可伴有行为异常，但不符合题干中所描述的以运动控制障碍为特征的紧张症表现（E错）。",
+  "last_update": "2025-12-24"
+}

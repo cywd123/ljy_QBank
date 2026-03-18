@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-18-19-28-25-489",
+  "version": "1.1.0",
+  "numb": "3",
+  "all_numb": "6",
+  "cls": "内科学",
+  "unit": "第七篇 第十五章 性发育异常疾病",
+  "mode": "单选题-A1型题",
+  "test": "下列哪一项为典型Klinefelter综合征病人激素测定的常见表现",
+  "option": [
+    "A. 游离T水平下降，LH和FSH水平升高，LH/FSH对 GnRH刺激无反应",
+    "B. 游离T水平下降，LH和FSH水平升高 ，LH/FSH对GnRH刺激反应增强",
+    "C. 游离T水平下降，LH和FSH水平下降，LH/FSH对GnRH刺激反应增强",
+    "D. 游离T水平下降，LH和FSH水平下降，LH/FSH对GnRH刺激无反应",
+    "E. 游离T水平升高，LH和FSH水平升高，LH/FSH对GnRH刺激反应增强"
+  ],
+  "answer": "B",
+  "nine_point": "",
+  "ten_point": "10版教材未明确说明",
+  "discuss": "Klinefelter综合征患者由于性腺发育不良，导致雄激素（如游离睾酮T）水平下降，同时促性腺激素LH和FSH水平升高。这是由于性腺功能减退导致的负反馈机制减弱，使得垂体分泌更多的LH和FSH以试图刺激性腺功能。此外，这些患者的LH/FSH对GnRH刺激反应增强，表明下丘脑-垂体-性腺轴的功能异常（B对）。Klinefelter综合征患者的LH和FSH水平确实升高，但它们对GnRH刺激的反应是增强而不是无反应（A错）。Klinefelter综合征患者的LH和FSH水平升高，而非下降，因此C选项与实际情况不符（C错）。Klinefelter综合征患者的LH和FSH水平升高，并且对GnRH刺激有增强反应，因此D选项描述不准确（D错）。Klinefelter综合征患者的游离睾酮水平下降，而非升高，尽管LH和FSH水平升高，但游离睾酮水平下降是其典型表现之一（E错）。",
+  "last_update": "2025-12-24"
+}

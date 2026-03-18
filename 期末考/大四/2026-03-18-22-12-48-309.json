@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-18-22-12-48-309",
+  "version": "1.1.0",
+  "numb": "54",
+  "all_numb": "58",
+  "cls": "精神病学",
+  "unit": "第五章 神经发育障碍",
+  "mode": "多选题-X型题",
+  "test": "Which of the followings are true regarding ADHD in children",
+  "option": [
+    "A. ADHD is more prevalent among boys",
+    "B. The symptoms should persist for at least 3 months for a diagnosis of ADHD",
+    "C. Depression is the most common comorbid condition associated with ADHD",
+    "D. Conduct disorder is the most common comorbid condition associated with ADHD",
+    "E. Psychotherapy mainly adopts behavioral therapy and cognitive behavioral therapy"
+  ],
+  "answer": "ADE",
+  "nine_point": "（8版精神病学P231）“男性多于女性（A对）”。（8版精神病学P234）<img>“心理治疗主要采用行为治疗和认知行为治疗（E对）”。（8版精神病学P232）<img>“此外，患者常共患其他精神障碍。其中共患品行障碍40%（D对C错）、焦虑障碍31%、抽动障碍11%、心境障碍4%”。（8版精神病学P233）<img>“患者儿童期开始（12岁以前）出现明显的注意缺陷和活动过多，并且在学校、家庭和其他场合都有这些临床表现，症状持续6个月以上（B错），对患者的社会功能（如学业成绩、人际关系等）产生不良影响，则可诊断为注意缺陷与多动障碍”。",
+  "ten_point": "（9版精神病学P60）“男性的患病率高于女性，比例在儿童中约为2∶1”（9版精神病学P61）<img>“最常见的共病是对立违抗/品行障碍”“症状持续6个月以上”（9版精神病学P62）<img>“心理行为治疗”（ADE对）。",
+  "discuss": "ADHD在儿童中存在显著的性别差异，男孩的发病率明显高于女孩，这与生物学因素、社会行为表达差异及诊断偏倚等多种因素相关（A对）。注意缺陷多动障碍（ADHD）常见的共病包括对立违抗障碍、品行障碍以及情绪障碍等。其中，品行障碍是ADHD最常见的共病之一，表现为攻击性行为、破坏性行为、违反规则等，严重影响患儿的社会功能和家庭关系（D对）。ADHD的心理治疗主要包括行为疗法和认知行为疗法，行为疗法适用于学龄前及学龄儿童，通过正性强化、负性惩罚等手段改善不良行为；认知行为疗法主要用于青少年及成人，帮助其建立自我控制能力与问题解决技巧（E对）。ADHD的诊断需依据DSM-5标准，要求症状在至少两个不同的环境中持续存在至少6个月，而非3个月，且症状显著影响到学业、社交或行为功能（B错）。虽然ADHD可与抑郁障碍共病，但最常见的共病仍是品行障碍或对立违抗障碍，抑郁通常出现在青少年或成人期，作为继发性情绪障碍出现（C错）。",
+  "last_update": "2025-12-24"
+}

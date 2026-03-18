@@ -1,0 +1,22 @@
+{
+  "name": "2026-03-18-11-22-31-223",
+  "version": "1.1.0",
+  "numb": "18",
+  "all_numb": "37",
+  "cls": "病理生理学",
+  "unit": "第二十章 多器官功能障碍",
+  "mode": "单选题-B型题",
+  "test": "急性呼吸窘迫综合征",
+  "option": [
+    "A.ARDS",
+    "B.ARF",
+    "C.ALI",
+    "D.MODS",
+    "E.MSOF"
+  ],
+  "answer": "A",
+  "nine_point": "（9版病理生理学P279）“SIRS时，也往往最先累及肺，一般在原发病发生后24～72小时内早期即可出现急性呼吸功能障碍，严重的可发展为急性呼吸窘迫综合征（ARDS）”（A对，BCDE错）。",
+  "ten_point": "（10版病理生理学P253）“SIRS时，也往往最先累及肺，一般在原发病发生后24~72小时内（早期）即可出现急性肺损伤，轻者表现为肺功能不全，重者可发展为急性呼吸窘迫综合征（ARDS）”（A对）。",
+  "discuss": "急性呼吸窘迫综合征的英文全称是“acute respiratory distress syndrome”，其缩写为ARDS，这是医学界广泛使用的标准命名和缩写方式（A对）。ARF是“acute respiratory failure”的缩写，意为急性呼吸衰竭，虽然ARDS可发展为ARF，但两者并非同一概念，ARF为更广泛的呼吸衰竭分类（B错）。ALI是“acute lung injury”的缩写，指急性肺损伤，曾用于描述ARDS的早期或较轻阶段，但根据2012年柏林定义，现已统一归入ARDS范畴（C错）。MODS是“multiple organ dysfunction syndrome”的缩写，意为多器官功能障碍综合征，是严重感染或创伤后多个器官功能受损的综合征，与题干考查的ARDS无直接对应关系（D错）。MSOF是“multiple system organ failure”的缩写，与MODS类似，指多个系统器官功能衰竭，常见于危重症晚期，亦非ARDS的同义词或缩写（E错）。",
+  "last_update": "2025-12-24"
+}

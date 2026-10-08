@@ -1,0 +1,22 @@
+{
+  "name": "2026-10-07-13-57-41-727",
+  "version": "1.1.0",
+  "numb": "60",
+  "all_numb": "60",
+  "cls": "本专业相关基础理论知识",
+  "unit": "2.呼吸系统",
+  "mode": "单选题-B型题",
+  "test": "符合通气功能障碍所致呼吸衰竭的动脉血气标准是",
+  "option": [
+    "A.PaO₂为70mmHg，PaCO₂为45mmHg",
+    "B.PaO₂为70mmHg，PaCO₂为40mmHg",
+    "C.PaO₂为55mmHg，PaCO₂为60mmHg",
+    "D.PaO₂为50mmHg，PaCO₂为40mmHg",
+    "E.PaO₂为65mmHg，PaCO₂为40mmHg"
+  ],
+  "answer": "C",
+  "nine_point": "",
+  "ten_point": "",
+  "discuss": "通气功能障碍所致呼吸衰竭为Ⅱ型呼吸衰竭，血气分析特点是PaCO₂＞50mmHg、伴或不伴低氧血症（PaO₂＜60mmHg），主要由单纯通气不足引起低氧血症和高碳酸血症。选项C中PaO₂为55mmHg（低于60mmHg）和PaCO₂为60mmHg（高于50mmHg）符合Ⅱ型呼吸衰竭标准（C对）。I型呼吸衰竭表现为PaO₂＜60mmHg而PaCO₂降低或正常，主要见于肺换气功能障碍（通气血流比例失调、弥散功能损害等），如选项D（PaO₂为50mmHg，PaCO₂为40mmHg）（D错）。PaO₂≥60mmHg不符合呼吸衰竭诊断标准，如选项A（PaO₂为70mmHg，PaCO₂为45mmHg）、B（PaO₂为70mmHg，PaCO₂为40mmHg）和E（PaO₂为65mmHg，PaCO₂为40mmHg）（ABE错）。",
+  "last_update": "2026-3-10"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "2026-10-08-02-02-42-354",
+  "version": "1.1.0",
+  "numb": "10",
+  "all_numb": "84",
+  "cls": "临床常见疾病",
+  "unit": "46.内分泌系统（甲减/肾上腺皮质功能减退症/脂代谢紊乱）",
+  "mode": "单选题-A1型题",
+  "test": "血浆各种脂蛋白中，按它们所含胆固醇及其脂的量从多到少的排列顺序是",
+  "option": [
+    "A. HDL，LDL，VLDL，CM",
+    "B. CM，VLDL，LDL，HDL",
+    "C. LDL，HDL，VLDL，CM",
+    "D. VLDL，LDL，HDL，CM",
+    "E. LDL，VLDL，HDL，CM"
+  ],
+  "answer": "C",
+  "nine_point": "",
+  "ten_point": "",
+  "discuss": "血浆脂蛋白中胆固醇及其脂的含量从多到少依次为LDL、HDL、VLDL、CM。LDL含胆固醇约50%，是胆固醇含量最高的脂蛋白（LDL对）。HDL含胆固醇次之，主要功能是将胆固醇从周围组织转运到肝脏进行代谢再循环（HDL对）。VLDL含胆固醇较低，主要功能是运输内源性甘油三酯（VLDL对）。CM含胆固醇最低，其甘油三酯含量约占90%（CM对）（C对）。",
+  "last_update": "2026-3-10"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "2026-10-07-12-30-51-926",
+  "version": "1.1.0",
+  "numb": "3",
+  "all_numb": "66",
+  "cls": "二、体格检查",
+  "unit": "8.神经系统检查",
+  "mode": "单选题-A1型题",
+  "test": "以下不是当锥体束病损时出现的神经反射",
+  "option": [
+    "A. Oppenheim征",
+    "B. Babinski征阳性",
+    "C. Hoffmann征",
+    "D. Gordon征",
+    "E. Brudzinski征"
+  ],
+  "answer": "E",
+  "nine_point": "",
+  "ten_point": "",
+  "discuss": "Brudzinski征是脑膜刺激征的表现之一，当颈部屈曲时出现双侧膝关节和髋关节屈曲，常见于脑膜炎等疾病（E错，为本题正确答案）。Oppenheim征是锥体束病损的典型表现，通过足趾背伸反应来判断（A对）。Babinski征阳性是典型的锥体束损害体征，表现为拇趾背伸、其他四趾呈扇形展开（B对）。Hoffmann征是上肢锥体束病损的重要体征，表现为拇指内收和其他手指屈曲（C对）。Gordon征也是锥体束病损的病理反射之一，通过挤压腓肠肌诱发（D对）。",
+  "last_update": "2026-9-11"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "2026-10-07-13-54-27-534",
+  "version": "1.1.0",
+  "numb": "67",
+  "all_numb": "118",
+  "cls": "本专业基本理论知识",
+  "unit": "5.泌尿系统",
+  "mode": "单选题-A1型题",
+  "test": "原发性肾小球疾病的病理分型不包括",
+  "option": [
+    "A. 轻微性肾小球病变",
+    "B. 局灶性节段性病变",
+    "C. 弥漫性肾小球肾炎",
+    "D. 隐匿性肾小球肾炎",
+    "E. 未分类的肾小球肾炎"
+  ],
+  "answer": "D",
+  "nine_point": "",
+  "ten_point": "（10版内科学P473）“1.肾小球轻微病变（minor glomerular lesion）包括微小病变型肾病（minimal change disease， MCD）。2.局灶节段性肾小球病变（focal segmental lesion）包括局灶节段性肾小球硬化（focal segmental glomerulosclerosis，FSGS）和局灶性肾小球肾炎（focal glomerulonephritis）。3.弥漫性肾小球肾炎（diffuse glomerulonephritis）……4.未分类的肾小球肾炎（unclassified glomerulonephritis）”（D错，为本题正确答案）。",
+  "discuss": "原发性肾小球疾病的病理分型包括轻微性肾小球病变，主要特征是光镜下肾小球结构正常，电镜下可见足突融合（A对）；局灶性节段性病变包括局灶-节段性增生性肾炎、局灶-节段性坏死性肾炎及局灶-节段性肾小球硬化等（B对）；弥漫性肾小球肾炎可分为膜性肾病、系膜增生性肾小球肾炎等多种亚型（C对）；未分类的肾小球肾炎指不符合已知特定病理类型的病例（E对）。隐匿性肾小球肾炎并非病理分型，而是临床表现形式，表现为无症状血尿和/或蛋白尿，其病理基础可为轻微病变、局灶节段性病变或弥漫性肾小球肾炎等（D错，为本题正确答案）。",
+  "last_update": "2026-5-6"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "2026-10-07-14-58-48-109",
+  "version": "1.1.0",
+  "numb": "34",
+  "all_numb": "175",
+  "cls": "临床常见疾病",
+  "unit": "42.内分泌系统（糖尿病）",
+  "mode": "单选题-A1型题",
+  "test": "符合糖尿病的是",
+  "option": [
+    "A. 空腹血糖∶6.8mmol/L",
+    "B. OGTT2小时12mmol/L",
+    "C. OGTT3小时12mmol/L",
+    "D. OGTT4小时12mmol/L",
+    "E. 餐后血糖12.0mmol/L"
+  ],
+  "answer": "B",
+  "nine_point": "",
+  "ten_point": "（10版内科学P733）“糖尿病（DM）|≥7.0|≥11.1……OGTT中 2小时血糖（2 hours plasma glucose，2hPG）……≥11.1”（B对）。",
+  "discuss": "糖尿病的诊断标准之一是OGTT2小时血糖≥11.1mmol/L；选项B中OGTT2小时血糖为12mmol/L，高于诊断阈值（B对）。",
+  "last_update": "2026-3-10"
+}

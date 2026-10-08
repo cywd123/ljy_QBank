@@ -1,0 +1,22 @@
+{
+  "name": "2026-10-08-03-06-26-763",
+  "version": "1.1.0",
+  "numb": "20",
+  "all_numb": "200",
+  "cls": "2012年真题",
+  "unit": "",
+  "mode": "单选题-A1型题",
+  "test": "下列最符合肺性脑病患者血气结果的是",
+  "option": [
+    "A. PO₂∶70mmHg;PaCO2∶30mmHg",
+    "B. PO₂∶80mmHg;PaCO2∶35mmHg",
+    "C. PO₂∶40mmHg;PaCO2∶90mmHg",
+    "D. PO₂∶50mmHg;PaCO2∶35mmHg",
+    "E. PO₂∶40mmHg;PaCO2∶45mmHg"
+  ],
+  "answer": "C",
+  "nine_point": "",
+  "ten_point": "",
+  "discuss": "肺性脑病是呼吸衰竭引起的神经精神障碍综合征（Ⅱ型呼吸衰竭特征），典型表现为严重低氧血症（PaO₂<60mmHg为呼吸衰竭诊断标准）和显著高碳酸血症（PaCO₂>50mmHg为Ⅱ型呼吸衰竭，>70-80mmHg易诱发肺性脑病）。选项C中PaO₂ 40mmHg（严重缺氧，可致意识障碍）和PaCO₂ 90mmHg（显著CO₂潴留，引起脑脊液氢离子浓度升高及脑血管扩张）完全符合肺性脑病的血气特征（C对）。",
+  "last_update": "2026-9-11"
+}

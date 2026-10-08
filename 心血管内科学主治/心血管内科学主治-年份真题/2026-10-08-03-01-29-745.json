@@ -1,0 +1,22 @@
+{
+  "name": "2026-10-08-03-01-29-745",
+  "version": "1.1.0",
+  "numb": "139",
+  "all_numb": "302",
+  "cls": "2019年真题",
+  "unit": "",
+  "mode": "单选题-A1型题",
+  "test": "抗 HBs﹢，抗 HBe﹢，抗 HBc﹢的意义是",
+  "option": [
+    "A. 乙肝恢复期",
+    "B. 既往感染乙肝",
+    "C. 乙肝疫苗接种后",
+    "D. 乙肝病毒携带者",
+    "E. 乙肝急性期"
+  ],
+  "answer": "A",
+  "nine_point": "",
+  "ten_point": "",
+  "discuss": "抗HBs+、抗HBe+、抗HBc+表示乙肝恢复期（A对）。HBsAg转阴，病毒复制停止，传染性低。抗HBs提供保护性免疫。抗HBe反映HBeAg清除和病毒复制减弱。抗HBc（IgG型）代表既往感染史。既往感染乙肝通常为抗HBc阳性，抗HBs可能阳性或阴性（B错）。乙肝疫苗接种后仅抗HBs阳性，不产生抗HBe和抗HBc，因疫苗不含HBeAg或HBcAg成分（C错）。乙肝病毒携带者HBsAg阳性，抗HBs阴性（D错）。乙肝急性期HBsAg、HBeAg和抗HBc IgM阳性（E错）。",
+  "last_update": "2026-9-11"
+}

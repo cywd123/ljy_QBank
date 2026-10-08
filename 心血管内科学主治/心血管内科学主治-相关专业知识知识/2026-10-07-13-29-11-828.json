@@ -1,0 +1,22 @@
+{
+  "name": "2026-10-07-13-29-11-828",
+  "version": "1.1.0",
+  "numb": "76",
+  "all_numb": "119",
+  "cls": "八、传染病",
+  "unit": "1.病毒性肝炎",
+  "mode": "单选题-A1型题",
+  "test": "既往感染甲型肝炎，获得了特异性免疫力者",
+  "option": [
+    "A. anti-HBs、anti-HBe、anti-HBc阳性，HBV-DNA阴性",
+    "B. anti-HAVlgM阴性，anti-HAVlgG阳性",
+    "C. HBsAg、anti-HBc阳性，anti-HCV阳性",
+    "D. 乙肝五项中HBsAg、HBeAg、anti-HBc阳性",
+    "E. anti-HBs阳性"
+  ],
+  "answer": "B",
+  "nine_point": "",
+  "ten_point": "",
+  "discuss": "甲型肝炎病毒感染后，机体产生特异性免疫应答，anti-HAV IgM为急性期感染标志，出现早、消失快，通常于发病后1～4周达高峰，3～6个月内转阴；anti-HAV IgG则在感染后约4周开始升高，24周达高峰，可持续多年甚至终生，是既往感染或疫苗接种后获得持久免疫力的血清学依据。既往感染甲型肝炎并获得特异性免疫力者处于感染恢复期或远期免疫状态，此时anti-HAV IgM阴性、anti-HAV IgG阳性（B对）。乙型肝炎的血清学标志物中，anti-HBs、anti-HBe、anti-HBc阳性，HBV-DNA阴性反映既往感染并已恢复或接种疫苗成功（A错）；HBsAg、HBeAg、anti-HBc阳性构成“大三阳”，代表病毒复制活跃、传染性强（D错）；anti-HBs阳性单独存在提示对乙型肝炎具有保护性免疫力（E错）；HBsAg、anti-HBc阳性提示现症感染或慢性携带状态（C错），若同时anti-HCV阳性则提示丙型肝炎感染。",
+  "last_update": "2026-9-11"
+}

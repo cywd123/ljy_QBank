@@ -1,0 +1,22 @@
+{
+  "name": "2026-10-08-02-08-08-564",
+  "version": "1.1.0",
+  "numb": "96",
+  "all_numb": "113",
+  "cls": "临床常见疾病",
+  "unit": "52.感染性疾病（病毒性肝炎）",
+  "mode": "单选题-B型题",
+  "test": "说明病毒已发生了变异的指标是",
+  "option": [
+    "A.HBsAg（﹢）HBeAg（﹣）HBV﹣DNA（﹣）",
+    "B.HBsAg（﹢）HBeAg（﹢）HBV﹣DNA（﹢）",
+    "C.HBsAg（﹣）抗HBs（﹢）抗HBc（﹢）",
+    "D.HBsAg（﹢）HBeAg（﹣）抗HBc（﹢）",
+    "E.HBsAg（﹢）HBeAg（﹣）HBV﹣DNA（﹢）"
+  ],
+  "answer": "E",
+  "nine_point": "",
+  "ten_point": "",
+  "discuss": "HBeAg阴性但HBV-DNA阳性是病毒变异的典型指标，由于病毒前C区或基本核心启动子区域发生变异，导致HBeAg表达减少或缺失，病毒仍活跃复制并逃避宿主免疫系统识别（E对）。HBsAg阳性、HBeAg阴性和HBV-DNA阴性仅表示病毒复制水平低，可能处于慢性感染非活动期或免疫控制期（A错）。HBsAg阳性、HBeAg阳性和HBV-DNA阳性表示病毒处于高复制状态，具有较强传染性（B错）。HBsAg阴性、抗HBs阳性和抗HBc阳性表示既往感染已恢复并产生保护性抗体（C错）。HBsAg阳性、HBeAg阴性和抗HBc阳性提示慢性感染，但需结合HBV-DNA检测结果判断病毒复制状态（D错）。前C区1896位核苷酸变异及基本核心启动子变异可引起HBeAg阴性但HBV-DNA阳性现象，此时病毒仍大量增殖。",
+  "last_update": "2026-3-10"
+}

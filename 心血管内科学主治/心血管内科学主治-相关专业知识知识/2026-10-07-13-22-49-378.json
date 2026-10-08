@@ -1,0 +1,22 @@
+{
+  "name": "2026-10-07-13-22-49-378",
+  "version": "1.1.0",
+  "numb": "6",
+  "all_numb": "323",
+  "cls": "六、内分泌学",
+  "unit": "1.糖尿病",
+  "mode": "单选题-A1型题",
+  "test": "关于糖耐量减低，下列说法正确的是",
+  "option": [
+    "A. 空腹血糖≥7.0mmol/L，OGTT2小时血糖≥11.1mmol/L",
+    "B. 空腹血糖≥7.0mmol/L，OGTT2小时血糖＜11.1mmol/L",
+    "C. 空腹血糖＜7.0mmol/L，OGTT2小时血糖7.8～11.1mmol/L之间",
+    "D. 空腹血糖＜7.0mmol/L，OGTT2小时血糖＜11.1mmol/L",
+    "E. 空腹血糖≥7.0mmol/L，OGTT2小时血糖＞11.1mmol/L"
+  ],
+  "answer": "C",
+  "nine_point": "",
+  "ten_point": "",
+  "discuss": "糖耐量减低（IGT）的诊断标准为空腹血糖＜7.0mmol/L，OGTT 2小时血糖在7.8～11.1mmol/L之间，表明患者对葡萄糖的代谢调节能力下降，尚未达到糖尿病诊断标准（C对）。空腹血糖≥7.0mmol/L且OGTT 2小时血糖≥11.1mmol/L符合糖尿病诊断标准（A错）。空腹血糖≥7.0mmol/L且OGTT 2小时血糖＜11.1mmol/L可能提示糖尿病前期（B错）。空腹血糖＜7.0mmol/L且OGTT 2小时血糖＜11.1mmol/L属于正常血糖范围（D错）。空腹血糖≥7.0mmol/L且OGTT 2小时血糖＞11.1mmol/L符合糖尿病诊断标准（E错）。",
+  "last_update": "2026-5-6"
+}

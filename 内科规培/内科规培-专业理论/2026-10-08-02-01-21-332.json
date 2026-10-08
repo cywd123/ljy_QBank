@@ -1,0 +1,22 @@
+{
+  "name": "2026-10-08-02-01-21-332",
+  "version": "1.1.0",
+  "numb": "39",
+  "all_numb": "231",
+  "cls": "临床常见疾病",
+  "unit": "45.内分泌系统（甲亢）",
+  "mode": "单选题-A1型题",
+  "test": "下列哪一项与Graves病无关",
+  "option": [
+    "A. 甲状腺刺激抗体（TSAb）",
+    "B. 甲状腺球蛋白抗体（TGAb）",
+    "C. 抗微粒体抗体（TMAb）",
+    "D. 抗T₃、T₄抗体",
+    "E. TSH受体抗体（TRAb）"
+  ],
+  "answer": "D",
+  "nine_point": "",
+  "ten_point": "（10版内科学P686）“Graves病（Graves disease，GD）是一种以体内存在促甲状腺激素受体抗体（thyrotropin receptor antibody，TRAb）为特征的多系统自身免疫病，是甲亢主要病因”。（10版内科学P687）“TRAb包括三个亚型：甲状腺刺激性抗体（thyroid stimulating antibody，TSAb）、甲状腺阻断性抗体（thyroid blocking antibody，TBAb）和甲状腺中性抗体。TSAb是 Graves病甲亢的致病抗体”。（10版内科学P697）“自身免疫性甲状腺炎（autoimmune thyroiditis，AIT）是血清中存在针对甲状腺的自身抗体，甲状腺内有淋巴细胞浸润，甲状腺受到不同程度破坏的一组疾病，包括桥本甲状腺炎、无痛性甲状腺炎、产后甲状腺炎等……血中存在高滴度的TPOAb或 TgAb”。（10版内科学P661）“Graves病可检出 TSH受体抗体（TRAb），而桥本甲状腺炎中可检出甲状腺过氧化物酶抗体（TPOAb）及甲状腺球蛋白抗体（TgAb）”（D错，为本题正确答案）。",
+  "discuss": "抗T₃、T₄抗体与Graves病无关，这些抗体不直接参与Graves病的发病机制，而是其他自身免疫性甲状腺疾病中可能出现的抗体（D对）。TSH受体抗体（TRAb）包括甲状腺刺激性抗体（TSAb）和甲状腺阻断性抗体（TBAb），其中TSAb是Graves病的主要致病抗体，能够激活TSH受体导致甲状腺功能亢进（AE错）。甲状腺球蛋白抗体（TGAb）和抗微粒体抗体（TMAb，即甲状腺过氧化物酶抗体TPOAb）在Graves病患者中常见，提示存在自身免疫反应（BC错）。",
+  "last_update": "2026-3-10"
+}

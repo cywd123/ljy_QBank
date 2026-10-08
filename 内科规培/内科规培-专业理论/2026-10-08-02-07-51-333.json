@@ -1,0 +1,22 @@
+{
+  "name": "2026-10-08-02-07-51-333",
+  "version": "1.1.0",
+  "numb": "53",
+  "all_numb": "113",
+  "cls": "临床常见疾病",
+  "unit": "52.感染性疾病（病毒性肝炎）",
+  "mode": "单选题-A1型题",
+  "test": "下述5种肝炎病毒中哪一个为DNA病毒",
+  "option": [
+    "A. HAV",
+    "B. HBV",
+    "C. HCV",
+    "D. HDV",
+    "E. HEV"
+  ],
+  "answer": "B",
+  "nine_point": "",
+  "ten_point": "（10版传染病学P27）“乙型肝炎病毒（hepatitis B virus，HBV）1965年由 Blumberg等报道……HBV是嗜肝DNA病毒科（Hepadnavirus） 正嗜肝DNA病毒属（Orthohepadnavirus）的一员”（B对）。",
+  "discuss": "乙型肝炎病毒（HBV）是一种DNA病毒，其基因组为双链DNA（B对）。HBV的复制过程包括逆转录步骤，在肝细胞核中形成共价闭合环状DNA，这种特性使得HBV难以从体内彻底清除。甲型肝炎病毒（HAV）和戊型肝炎病毒（HEV）均为单链RNA病毒，主要通过粪-口途径传播，引起急性肝炎（AE错）。丙型肝炎病毒（HCV）为RNA病毒，主要通过血液传播，可导致慢性肝炎、肝硬化和肝癌（C错）。丁型肝炎病毒（HDV）是一种缺陷型RNA病毒，必须在HBV感染的基础上才能复制（D错）。",
+  "last_update": "2026-5-6"
+}

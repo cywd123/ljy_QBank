@@ -1,0 +1,22 @@
+{
+  "name": "2026-10-07-13-29-26-233",
+  "version": "1.1.0",
+  "numb": "113",
+  "all_numb": "119",
+  "cls": "八、传染病",
+  "unit": "1.病毒性肝炎",
+  "mode": "单选题-B型题",
+  "test": "说明HBV处于复制状态指标是",
+  "option": [
+    "A.HBsAg（﹢）HBeAg（﹣）HBV﹣DNA（﹣）",
+    "B.HBsAg（﹢）HBeAg（﹢）HBV﹣DNA（﹢）",
+    "C.HBsAg（﹣）抗HBs（﹢）抗HBc（﹢）",
+    "D.HBsAg（﹢）HBeAg（﹣）抗HBc（﹢）",
+    "E.HBsAg（﹢）HBeAg（﹣）HBV﹣DNA（﹢）"
+  ],
+  "answer": "B",
+  "nine_point": "",
+  "ten_point": "",
+  "discuss": "HBeAg阳性表示病毒复制活跃且有较强的传染性；HBV-DNA阳性是病毒复制的直接标志（B对）。HBsAg阳性表示现症HBV感染；HBeAg阴性和HBV-DNA阴性提示病毒复制不活跃（A错）。抗HBs阳性表示机体对乙肝病毒感染有免疫力；抗HBc阳性可能表示过去感染或低水平感染，不表示当前病毒复制状态（C错）。HBsAg阳性表示现症HBV感染；HBeAg阴性提示病毒复制减弱；抗HBc阳性可能表示过去感染或低水平感染（D错）。HBV-DNA阳性表明病毒存在复制；HBeAg阴性通常表示病毒复制减弱，复制状态不如HBeAg阳性活跃（E错）。",
+  "last_update": "2026-3-10"
+}

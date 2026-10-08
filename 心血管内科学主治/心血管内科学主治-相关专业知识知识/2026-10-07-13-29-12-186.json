@@ -1,0 +1,22 @@
+{
+  "name": "2026-10-07-13-29-12-186",
+  "version": "1.1.0",
+  "numb": "77",
+  "all_numb": "119",
+  "cls": "八、传染病",
+  "unit": "1.病毒性肝炎",
+  "mode": "单选题-A1型题",
+  "test": "乙型肝炎与丙型肝炎病毒重叠感染，可能为现症感染，也可能为病毒携带者",
+  "option": [
+    "A. anti-HBs、anti-HBe、anti-HBc阳性，HBV-DNA阴性",
+    "B. anti-HAVlgM阴性，anti-HAVlgG阳性",
+    "C. HBsAg、anti-HBc阳性，anti-HCV阳性",
+    "D. 乙肝五项中HBsAg、HBeAg、anti-HBc阳性",
+    "E. anti-HBs阳性"
+  ],
+  "answer": "C",
+  "nine_point": "",
+  "ten_point": "",
+  "discuss": "HBsAg和anti-HBc阳性提示乙型肝炎病毒现症感染或慢性携带状态，anti-HCV阳性表明丙型肝炎病毒感染（可为急性、慢性或持续状态），三者共存支持“可能为现症感染，也可能为病毒携带者”的临床判断（C对）。anti-HBs、anti-HBe、anti-HBc阳性且HBV-DNA阴性提示既往HBV感染已恢复（A错）。anti-HAV IgM阴性、anti-HAV IgG阳性仅反映甲型肝炎既往感染或疫苗接种免疫（B错）。HBsAg、HBeAg、anti-HBc阳性为典型的“大三阳”，提示HBV活动性复制（D错）。anti-HBs阳性提示对HBV具有免疫力（E错）。",
+  "last_update": "2026-9-11"
+}

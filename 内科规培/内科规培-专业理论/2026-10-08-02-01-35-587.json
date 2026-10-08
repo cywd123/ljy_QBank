@@ -1,0 +1,22 @@
+{
+  "name": "2026-10-08-02-01-35-587",
+  "version": "1.1.0",
+  "numb": "79",
+  "all_numb": "231",
+  "cls": "临床常见疾病",
+  "unit": "45.内分泌系统（甲亢）",
+  "mode": "单选题-A1型题",
+  "test": "下列各项中与Graves病的发病关系最密切的是",
+  "option": [
+    "A. 精神创伤",
+    "B. TRH（促甲状腺激素释放激素）升高",
+    "C. TSH（促甲状腺激素）升高",
+    "D. 碘摄入过多",
+    "E. 自身免疫"
+  ],
+  "answer": "E",
+  "nine_point": "",
+  "ten_point": "（10版内科学P686）“Graves病（Graves disease，GD）是一种以体内存在促甲状腺激素受体抗体（thyrotropin receptor antibody，TRAb）为特征的多系统自身免疫病，是甲亢主要病因。”。（10版内科学P687）“免疫耐受机制破坏后，TSHRα亚单位激活 B淋巴细胞，B细胞转化为能分泌 TSHR抗体的浆细胞，产生TRAb。TRAb包括三个亚型：甲状腺刺激性抗体（thyroid stimulating antibody，TSAb）、甲状腺阻断性抗体（thyroid blocking antibody，TBAb）和甲状腺中性抗体。TSAb是 Graves病甲亢的致病抗体。”。（10版内科学P686）“Graves病是在特定的遗传背景下，受环境因素的影响，对 TSH受体（TSHR）产生自身免疫反应的疾病”（E对）。",
+  "discuss": "Graves病是一种自身免疫性疾病，其发病机制主要与TSH受体抗体（TRAb）的产生有关；TRAb包括甲状腺刺激性抗体（TSAb），这些抗体会与TSH受体结合，激活腺苷酸环化酶信号系统，导致甲状腺滤泡上皮细胞增生和过量甲状腺激素的产生，从而引起甲状腺功能亢进（E对）。精神创伤可能作为环境因素影响免疫状态，与Graves病发病关系不密切（A错）。TRH升高可导致TSH分泌增加，与Graves病发病无直接关联（B错）。TSH升高见于垂体TSH瘤引起的甲状腺功能亢进，与Graves病发病机制不同（C错）。碘摄入过多可导致碘致甲状腺功能亢进，与Graves病的自身免疫机制无直接关系（D错）。",
+  "last_update": "2026-3-10"
+}

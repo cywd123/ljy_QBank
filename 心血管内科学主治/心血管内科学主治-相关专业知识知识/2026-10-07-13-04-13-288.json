@@ -1,0 +1,22 @@
+{
+  "name": "2026-10-07-13-04-13-288",
+  "version": "1.1.0",
+  "numb": "152",
+  "all_numb": "155",
+  "cls": "二、呼吸内科",
+  "unit": "1.慢性阻塞性肺疾病",
+  "mode": "单选题-B型题",
+  "test": "COPD患者肺功能回报：FEV₁/FVC＜56%，FEV₁/预计值：45%，该患者按COPD严重程度分级属于",
+  "option": [
+    "A.轻度COPD",
+    "B.中度COPD",
+    "C.重度COPD",
+    "D.极重度COPD",
+    "E.COPD高危因素"
+  ],
+  "answer": "C",
+  "nine_point": "",
+  "ten_point": "",
+  "discuss": "根据GOLD指南，COPD的肺功能分级标准基于吸入支气管扩张剂后FEV₁占预计值百分比：FEV₁≥80%预计值为GOLD 1级（轻度COPD）；50%≤FEV₁<80%预计值为GOLD 2级（中度COPD）；30%≤FEV₁<50%预计值为GOLD 3级（重度COPD）；FEV₁<30%预计值为GOLD 4级（极重度COPD）（C对）。本例中FEV₁/预计值为45%，符合30%≤FEV₁<50%的范围，因此该患者属于重度COPD。轻度COPD对应FEV₁≥80%预计值（A错）。中度COPD对应50%≤FEV₁<80%预计值（B错）。极重度COPD对应FEV₁<30%预计值（D错）。COPD高危因素指吸烟、空气污染等暴露史，是疾病发生的风险因素，并非病情严重程度的分类（E错）。",
+  "last_update": "2026-3-10"
+}

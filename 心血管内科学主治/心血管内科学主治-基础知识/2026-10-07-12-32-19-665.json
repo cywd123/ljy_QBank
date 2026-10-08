@@ -1,0 +1,22 @@
+{
+  "name": "2026-10-07-12-32-19-665",
+  "version": "1.1.0",
+  "numb": "12",
+  "all_numb": "19",
+  "cls": "三、常见疾病的病因、发病机制、病理",
+  "unit": "5.呼吸衰竭",
+  "mode": "单选题-A1型题",
+  "test": "下列哪个选项支持Ⅱ型呼吸衰竭的诊断：",
+  "option": [
+    "A. PaO₂＜60mmHg，PaCO₂＞50mmHg",
+    "B. PaO₂＜60mmHg，PaCO₂正常",
+    "C. PaO₂＞60mmHg，PaCO₂＞60mmHg",
+    "D. PaO₂＞60mmHg，PaCO₂＜55mmHg",
+    "E. PaO₂＞60mmHg，PaCO₂＜50mmHg"
+  ],
+  "answer": "A",
+  "nine_point": "",
+  "ten_point": "",
+  "discuss": "Ⅱ型呼吸衰竭的诊断标准是动脉血气分析显示PaO₂低于60mmHg，同时伴有PaCO₂升高超过50mmHg。这种类型的呼吸衰竭反映了通气功能障碍，导致二氧化碳潴留和低氧血症并存（A对）。",
+  "last_update": "2026-9-11"
+}

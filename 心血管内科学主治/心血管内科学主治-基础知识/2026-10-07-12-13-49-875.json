@@ -1,0 +1,22 @@
+{
+  "name": "2026-10-07-12-13-49-875",
+  "version": "1.1.0",
+  "numb": "4",
+  "all_numb": "87",
+  "cls": "一、常见症状与体征",
+  "unit": "6.呼吸困难",
+  "mode": "单选题-A1型题",
+  "test": "在正常情况下，SaO₂与PaO₂存在一定的相关性，当SaO₂＜90%时，PaO₂的值常低于",
+  "option": [
+    "A. 45mmHg",
+    "B. 60mmHg",
+    "C. 25mmHg",
+    "D. 30mmHg",
+    "E. 55mmHg"
+  ],
+  "answer": "B",
+  "nine_point": "",
+  "ten_point": "",
+  "discuss": "正常情况下，SaO₂与PaO₂存在相关性。当SaO₂低于90%时，通常意味着患者存在低氧血症。根据氧离曲线，在SaO₂为90%时，对应的PaO₂大约是60mmHg。当SaO₂进一步下降时，PaO₂也会相应降低，因此当SaO₂<90%时，PaO₂的值常低于60mmHg（B对）。",
+  "last_update": "2026-9-11"
+}

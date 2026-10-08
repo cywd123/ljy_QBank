@@ -1,0 +1,22 @@
+{
+  "name": "2026-10-07-13-57-40-657",
+  "version": "1.1.0",
+  "numb": "57",
+  "all_numb": "60",
+  "cls": "本专业相关基础理论知识",
+  "unit": "2.呼吸系统",
+  "mode": "单选题-A1型题",
+  "test": "Ⅱ型呼吸衰竭是指",
+  "option": [
+    "A. PCO₂＞50mmHg，PO₂＞60mmHg",
+    "B. PCO₂＞50mmHg，PO₂＜60mmHg",
+    "C. PCO₂＜50mmHg，PO₂＞60mmHg",
+    "D. PCO₂＜50mmHg，PO₂＜60mmHg",
+    "E. 以上都不对"
+  ],
+  "answer": "B",
+  "nine_point": "",
+  "ten_point": "（10版病理生理学P195）“呼吸衰竭根据动脉血气特点可以分为：Ⅰ型呼吸衰竭，即低氧血症型呼吸衰竭（hypoxemic respiratory failure），血气特点为 PaO2< 60mmHg，PaCO2降低或正常；Ⅱ型呼吸衰竭，即高碳酸血症型呼吸衰竭（hypercapnic respiratory failure），血气特点为 PaO2< 60mmHg，同时伴有 PaCO2> 50mmHg”（B对）。",
+  "discuss": "Ⅱ型呼吸衰竭即高碳酸低氧血症型呼吸衰竭，血气分析特点是PaO₂<60mmHg且PaCO₂>50mmHg，在水平面、安静、不吸氧状态下测得动脉血气结果。这种呼吸衰竭主要见于肺通气功能障碍如慢性阻塞性肺疾病，导致二氧化碳排出受阻和氧气交换不足（B对）。",
+  "last_update": "2026-5-6"
+}

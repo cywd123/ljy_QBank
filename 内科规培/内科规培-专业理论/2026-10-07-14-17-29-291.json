@@ -1,0 +1,22 @@
+{
+  "name": "2026-10-07-14-17-29-291",
+  "version": "1.1.0",
+  "numb": "40",
+  "all_numb": "97",
+  "cls": "临床常见疾病",
+  "unit": "11.呼吸系统（急、慢性呼吸衰竭/ARDS）",
+  "mode": "单选题-A1型题",
+  "test": "以下有关Ⅱ型呼衰的说法哪项正确",
+  "option": [
+    "A. PaCO₂＞50mmHg，伴或不伴PaO₂＜60mmHg为Ⅱ型呼衰",
+    "B. PaO₂＜60mmHg，PaCO₂＜50mmHg为Ⅱ型呼衰",
+    "C. PaO₂＞60mmHg，PaCO₂＜50mmHg为Ⅱ型呼衰",
+    "D. PaO₂＞60mmHg，PaCO₂＞50mmHg为Ⅱ型呼衰",
+    "E. PaO₂＜60mmHg为Ⅱ型呼衰"
+  ],
+  "answer": "A",
+  "nine_point": "",
+  "ten_point": "（10版内科学P148）“2. Ⅱ型呼吸衰竭即高碳酸血症性呼吸衰竭，血气分析特点是 PaCO2＞50mmHg、伴或不伴低氧血症”（A对）。",
+  "discuss": "Ⅱ型呼吸衰竭主要由于肺通气功能障碍导致二氧化碳潴留，在海平面、安静状态、不吸氧的情况下，其血气特点为PaCO₂＞50mmHg，伴或不伴PaO₂＜60mmHg，动脉血气分析是诊断的主要依据（A对）。PaO₂＜60mmHg且PaCO₂＜50mmHg或仅PaO₂＜60mmHg均描述I型呼吸衰竭特征（BE错）。PaO₂＞60mmHg时无论PaCO₂水平如何均不满足呼吸衰竭诊断标准（CD错）。",
+  "last_update": "2026-5-6"
+}

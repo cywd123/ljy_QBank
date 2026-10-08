@@ -1,0 +1,22 @@
+{
+  "name": "2026-10-07-14-41-08-225",
+  "version": "1.1.0",
+  "numb": "63",
+  "all_numb": "198",
+  "cls": "临床常见疾病",
+  "unit": "23.消化系统（急性胰腺炎）",
+  "mode": "单选题-A1型题",
+  "test": "下列哪项阳性体征提示为出血性胰腺炎",
+  "option": [
+    "A. Cullen征",
+    "B. Courvoisier征",
+    "C. Murphy征",
+    "D. Babinski征",
+    "E. Oppenheim征"
+  ],
+  "answer": "A",
+  "nine_point": "",
+  "ten_point": "",
+  "discuss": "血液可沿组织间隙流至脐周使脐部呈蓝色，表现为Cullen征（脐周青紫色瘀斑），这是出血性胰腺炎中腹腔内出血的重要体征（A对）。Courvoisier征表现为无痛性黄疸伴胆囊肿大，多见于壶腹部肿瘤或胆总管结石（B错）。Murphy征表现为右上腹压痛及深吸气时疼痛加剧，是急性胆囊炎的典型体征（C错）。Babinski征和Oppenheim征均为神经系统病理反射，用于评估锥体束损伤（DE错）。",
+  "last_update": "2026-3-10"
+}

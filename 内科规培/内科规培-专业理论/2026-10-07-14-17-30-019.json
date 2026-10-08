@@ -1,0 +1,22 @@
+{
+  "name": "2026-10-07-14-17-30-019",
+  "version": "1.1.0",
+  "numb": "42",
+  "all_numb": "97",
+  "cls": "临床常见疾病",
+  "unit": "11.呼吸系统（急、慢性呼吸衰竭/ARDS）",
+  "mode": "单选题-A1型题",
+  "test": "呼吸衰竭定义指",
+  "option": [
+    "A. PaO₂＜50mmHg和PaCO₂＞50mmHg",
+    "B. PaO₂＜50mmHg或伴有PaCO₂＞50mmHg",
+    "C. PaO₂＜60mmHg和（或）PaCO₂＞50mmHg",
+    "D. PaO₂＜60mmHg和PaCO₂＞60mmHg",
+    "E. PaO₂＜60mmHg或伴有PaCO₂＞50mmHg"
+  ],
+  "answer": "E",
+  "nine_point": "",
+  "ten_point": "（10版内科学P148）“呼吸衰竭（respiratory failure）是指原发性肺通气和/或换气功能严重损害，导致低氧血症和/或CO2潴留，并引起一系列生理功能异常和代谢紊乱的临床综合征。呼吸衰竭诊断以动脉血气为客观标准，即海平面、静息状态、呼吸空气条件下动脉血氧分压（PaO2）＜60mmHg或二氧化碳分压（PaCO2）＞50mmHg为呼吸衰竭”（E对）。",
+  "discuss": "呼吸衰竭的血气诊断标准为PaO₂<60mmHg或伴有PaCO₂>50mmHg（E对）。I型呼吸衰竭表现为单纯低氧血症（PaO₂<60mmHg），II型呼吸衰竭表现为低氧血症伴高碳酸血症（PaO₂<60mmHg且PaCO₂>50mmHg）。PaO₂<50mmHg和PaCO₂>50mmHg的标准过于严格（A错）。PaO₂<50mmHg不符合诊断标准（B错）。PaO₂<60mmHg和（或）PaCO₂>50mmHg的表述不准确（C错）。PaCO₂>60mmHg高于诊断标准（D错）。",
+  "last_update": "2026-3-10"
+}

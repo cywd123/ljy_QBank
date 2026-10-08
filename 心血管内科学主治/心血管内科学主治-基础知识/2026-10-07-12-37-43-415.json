@@ -1,0 +1,22 @@
+{
+  "name": "2026-10-07-12-37-43-415",
+  "version": "1.1.0",
+  "numb": "19",
+  "all_numb": "23",
+  "cls": "三、常见疾病的病因、发病机制、病理",
+  "unit": "32.病毒性肝炎",
+  "mode": "单选题-A2型题",
+  "test": "患者，男性，25岁。婚检发现HBsAg（+），复查HBV标志物，说明有明显病毒复制的是",
+  "option": [
+    "A. HBsAg（﹢）、HBeAg（﹣）、抗HBc（﹣）、抗HBe（﹣）、抗HBs（﹣）",
+    "B. HBsAg（﹢）、HBeAg（﹢）、抗HBc（﹢）、抗HBe（﹣）、抗HBs（﹣）",
+    "C. HBsAg（﹢）、HBeAg（﹣）、抗HBc（﹢）、抗HBe（﹣）、抗HBs（﹣）",
+    "D. HBsAg（﹢）、HBeAg（﹣）、抗HBc（﹢）、抗HBe（﹢）、抗HBs（﹣）",
+    "E. HBsAg（﹢）、HBeAg（﹣）、抗HBc（﹣）、抗HBe（﹢）、抗HBs（﹢）"
+  ],
+  "answer": "B",
+  "nine_point": "",
+  "ten_point": "",
+  "discuss": "25岁男性患者婚检时发现HBsAg（+），提示患者为乙肝病毒感染者（HBV感染者均会表达HBsAg）。需要进一步检测其他HBV标志物以明确病毒复制情况。HBsAg（+）、HBeAg（+）、抗HBc（+）、抗HBe（-）、抗HBs（-）说明患者处于乙肝病毒感染的免疫活动期，HBeAg（+）是病毒活跃复制的重要标志（HBeAg阳性表明HBV DNA聚合酶活性强，病毒大量复制），同时抗HBc（+）提示既往或现在有HBV感染（核心抗体阳性表示机体对HBV核心抗原产生免疫应答），此组合标志物能说明有明显病毒复制（B对）。HBsAg（+）、HBeAg（-）、抗HBc（-）、抗HBe（-）、抗HBs（-）中HBeAg（-）且抗HBc（-），提示病毒复制水平较低或者处于非活动性HBsAg携带状态（A错）。HBsAg（+）、HBeAg（-）、抗HBc（+）、抗HBe（-）、抗HBs（-）中的HBeAg（-）提示病毒复制水平相对较低，可能处于病毒低复制期（C错）。HBsAg（+）、HBeAg（-）、抗HBc（+）、抗HBe（+）、抗HBs（-）这种情况多见于乙肝病毒感染恢复期，病毒复制逐渐减弱（D错）。HBsAg（+）、HBeAg（-）、抗HBc（-）抗HBe（+）、抗HBs（+）这种组合较为特殊，可能是急性乙肝病毒感染恢复期或慢性乙肝病毒感染自然缓解期，此时病毒复制不明显（E错）。",
+  "last_update": "2026-9-11"
+}

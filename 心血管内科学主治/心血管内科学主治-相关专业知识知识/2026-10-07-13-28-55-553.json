@@ -1,0 +1,22 @@
+{
+  "name": "2026-10-07-13-28-55-553",
+  "version": "1.1.0",
+  "numb": "28",
+  "all_numb": "119",
+  "cls": "八、传染病",
+  "unit": "1.病毒性肝炎",
+  "mode": "单选题-A1型题",
+  "test": "我国HBsAg的主要亚型是",
+  "option": [
+    "A. adr",
+    "B. and",
+    "C. ayr",
+    "D. adw",
+    "E. ayw"
+  ],
+  "answer": "A",
+  "nine_point": "",
+  "ten_point": "",
+  "discuss": "HBsAg有四种主要血清型：adr、adw、ayr和ayw。我国HBsAg的主要亚型是adr，长江以北以adr占优势，长江以南adr和adw混存（A对）。adw亚型在全国范围内并非主要亚型（D错）。ayr和ayw亚型主要见于特定地区，其中ayw集中于新疆、西藏、内蒙古等少数民族地区（CE错）。and亚型不存在（B错）。",
+  "last_update": "2026-3-10"
+}

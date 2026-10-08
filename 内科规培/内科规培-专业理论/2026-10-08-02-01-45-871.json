@@ -1,0 +1,22 @@
+{
+  "name": "2026-10-08-02-01-45-871",
+  "version": "1.1.0",
+  "numb": "108",
+  "all_numb": "231",
+  "cls": "临床常见疾病",
+  "unit": "45.内分泌系统（甲亢）",
+  "mode": "单选题-A1型题",
+  "test": "引起Graves病最根本的原因是",
+  "option": [
+    "A. 免疫系统功能紊乱和遗传因素引起的TRAb升高",
+    "B. 精神因素刺激",
+    "C. TRH升高",
+    "D. TSH升高",
+    "E. 甲状腺过氧化物酶抗体升高"
+  ],
+  "answer": "A",
+  "nine_point": "",
+  "ten_point": "（10版内科学P686）“Graves病（Graves disease，GD）是一种以体内存在促甲状腺激素受体抗体（thyrotropin receptor antibody，TRAb）为特征的多系统自身免疫病，是甲亢主要病因……【病因和发病机制】 Graves病是在特定的遗传背景下，受环境因素的影响，对 TSH受体（TSHR）产生自身免疫反应的疾病。其发病与 HLA、CTLA-4、PTPN22、CD40、IL-2R、FCRL3、Tg和 TSHR等基因多态性以及染色体失活偏移等有关”。（10版内科学P687）“免疫耐受机制破坏后，TSHRα亚单位激活 B淋巴细胞，B细胞转化为能分泌 TSHR抗体的浆细胞，产生TRAb。TRAb包括三个亚型：甲状腺刺激性抗体（thyroid stimulating antibody，TSAb）、甲状腺阻断性抗体（thyroid blocking antibody，TBAb）和甲状腺中性抗体。TSAb是 Graves病甲亢的致病抗体。TSAb与TSH竞争性地与 TSH受体（TSHR）α亚单位结合，激活腺苷酸环化酶信号系统，导致甲状腺滤泡上皮细胞增生，产生过量的甲状腺激素。TSAb对TSHR的刺激不受下丘脑-垂体-甲状腺轴的负反馈调节，因此导致甲亢。”（A对）。",
+  "discuss": "Graves病是在特定的遗传背景下，受环境因素影响，对TSH受体（TSHR）产生自身免疫反应的疾病，发病机制主要与免疫系统功能紊乱和遗传因素有关，环境因素包括感染、碘摄入量、吸烟、应激、药物和环境毒素等，导致TRAb升高（A对）。TRAb包括甲状腺刺激性抗体（TSAb）、甲状腺阻断性抗体（TBAb）和甲状腺中性抗体，其中TSAb与TSH竞争性地与TSHRα亚单位结合，激活腺苷酸环化酶信号系统，导致甲状腺滤泡上皮细胞增生，产生过量的甲状腺激素，TSAb对TSHR的刺激不受下丘脑-垂体-甲状腺轴的负反馈调节，是Graves病甲亢的致病抗体；TBAb阻断TSH与TSHR的结合，减少甲状腺激素的合成；Graves病患者体内TSAb和TBAb可以相互转化，占优势的抗体决定甲状腺功能。精神因素可能诱发或加重Graves病的症状（B错）。TRH升高与原发性甲状腺功能减退症相关（C错）。TSH升高常见于原发性甲状腺功能减退症，Graves病患者通常表现为TSH水平降低（D错）。甲状腺过氧化物酶抗体（TPOAb）升高多见于桥本甲状腺炎等自身免疫性甲状腺疾病（E错）。",
+  "last_update": "2026-3-10"
+}

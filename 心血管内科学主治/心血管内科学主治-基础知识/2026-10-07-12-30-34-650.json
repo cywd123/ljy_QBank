@@ -1,0 +1,22 @@
+{
+  "name": "2026-10-07-12-30-34-650",
+  "version": "1.1.0",
+  "numb": "131",
+  "all_numb": "142",
+  "cls": "二、体格检查",
+  "unit": "6.腹部检查",
+  "mode": "单选题-B型题",
+  "test": "胰腺癌是",
+  "option": [
+    "A.Grey﹣Turner征",
+    "B.Cullen征",
+    "C.Ewart征",
+    "D.Murphy征",
+    "E.Courvoisier征"
+  ],
+  "answer": "E",
+  "nine_point": "",
+  "ten_point": "",
+  "discuss": "胰头癌压迫或浸润胆总管导致黄疸逐渐加深的同时，胆囊显著肿大但无压痛，称为库瓦西耶征（Courvoisier征），是胰腺癌的典型临床体征（E对）。Grey-Turner征表现为腰部皮肤青紫斑，Cullen征指脐周皮肤青紫斑，两者均常见于急性出血坏死性胰腺炎（AB错）。Ewart征是指胸骨左缘第3-4肋间出现浊音及支气管呼吸音，常见于心包积液（C错）。Murphy征阳性表现为右上腹深压痛伴吸气终止，是急性胆囊炎的典型体征（D错）。",
+  "last_update": "2026-8-28"
+}

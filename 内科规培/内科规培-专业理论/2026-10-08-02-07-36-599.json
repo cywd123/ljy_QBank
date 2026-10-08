@@ -1,0 +1,22 @@
+{
+  "name": "2026-10-08-02-07-36-599",
+  "version": "1.1.0",
+  "numb": "10",
+  "all_numb": "113",
+  "cls": "临床常见疾病",
+  "unit": "52.感染性疾病（病毒性肝炎）",
+  "mode": "单选题-A1型题",
+  "test": "传染性最强的乙型病毒性肝炎指标是",
+  "option": [
+    "A. HBsAg（﹢）、HBeAg（﹣）、HBeAb（﹣）、HBcAb（﹢）、HBsAb（﹣）",
+    "B. HBsAg（﹣）、HBeAg（﹣）、HBeAb（﹢）、HBcAb（﹢）、HBsAb（﹣）",
+    "C. HBsAg（﹢）、HBeAg（﹣）、HBeAb（﹢）、HBcAb（﹢）、HBsAb（﹣）",
+    "D. HBsAg（﹢）、HBeAg（﹢）、HBeAb（﹣）、HBcAb（﹢）、HBsAb（﹣）",
+    "E. 以上都不是"
+  ],
+  "answer": "D",
+  "nine_point": "",
+  "ten_point": "",
+  "discuss": "HBeAg阳性表示乙型肝炎病毒在体内复制活跃，有较强的传染性，因此HBsAg（+）、HBeAg（+）、HBeAb（-）、HBcAb（+）、HBsAb（-）提示传染性最强（D对）。HBsAg（+）、HBeAg（-）、HBeAb（-）、HBcAb（+）、HBsAb（-）表明病毒复制不活跃，传染性较低（A错）。HBeAg阴性和HBeAb阳性表示病毒复制减弱，传染性降低（BC错）。由于D正确，E选项“以上都不是”错误（E错）。",
+  "last_update": "2026-3-10"
+}

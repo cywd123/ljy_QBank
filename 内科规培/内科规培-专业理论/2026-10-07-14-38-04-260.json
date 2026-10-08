@@ -1,0 +1,22 @@
+{
+  "name": "2026-10-07-14-38-04-260",
+  "version": "1.1.0",
+  "numb": "6",
+  "all_numb": "61",
+  "cls": "临床常见疾病",
+  "unit": "21.消化系统（肝炎/脂肪性肝病）",
+  "mode": "单选题-A1型题",
+  "test": "下列符合急性甲肝潜伏期的检测结果是",
+  "option": [
+    "A. TB150μmol/L，DB50.6μmol/L，ALT120U/L，AST80U/L",
+    "B. TB25μmol/L，DB10.6μmol/L，ALT120U/L，AST80U/L",
+    "C. TB150μmol/L，DB66μmol/L，ALT80U/L，AST120U/L",
+    "D. TB15μmol/L，DB12.6μmol/L，ALT120U/L，AST80U/L",
+    "E. TB25μmol/L，DB10.6μmol/L，ALT20U/L，AST18U/L"
+  ],
+  "answer": "B",
+  "nine_point": "（9版内科学P388）“1.甲型肝炎病毒（HAV）为RNA病毒，通过粪-口途径由不洁食物、饮水等传播，潜伏期2～6周，以儿童和青年多见”（B对）。",
+  "ten_point": "",
+  "discuss": "急性甲型肝炎潜伏期，患者可能出现ALT和AST显著升高，总胆红素（TB）和直接胆红素（DB）水平正常或轻度升高。选项B中TB25μmol/L，DB10.6μmol/L，ALT120U/L，AST80U/L符合这一特征（B对）。选项A和C中TB150μmol/L和DB分别为50.6μmol/L、66μmol/L，表明胆红素水平显著升高（AC错）。选项D中TB15μmol/L和DB12.6μmol/L显示胆红素水平在正常范围内，急性甲肝潜伏期更常见胆红素轻度升高（D错）。选项E中TB25μmol/L，DB10.6μmol/L符合胆红素轻度升高，ALT20U/L和AST18U/L显示转氨酶水平正常（E错）。",
+  "last_update": "2026-3-10"
+}

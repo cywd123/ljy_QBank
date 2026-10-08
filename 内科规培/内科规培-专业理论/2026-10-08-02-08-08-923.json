@@ -1,0 +1,22 @@
+{
+  "name": "2026-10-08-02-08-08-923",
+  "version": "1.1.0",
+  "numb": "97",
+  "all_numb": "113",
+  "cls": "临床常见疾病",
+  "unit": "52.感染性疾病（病毒性肝炎）",
+  "mode": "单选题-B型题",
+  "test": "说明HBV感染已愈的指标是",
+  "option": [
+    "A.HBsAg（﹢）HBeAg（﹣）HBV﹣DNA（﹣）",
+    "B.HBsAg（﹢）HBeAg（﹢）HBV﹣DNA（﹢）",
+    "C.HBsAg（﹣）抗HBs（﹢）抗HBc（﹢）",
+    "D.HBsAg（﹢）HBeAg（﹣）抗HBc（﹢）",
+    "E.HBsAg（﹢）HBeAg（﹣）HBV﹣DNA（﹢）"
+  ],
+  "answer": "C",
+  "nine_point": "",
+  "ten_point": "",
+  "discuss": "HBV感染已愈的指标是HBsAg阴性、抗-HBs阳性及抗-HBc阳性（C对）。HBsAg阴性表示病毒已被清除，抗-HBs阳性表明机体对HBV产生了免疫力，抗-HBc阳性提示曾经感染过HBV。选项A的HBsAg阳性表示HBV感染存在，HBeAg阴性和HBV-DNA阴性仅提示病毒复制减弱（A错）。选项B的HBsAg阳性、HBeAg阳性和HBV-DNA阳性提示病毒在体内活跃复制（B错）。选项D的HBsAg阳性表示感染未愈，HBeAg阴性和抗-HBc阳性不足以单独作为治愈标志（D错）。选项E的HBsAg阳性和HBV-DNA阳性均提示病毒复制（E错）。",
+  "last_update": "2026-3-10"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "2026-10-08-02-04-48-100",
+  "version": "1.1.0",
+  "numb": "12",
+  "all_numb": "138",
+  "cls": "临床常见疾病",
+  "unit": "49.风湿免疫病（类风湿关节炎）",
+  "mode": "单选题-A1型题",
+  "test": "RF常见的类型是",
+  "option": [
+    "A. IgG",
+    "B. IgA",
+    "C. IgM",
+    "D. IgD",
+    "E. IgE"
+  ],
+  "answer": "C",
+  "nine_point": "",
+  "ten_point": "（10版内科学P816）“1.类风湿因子（RF）是 RA患者血清中针对 IgG Fc片段上抗原表位的一类自身抗体，可分为IgM、IgG和 IgA型。常规检测的为 IgM型 RF，在 RA患者中阳性率为75%～80%”（C对）。",
+  "discuss": "类风湿因子（RF）是变性IgG刺激机体产生的一种自身抗体，主要存在于类风湿关节炎患者的血清和关节液内。RF可分为IgM、IgG、IgA、IgD和IgE型，常规检测针对IgM型RF，在类风湿关节炎患者中阳性率为75%～80%，与疾病活动度及骨质破坏程度相关（C对）。RF还存在IgG、IgA、IgD和IgE型（ABDE错）。",
+  "last_update": "2026-3-10"
+}

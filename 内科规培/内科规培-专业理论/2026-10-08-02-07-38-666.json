@@ -1,0 +1,22 @@
+{
+  "name": "2026-10-08-02-07-38-666",
+  "version": "1.1.0",
+  "numb": "16",
+  "all_numb": "113",
+  "cls": "临床常见疾病",
+  "unit": "52.感染性疾病（病毒性肝炎）",
+  "mode": "单选题-A1型题",
+  "test": "HBV在复制过程中，下列哪种产物是HBV在体内长期存在难以被清除的主要原因",
+  "option": [
+    "A. HBsAg",
+    "B. HBV﹣DNA",
+    "C. mRNA",
+    "D. cccDNA",
+    "E. HBxAg"
+  ],
+  "answer": "D",
+  "nine_point": "",
+  "ten_point": "",
+  "discuss": "HBV DNA进入细胞核后，在HBV DNA聚合酶和宿主来源因子作用下补全基因组DNA双链缺口，形成超螺旋的共价闭合环状DNA（cccDNA），此DNA结构稳定且难以从体内彻底清除，是导致慢性感染的重要机制之一。cccDNA可作为模板持续转录前基因组mRNA（pgRNA），后者在胞质中作为模板合成负链DNA和正链DNA，形成完整的HBV DNA。前基因组RNA可释放入外周血，血清HBV RNA被认为与肝细胞内cccDNA转录活性直接相关（D对）。HBsAg由2.1kb mRNA编码S蛋白形成（A错）。HBV-DNA是病毒基因组的一部分，在复制过程中参与形成完整的病毒基因组（B错）。mRNA包括亚基因组RNA和前基因组RNA，参与病毒蛋白的合成（C错）。HBxAg由0.7kb mRNA编码（E错）。",
+  "last_update": "2026-3-10"
+}

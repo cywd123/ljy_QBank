@@ -1,0 +1,22 @@
+{
+  "name": "2026-10-07-13-55-41-975",
+  "version": "1.1.0",
+  "numb": "1",
+  "all_numb": "74",
+  "cls": "本专业基本理论知识",
+  "unit": "7.风湿免疫病",
+  "mode": "单选题-A1型题",
+  "test": "血清阴性脊柱关节病不包括下列哪项疾病",
+  "option": [
+    "A. Reiter综合征",
+    "B. 强直性脊柱炎",
+    "C. 银屑病关节炎",
+    "D. Felty综合征",
+    "E. 炎性肠病性关节炎"
+  ],
+  "answer": "D",
+  "nine_point": "",
+  "ten_point": "（10版内科学P831）“脊柱关节炎（spondyloarthritis，SpA），过去曾称血清阴性脊柱关节病（seronegative spondylo arthropathy）或脊柱关节病（spondyloarthropathy），是一组主要累及脊柱和/或外周关节的慢性炎症性疾病……包括强直性脊柱炎（ankylosing spondylitis，AS）、银屑病关节炎（psoriatic arthritis，PsA）、反应性关节炎（reactive arthritis， ReA）、炎症性肠病关节炎（inflammatory bowel disease arthritis，IBDA）及幼年型脊柱关节炎（juvenile-onset spondyloarthritis）”。（10版内科学P816）“Felty综合征是指 RA患者伴有脾大、中性粒细胞减少，有的患者会伴有贫血和血小板减少。”（D对）。",
+  "discuss": "Felty综合征是一种与类风湿关节炎相关的并发症，表现为脾大、中性粒细胞减少和反复感染，不属于血清阴性脊柱关节病的范畴（D对，为本题正确答案）。血清阴性脊柱关节病是一组主要累及脊柱和/或外周关节的慢性炎症性疾病，可伴肌腱端炎、指/趾炎、前葡萄膜炎等临床表现，包括强直性脊柱炎（主要累及中轴关节，HLA-B27阳性）、银屑病关节炎（与皮肤银屑病相关）、反应性关节炎（Reiter综合征，表现为尿道炎、结膜炎和关节炎三联征）及炎症性肠病关节炎（与克罗恩病和溃疡性结肠炎相关）（ABCE错）。",
+  "last_update": "2026-3-10"
+}

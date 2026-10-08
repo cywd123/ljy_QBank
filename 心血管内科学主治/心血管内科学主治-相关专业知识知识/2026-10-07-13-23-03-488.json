@@ -1,0 +1,22 @@
+{
+  "name": "2026-10-07-13-23-03-488",
+  "version": "1.1.0",
+  "numb": "48",
+  "all_numb": "323",
+  "cls": "六、内分泌学",
+  "unit": "1.糖尿病",
+  "mode": "单选题-A1型题",
+  "test": "以下哪项符合IFG的诊断",
+  "option": [
+    "A. 空腹血糖6.7mmol/L，OGTT2小时血糖8.0mmol/L",
+    "B. 空腹血糖6.7mmol/L，OGTT2小时血糖7.1mmol/L",
+    "C. 空腹血糖7.1mmol/L，OGTT2小时血糖11.1mmol/L",
+    "D. 空腹血糖7.1mmol/L，OGTT2小时血糖7.4mmol/L",
+    "E. 空腹血糖6.0mmol/L，OGTT2小时血糖6.8mmol/L"
+  ],
+  "answer": "B",
+  "nine_point": "",
+  "ten_point": "",
+  "discuss": "空腹血糖受损（IFG）诊断标准为空腹血糖6.1–7.0 mmol/L且OGTT 2小时血糖<7.8 mmol/L。选项B空腹血糖6.7 mmol/L在范围内，OGTT 2小时血糖7.1 mmol/L<7.8 mmol/L，符合IFG（B对）。选项A空腹血糖6.7 mmol/L在范围内，OGTT 2小时血糖8.0 mmol/L≥7.8 mmol/L，符合糖耐量减低（IGT）标准（A错）。选项C空腹血糖7.1 mmol/L≥7.0 mmol/L，OGTT 2小时血糖11.1 mmol/L≥11.1 mmol/L，达到糖尿病诊断标准（C错）。选项E空腹血糖6.0 mmol/L<6.1 mmol/L，OGTT 2小时血糖6.8 mmol/L<7.8 mmol/L，属于正常糖代谢（E错）。",
+  "last_update": "2026-9-11"
+}

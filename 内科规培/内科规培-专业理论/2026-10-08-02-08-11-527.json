@@ -1,0 +1,22 @@
+{
+  "name": "2026-10-08-02-08-11-527",
+  "version": "1.1.0",
+  "numb": "103",
+  "all_numb": "113",
+  "cls": "临床常见疾病",
+  "unit": "52.感染性疾病（病毒性肝炎）",
+  "mode": "单选题-B型题",
+  "test": "HBeAg的编码区是",
+  "option": [
+    "A.S区",
+    "B.C区",
+    "C.P区",
+    "D.X区",
+    "E.前S区"
+  ],
+  "answer": "B",
+  "nine_point": "",
+  "ten_point": "（10版内科学P403）“HBV感染相关的血清学标志物包括 HBsAg、抗-HBs抗体、HBeAg、抗-HBe抗体、抗-HBc抗体和抗 HBc-IgM”（B对）。",
+  "discuss": "C区由前C基因和C基因组成，前C基因开始编码（含前C基因和C基因）的蛋白质经加工后分泌到细胞外即为HBeAg，因此HBeAg的编码区是C区（B对）。S区包括前S1、前S2及S三个编码区，分别编码前S1蛋白（pre-S1）、前S2蛋白（pre-S2）及HBsAg（AE错）。P区是最长的读码框，编码具有反转录酶活性的DNA聚合酶、RNA酶H等参与HBV复制的功能蛋白（C错）。X区编码X蛋白（HBxAg），具有反式激活作用（transactivation），可激活HBV本身及其他病毒或细胞的多种调控基因，促进HBV复制（D错）。",
+  "last_update": "2026-5-6"
+}

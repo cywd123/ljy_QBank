@@ -1,0 +1,22 @@
+{
+  "name": "2026-10-07-13-57-41-408",
+  "version": "1.1.0",
+  "numb": "59",
+  "all_numb": "60",
+  "cls": "本专业相关基础理论知识",
+  "unit": "2.呼吸系统",
+  "mode": "单选题-B型题",
+  "test": "符合换气功能障碍所致呼吸衰竭的动脉血气标准是",
+  "option": [
+    "A.PaO₂为70mmHg，PaCO₂为45mmHg",
+    "B.PaO₂为70mmHg，PaCO₂为40mmHg",
+    "C.PaO₂为55mmHg，PaCO₂为60mmHg",
+    "D.PaO₂为50mmHg，PaCO₂为40mmHg",
+    "E.PaO₂为65mmHg，PaCO₂为40mmHg"
+  ],
+  "answer": "D",
+  "nine_point": "",
+  "ten_point": "",
+  "discuss": "换气功能障碍所致呼吸衰竭即I型呼吸衰竭，定义为PaO₂<60mmHg且PaCO₂正常或<35mmHg（PaCO₂正常范围为35-45mmHg）。选项D中PaO₂=50mmHg<60，PaCO₂=40mmHg在正常范围，符合I型呼吸衰竭标准（D对）。选项C中PaO₂=55mmHg<60，PaCO₂=60mmHg>50，符合II型呼吸衰竭（通气功能衰竭）特征（C错）。选项A、B、E中PaO₂分别为70mmHg、70mmHg、65mmHg，均≥60mmHg，不符合呼吸衰竭定义（ABE错）。",
+  "last_update": "2026-5-8"
+}

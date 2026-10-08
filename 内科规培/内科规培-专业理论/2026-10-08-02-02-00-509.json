@@ -1,0 +1,22 @@
+{
+  "name": "2026-10-08-02-02-00-509",
+  "version": "1.1.0",
+  "numb": "147",
+  "all_numb": "231",
+  "cls": "临床常见疾病",
+  "unit": "45.内分泌系统（甲亢）",
+  "mode": "单选题-A2型题",
+  "test": "患者女性，23岁，有甲亢病史，准备怀孕，请问孕前应检查",
+  "option": [
+    "A. TRAb、TGAb",
+    "B. T₃、T₄、TSH、TGAb",
+    "C. T₃、T₄、TSH",
+    "D. TSH、TRAb、TGAb",
+    "E. T₃、T₄、TSH、TRAb"
+  ],
+  "answer": "E",
+  "nine_point": "",
+  "ten_point": "（10版内科学P690）“未经治疗的 GD患者，血 TRAb阳性率可达 80%～100%，是鉴别甲亢病因、诊断 GD的指标之一，对判断病情活动、治疗后是否停药、停药后是否复发有指导作用。”  （E对）。",
+  "discuss": "患者女性23岁，有甲亢病史，准备怀孕，孕前应检查T₃、T₄、TSH和TRAb。T₃、T₄反映甲状腺激素水平，TSH反映垂体-甲状腺轴调节功能。TRAb是Graves病的关键自身抗体，可穿过胎盘影响胎儿甲状腺功能，导致新生儿甲亢（E对）。选项A仅包括TRAb和TGAb（A错）。选项B包括T₃、T₄、TSH和TGAb（B错）。选项C仅包括T₃、T₄、TSH（C错）。选项D包括TSH、TRAb和TGAb（D错）。",
+  "last_update": "2026-5-6"
+}

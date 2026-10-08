@@ -1,0 +1,22 @@
+{
+  "name": "2026-10-07-14-45-43-159",
+  "version": "1.1.0",
+  "numb": "69",
+  "all_numb": "252",
+  "cls": "临床常见疾病",
+  "unit": "27.消化系统（消化系统恶性肿瘤）",
+  "mode": "单选题-A1型题",
+  "test": "晚期胃癌常转移到左锁骨上淋巴结，后者又称",
+  "option": [
+    "A. Hodgkin淋巴结",
+    "B. Aschoff淋巴结",
+    "C. Virchow淋巴结",
+    "D. Ewing淋巴结",
+    "E. Krukenberg淋巴结"
+  ],
+  "answer": "C",
+  "nine_point": "",
+  "ten_point": "",
+  "discuss": "胃癌晚期可经胸导管转移至左锁骨上淋巴结，后者称为Virchow淋巴结（C对）。Hodgkin淋巴结与霍奇金淋巴瘤相关（A错）。Aschoff淋巴结与风湿性心脏病中的Aschoff小体有关（B错）。Ewing淋巴结不是标准的医学术语（D错）。Krukenberg瘤指胃癌细胞种植性转移到卵巢形成的转移性黏液腺癌（E错）。",
+  "last_update": "2026-3-10"
+}

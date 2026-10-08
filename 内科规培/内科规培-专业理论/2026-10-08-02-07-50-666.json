@@ -1,0 +1,22 @@
+{
+  "name": "2026-10-08-02-07-50-666",
+  "version": "1.1.0",
+  "numb": "51",
+  "all_numb": "113",
+  "cls": "临床常见疾病",
+  "unit": "52.感染性疾病（病毒性肝炎）",
+  "mode": "单选题-A1型题",
+  "test": "我国HBsAg的主要亚型是",
+  "option": [
+    "A. adr",
+    "B. and",
+    "C. ayr",
+    "D. adw",
+    "E. ayw"
+  ],
+  "answer": "A",
+  "nine_point": "",
+  "ten_point": "（10版传染病学P28）“HBsAg为小分子蛋白或主蛋白；pre­S2与 HBsAg合称为中分子蛋白；三者合称为大分子蛋白。前 S蛋白有很强的免疫原性。HBsAg的抗原性较复杂，有一个属特异性的共同抗原决定簇‘a’和至少两个亚型决定簇‘d/y’和‘w/r’，据此将 HBsAg分为 10个亚型，其中两个为混合亚型，主要亚型是adw、adr、ayw和 ayr。各地区的亚型分布有所不同，我国长江以北以 adr占优势，长江以南 adr和 adw混存”（A对）。",
+  "discuss": "HBsAg有四种主要血清型：adr、adw、ayr和ayw。我国HBsAg的主要亚型是adr，长江以北以adr占优势，长江以南adr和adw混存（A对）。adw亚型在全国范围内并非主要亚型（D错）。ayr和ayw亚型主要见于特定地区，其中ayw集中于新疆、西藏、内蒙古等少数民族地区（CE错）。and亚型不存在（B错）。",
+  "last_update": "2026-3-10"
+}

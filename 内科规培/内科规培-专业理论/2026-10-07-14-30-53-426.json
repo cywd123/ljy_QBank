@@ -1,0 +1,22 @@
+{
+  "name": "2026-10-07-14-30-53-426",
+  "version": "1.1.0",
+  "numb": "28",
+  "all_numb": "128",
+  "cls": "临床常见疾病",
+  "unit": "14.呼吸系统（支气管肺癌）",
+  "mode": "单选题-A1型题",
+  "test": "治疗肺腺癌的分子靶向药物除外下列哪项",
+  "option": [
+    "A. 吉非替尼",
+    "B. 埃克替尼",
+    "C. 奥希替尼（AZD9291）",
+    "D. 培美曲塞",
+    "E. 克唑替尼"
+  ],
+  "answer": "D",
+  "nine_point": "",
+  "ten_point": "（10版内科学P96）“目前靶向治疗主要应用于非小细胞肺癌中的腺癌病人，例如以 EGFR突变阳性为靶点EGFR-酪氨酸激酶抑制剂（EGFR-TKI）的厄洛替尼（erlotinib）、吉非替尼（gefitinib）、阿法替尼（afatinib）、奥希替尼（osimertinib）、阿美替尼（almonertinib），ALK重排阳性为靶点的克唑替尼（crizotinib）、艾乐替尼（alectinib）、色瑞替尼（ceritinib）、洛拉替尼（loratinib）、恩沙替尼（ensartinib）等”。（D错，为本题正确答案）。",
+  "discuss": "培美曲塞是一种化疗药物，主要用于治疗非小细胞肺癌和恶性胸膜间皮瘤，而不是分子靶向药物（D错，为本题正确答案）。吉非替尼、埃克替尼和奥希替尼（AZD9291）都是EGFR酪氨酸激酶抑制剂，适用于EGFR突变阳性的非小细胞肺癌患者（ABC对）。克唑替尼是一种ALK和MET抑制剂，适用于ALK或ROS1重排阳性的非小细胞肺癌患者（E对）。",
+  "last_update": "2026-5-6"
+}
